@@ -891,7 +891,7 @@ DC3.0sc08	.	exon	5553637	5553693	.	+	.	Parent=0d5d7745-429d-4567-bead-bbbc77cf92
 DC3.0sc08	.	exon	5558612	5559263	.	+	.	Parent=0d5d7745-429d-4567-bead-bbbc77cf92cf;ID=ceaaa77a-8b67-4178-bcb7-0cf2ce53ac40;Name=ceaaa77a-8b67-4178-bcb7-0cf2ce53ac40
 ###
 DC3.0sc08	.	gene	4020857	4028405	.	-	.	owner=douglasharper711@gmail.com;ID=95922d0a-7ffa-4d6e-a0ca-534c7302d462;date_last_modified=2021-08-26;Name=Dcitr08g02760.1.1;date_creation=2021-08-26
-DC3.0sc08	.	mRNA	4020857	4028405	.	-	.	owner=douglasharper711@gmail.com;Parent=95922d0a-7ffa-4d6e-a0ca-534c7302d462;description=Phosphoenolpyruvate carboxykinase 2;ID=8628ee2d-641d-448f-a080-2f6520370870;orig_id=Dcitr08g02760.1.1;date_last_modified=2021-08-26;Name=Dcitr08g02760.1.1-00001;date_creation=2021-08-26
+DC3.0sc08	.	mRNA	4020857	4028405	.	-	.	owner=douglasharper711@gmail.com;Parent=95922d0a-7ffa-4d6e-a0ca-534c7302d462;description=Phosphoenolpyruvate carboxykinase 2;ID=8628ee2d-641d-448f-a080-2f6520370870;orig_id=Dcitr08g02760.1.1;date_last_modified=2021-08-26;Name=Dcitr08g02760.1.1;date_creation=2021-08-26
 DC3.0sc08	.	exon	4022189	4022387	.	-	.	Parent=8628ee2d-641d-448f-a080-2f6520370870;ID=10727402-7ec9-48bd-aee0-8c3583fbb3d3;Name=10727402-7ec9-48bd-aee0-8c3583fbb3d3
 DC3.0sc08	.	exon	4024757	4024970	.	-	.	Parent=8628ee2d-641d-448f-a080-2f6520370870;ID=5f1e240f-4e7e-4fc5-bd0a-7e45b63ffb83;Name=5f1e240f-4e7e-4fc5-bd0a-7e45b63ffb83
 DC3.0sc08	.	exon	4021713	4021865	.	-	.	Parent=8628ee2d-641d-448f-a080-2f6520370870;ID=565d5cef-7e6c-4e7c-9cbe-33cbc37235bd;Name=565d5cef-7e6c-4e7c-9cbe-33cbc37235bd
@@ -1016,7 +1016,7 @@ DC3.0sc05	.	exon	12235155	12235319	.	+	.	Parent=2c2faeab-edb5-41ae-849a-20a95f7f
 DC3.0sc05	.	exon	12229463	12229558	.	+	.	Parent=2c2faeab-edb5-41ae-849a-20a95f7f3ca2;ID=3d26b583-7fda-4a09-a9c8-ca96b2c06280;Name=3d26b583-7fda-4a09-a9c8-ca96b2c06280
 ###
 DC3.0sc05	.	gene	23626967	23632357	.	-	.	owner=douglasharper711@gmail.com;ID=ad2edeba-e6a9-4d22-a695-3dfdec4c88b0;date_last_modified=2021-08-26;Name=Dcitr05g10240.1.1;date_creation=2021-08-26
-DC3.0sc05	.	mRNA	23626967	23632357	.	-	.	owner=douglasharper711@gmail.com;Parent=ad2edeba-e6a9-4d22-a695-3dfdec4c88b0;description=Phosphoenolpyruvate carboxykinase 1;ID=e59eb4c5-e73a-4807-9002-01ae876e41c7;orig_id=Dcitr05g10240.1.1;date_last_modified=2021-08-26;Name=Dcitr05g10240.1.1-00001;date_creation=2021-08-26
+DC3.0sc05	.	mRNA	23626967	23632357	.	-	.	owner=douglasharper711@gmail.com;Parent=ad2edeba-e6a9-4d22-a695-3dfdec4c88b0;description=Phosphoenolpyruvate carboxykinase 1;ID=e59eb4c5-e73a-4807-9002-01ae876e41c7;orig_id=Dcitr05g10240.1.1;date_last_modified=2021-08-26;Name=Dcitr05g10240.1.1;date_creation=2021-08-26
 DC3.0sc05	.	exon	23626967	23629611	.	-	.	Parent=e59eb4c5-e73a-4807-9002-01ae876e41c7;ID=cdeb4504-37ce-4d30-8d9f-f91937f371fc;Name=cdeb4504-37ce-4d30-8d9f-f91937f371fc
 DC3.0sc05	.	exon	23632171	23632357	.	-	.	Parent=e59eb4c5-e73a-4807-9002-01ae876e41c7;ID=5939a495-caf9-4771-86e6-1e562f3e7fb5;Name=5939a495-caf9-4771-86e6-1e562f3e7fb5
 DC3.0sc05	.	CDS	23632171	23632229	.	-	0	Parent=e59eb4c5-e73a-4807-9002-01ae876e41c7;ID=3f18e5c4-17a0-4017-a2a7-e48ac23a86a8;Name=3f18e5c4-17a0-4017-a2a7-e48ac23a86a8
@@ -1877,7 +1877,7 @@ DC3.0sc03	.	CDS	43419968	43420055	.	-	1	Parent=86faa24b-250c-4b4d-a92e-756562145
 DC3.0sc03	.	CDS	43419646	43419669	.	-	0	Parent=86faa24b-250c-4b4d-a92e-7565621458ef;ID=45756730-e8be-4578-8778-3c68a0febf93;Name=45756730-e8be-4578-8778-3c68a0febf93
 ###
 DC3.0sc03	.	gene	42614617	42630893	.	+	.	owner=douglasharper711@gmail.com;description=Hexokinase Type 2-2;ID=48c32c88-8038-428a-ad34-c5caf51686d4;date_last_modified=2021-08-26;Name=Dcitr03g19430.1.1;date_creation=2021-08-26
-DC3.0sc03	.	mRNA	42614617	42630893	.	+	.	owner=douglasharper711@gmail.com;Parent=48c32c88-8038-428a-ad34-c5caf51686d4;description=Hexokinase Type 2-2;ID=03504cca-bcab-46a5-8dcd-7d3fd52c3f02;orig_id=Dcitr03g19430.1.1;date_last_modified=2021-08-26;Name=Dcitr03g19430.1.1-00001;date_creation=2021-08-26
+DC3.0sc03	.	mRNA	42614617	42630893	.	+	.	owner=douglasharper711@gmail.com;Parent=48c32c88-8038-428a-ad34-c5caf51686d4;description=Hexokinase Type 2-2;ID=03504cca-bcab-46a5-8dcd-7d3fd52c3f02;orig_id=Dcitr03g19430.1.1;date_last_modified=2021-08-26;Name=Dcitr03g19430.1.1;date_creation=2021-08-26
 DC3.0sc03	.	exon	42614617	42614895	.	+	.	Parent=03504cca-bcab-46a5-8dcd-7d3fd52c3f02;ID=e94cf042-39cd-4193-8f73-06aeb2c600fe;Name=e94cf042-39cd-4193-8f73-06aeb2c600fe
 DC3.0sc03	.	exon	42624744	42625033	.	+	.	Parent=03504cca-bcab-46a5-8dcd-7d3fd52c3f02;ID=c75d6ee3-a2ba-43b9-ac75-1be92aad695d;Name=c75d6ee3-a2ba-43b9-ac75-1be92aad695d
 DC3.0sc03	.	exon	42623057	42623196	.	+	.	Parent=03504cca-bcab-46a5-8dcd-7d3fd52c3f02;ID=74884686-5b7d-4460-ab56-46ae0ee4302a;Name=74884686-5b7d-4460-ab56-46ae0ee4302a
@@ -1896,7 +1896,7 @@ DC3.0sc03	.	exon	42625778	42625933	.	+	.	Parent=03504cca-bcab-46a5-8dcd-7d3fd52c
 DC3.0sc03	.	exon	42629544	42629820	.	+	.	Parent=03504cca-bcab-46a5-8dcd-7d3fd52c3f02;ID=28655380-5898-43f9-bb95-1673eca173b4;Name=28655380-5898-43f9-bb95-1673eca173b4
 ###
 DC3.0sc03	.	gene	38970817	38973059	.	+	.	owner=douglasharper711@gmail.com;ID=39402d57-383d-42e9-8e00-cee3a397fc6b;date_last_modified=2021-08-26;Name=Dcitr03g17850.1.1;date_creation=2021-08-26
-DC3.0sc03	.	mRNA	38970817	38973059	.	+	.	owner=douglasharper711@gmail.com;Parent=39402d57-383d-42e9-8e00-cee3a397fc6b;description= Phosphoglycerate mutase 2;ID=f092d835-3124-45dc-8754-fe360a95a293;orig_id=Dcitr03g17850.1.1;date_last_modified=2021-08-26;Name=Dcitr03g17850.1.1-00001;date_creation=2021-08-26
+DC3.0sc03	.	mRNA	38970817	38973059	.	+	.	owner=douglasharper711@gmail.com;Parent=39402d57-383d-42e9-8e00-cee3a397fc6b;description= Phosphoglycerate mutase 2;ID=f092d835-3124-45dc-8754-fe360a95a293;orig_id=Dcitr03g17850.1.1;date_last_modified=2021-08-26;Name=Dcitr03g17850.1.1;date_creation=2021-08-26
 DC3.0sc03	.	exon	38971976	38972240	.	+	.	Parent=f092d835-3124-45dc-8754-fe360a95a293;ID=e4e57c67-d6c0-4695-a9a2-b023741522b0;Name=e4e57c67-d6c0-4695-a9a2-b023741522b0
 DC3.0sc03	.	exon	38971360	38971592	.	+	.	Parent=f092d835-3124-45dc-8754-fe360a95a293;ID=51aa13ac-65c9-4280-9480-4d70f9e1dc16;Name=51aa13ac-65c9-4280-9480-4d70f9e1dc16
 DC3.0sc03	.	exon	38972568	38973059	.	+	.	Parent=f092d835-3124-45dc-8754-fe360a95a293;ID=40a9b16e-459f-4bcb-b640-9cd7321e409d;Name=40a9b16e-459f-4bcb-b640-9cd7321e409d
@@ -2190,7 +2190,7 @@ DC3.0sc04	.	exon	21308228	21309513	.	+	.	Parent=2be6a179-93fd-4213-8481-d06927b0
 DC3.0sc04	.	CDS	21308329	21309009	.	+	0	Parent=2be6a179-93fd-4213-8481-d06927b00abc;ID=2be6a179-93fd-4213-8481-d06927b00abc-CDS;Name=2be6a179-93fd-4213-8481-d06927b00abc-CDS
 ###
 DC3.0sc04	.	gene	4585580	4589539	.	+	.	owner=douglasharper711@gmail.com;ID=769db420-ca00-4b0e-b372-a321a9616936;date_last_modified=2021-08-26;Name=Dcitr04g02510.1.1;date_creation=2021-08-26
-DC3.0sc04	.	mRNA	4585580	4589539	.	+	.	owner=douglasharper711@gmail.com;Parent=769db420-ca00-4b0e-b372-a321a9616936;description=Fructose-bisphosphate aldolase 1;ID=344c2af1-a653-4d2f-abf6-3e55a56b00b8;orig_id=Dcitr04g02510.1.1;date_last_modified=2021-08-26;Name=Dcitr04g02510.1.1-00001;date_creation=2021-08-26
+DC3.0sc04	.	mRNA	4585580	4589539	.	+	.	owner=douglasharper711@gmail.com;Parent=769db420-ca00-4b0e-b372-a321a9616936;description=Fructose-bisphosphate aldolase 1;ID=344c2af1-a653-4d2f-abf6-3e55a56b00b8;orig_id=Dcitr04g02510.1.1;date_last_modified=2021-08-26;Name=Dcitr04g02510.1.1;date_creation=2021-08-26
 DC3.0sc04	.	exon	4586938	4587156	.	+	.	Parent=344c2af1-a653-4d2f-abf6-3e55a56b00b8;ID=477f2208-7f2a-4720-9e73-8db1dea4374c;Name=477f2208-7f2a-4720-9e73-8db1dea4374c
 DC3.0sc04	.	exon	4585580	4586294	.	+	.	Parent=344c2af1-a653-4d2f-abf6-3e55a56b00b8;ID=d59f653f-e6ea-4048-9f5b-12bc2eaca33d;Name=d59f653f-e6ea-4048-9f5b-12bc2eaca33d
 DC3.0sc04	.	exon	4587703	4588010	.	+	.	Parent=344c2af1-a653-4d2f-abf6-3e55a56b00b8;ID=66485663-87e6-4b64-a578-6b0a51968cf7;Name=66485663-87e6-4b64-a578-6b0a51968cf7
@@ -2203,7 +2203,7 @@ DC3.0sc04	.	CDS	4589151	4589497	.	+	2	Parent=344c2af1-a653-4d2f-abf6-3e55a56b00b
 DC3.0sc04	.	exon	4589151	4589539	.	+	.	Parent=344c2af1-a653-4d2f-abf6-3e55a56b00b8;ID=4266794e-de5f-4bf3-a08d-0e0e7f56fc24;Name=4266794e-de5f-4bf3-a08d-0e0e7f56fc24
 ###
 DC3.0sc04	.	gene	22106572	22111412	.	+	.	owner=douglasharper711@gmail.com;ID=85be4914-842f-4902-97a4-832d0564cc94;date_last_modified=2021-08-26;Name=Dcitr04g09830.1.1;date_creation=2021-08-26
-DC3.0sc04	.	mRNA	22106572	22111412	.	+	.	owner=douglasharper711@gmail.com;Parent=85be4914-842f-4902-97a4-832d0564cc94;description=Aldose 1-epimerase 1;ID=fde70028-afb8-4a69-ba48-286c9994116e;orig_id=Dcitr04g09830.1.1;date_last_modified=2021-08-26;Name=Dcitr04g09830.1.1-00001;date_creation=2021-08-26
+DC3.0sc04	.	mRNA	22106572	22111412	.	+	.	owner=douglasharper711@gmail.com;Parent=85be4914-842f-4902-97a4-832d0564cc94;description=Aldose 1-epimerase 1;ID=fde70028-afb8-4a69-ba48-286c9994116e;orig_id=Dcitr04g09830.1.1;date_last_modified=2021-08-26;Name=Dcitr04g09830.1.1;date_creation=2021-08-26
 DC3.0sc04	.	exon	22106572	22107034	.	+	.	Parent=fde70028-afb8-4a69-ba48-286c9994116e;ID=f7efd850-de39-4575-b8a8-706deba2a5ba;Name=f7efd850-de39-4575-b8a8-706deba2a5ba
 DC3.0sc04	.	exon	22108007	22108216	.	+	.	Parent=fde70028-afb8-4a69-ba48-286c9994116e;ID=f5b09e43-d596-4e15-94ef-05002fe3f935;Name=f5b09e43-d596-4e15-94ef-05002fe3f935
 DC3.0sc04	.	CDS	22106815	22107034	.	+	0	Parent=fde70028-afb8-4a69-ba48-286c9994116e;ID=2ff694ec-3fa8-4127-b4eb-d06aac4090c2;Name=2ff694ec-3fa8-4127-b4eb-d06aac4090c2
@@ -2273,7 +2273,7 @@ DC3.0sc01	.	exon	35753480	35753635	.	+	.	Parent=5144ccc8-4356-405e-9902-4f3d703e
 DC3.0sc01	.	exon	35768353	35768543	.	+	.	Parent=5144ccc8-4356-405e-9902-4f3d703e33e1;ID=16e089b5-36f2-42ac-a992-67a0c910ab05;Name=16e089b5-36f2-42ac-a992-67a0c910ab05
 DC3.0sc01	.	exon	35755710	35755861	.	+	.	Parent=5144ccc8-4356-405e-9902-4f3d703e33e1;ID=1b243c1c-ec10-4401-94e6-3f8f2b09bf1b;Name=1b243c1c-ec10-4401-94e6-3f8f2b09bf1b
 DC3.0sc01	.	exon	35778162	35778259	.	+	.	Parent=5144ccc8-4356-405e-9902-4f3d703e33e1;ID=ae2b4304-8d95-429a-959c-556d4409a579;Name=ae2b4304-8d95-429a-959c-556d4409a579
-DC3.0sc01	.	mRNA	35753480	35779818	.	+	.	owner=douglasharper711@gmail.com;Parent=19295d71-b64c-4a3c-87fa-e21f3477b479;description=ATP Dependent 6-Phosphofructokinase Isoform-RB;ID=b9296158-ae9c-4ced-8ce9-93bc35f3b1dd;orig_id=Dcitr01g16830.1.1;date_last_modified=2021-08-26;Name=Dcitr01g16570.1.1-00002;date_creation=2021-08-26
+DC3.0sc01	.	mRNA	35753480	35779818	.	+	.	owner=douglasharper711@gmail.com;Parent=19295d71-b64c-4a3c-87fa-e21f3477b479;description=ATP Dependent 6-Phosphofructokinase Isoform-RB;ID=b9296158-ae9c-4ced-8ce9-93bc35f3b1dd;orig_id=Dcitr01g16830.1.1;date_last_modified=2021-08-26;Name=Dcitr01g16570.1.1;date_creation=2021-08-26
 DC3.0sc01	.	exon	35776975	35777127	.	+	.	Parent=b9296158-ae9c-4ced-8ce9-93bc35f3b1dd;ID=398d7d3d-dc67-4158-9116-4fe42edae87b;Name=398d7d3d-dc67-4158-9116-4fe42edae87b
 DC3.0sc01	.	exon	35778162	35778259	.	+	.	Parent=b9296158-ae9c-4ced-8ce9-93bc35f3b1dd;ID=ad07b10b-6c47-4c40-a5b1-32ff9cf076e3;Name=ad07b10b-6c47-4c40-a5b1-32ff9cf076e3
 DC3.0sc01	.	exon	35768353	35768543	.	+	.	Parent=b9296158-ae9c-4ced-8ce9-93bc35f3b1dd;ID=2f7eea73-6aa4-4a32-8b9e-92e53ae3b337;Name=2f7eea73-6aa4-4a32-8b9e-92e53ae3b337
@@ -2569,17 +2569,17 @@ DC3.0sc01	.	exon	42524041	42524188	.	+	.	Parent=1355e561-ad2c-484c-adf4-729a20fd
 DC3.0sc01	.	exon	42527178	42528127	.	+	.	Parent=1355e561-ad2c-484c-adf4-729a20fd9ecc;ID=483d3962-6d19-4e03-b42a-a184db312824;Name=483d3962-6d19-4e03-b42a-a184db312824
 ###
 DC3.0sc01	.	gene	4959402	4960751	.	+	.	owner=tdshippy@gmail.com;ID=31fcbb7e-8f48-4608-a3af-90fc33b27067;date_last_modified=2022-10-26;Name=DC3.0sc01;date_creation=2022-10-26
-DC3.0sc01	.	mRNA	4959402	4960751	.	+	.	owner=tdshippy@gmail.com;Parent=31fcbb7e-8f48-4608-a3af-90fc33b27067;description=created with search hit;ID=77c6a7bb-7963-41ce-8701-d9a65922c0de;date_last_modified=2022-10-26;Name=DC3.0sc01-00001;date_creation=2022-10-26
+DC3.0sc01	.	mRNA	4959402	4960751	.	+	.	owner=tdshippy@gmail.com;Parent=31fcbb7e-8f48-4608-a3af-90fc33b27067;description=created with search hit;ID=77c6a7bb-7963-41ce-8701-d9a65922c0de;date_last_modified=2022-10-26;Name=NO-DCITR-ID;date_creation=2022-10-26
 DC3.0sc01	.	exon	4959402	4960751	.	+	.	Parent=77c6a7bb-7963-41ce-8701-d9a65922c0de;ID=e77aeafb-db3d-48c9-b4b0-750882809508;Name=e77aeafb-db3d-48c9-b4b0-750882809508
 DC3.0sc01	.	CDS	4960578	4960661	.	+	0	Parent=77c6a7bb-7963-41ce-8701-d9a65922c0de;ID=77c6a7bb-7963-41ce-8701-d9a65922c0de-CDS;Name=77c6a7bb-7963-41ce-8701-d9a65922c0de-CDS
 ###
 DC3.0sc01	.	gene	4955494	4956761	.	+	.	owner=tdshippy@gmail.com;ID=84dfb6ce-f1fc-4f4b-bc55-42c38bef8c51;date_last_modified=2022-10-26;Name=DC3.0sc01a;date_creation=2022-10-26
-DC3.0sc01	.	mRNA	4955494	4956761	.	+	.	owner=tdshippy@gmail.com;Parent=84dfb6ce-f1fc-4f4b-bc55-42c38bef8c51;description=created with search hit;ID=7146b182-f0ed-49e1-bab5-c24465edb466;date_last_modified=2022-10-26;Name=DC3.0sc01a-00001;date_creation=2022-10-26
+DC3.0sc01	.	mRNA	4955494	4956761	.	+	.	owner=tdshippy@gmail.com;Parent=84dfb6ce-f1fc-4f4b-bc55-42c38bef8c51;description=created with search hit;ID=7146b182-f0ed-49e1-bab5-c24465edb466;date_last_modified=2022-10-26;Name=NO-DCITR-ID;date_creation=2022-10-26
 DC3.0sc01	.	exon	4955494	4956761	.	+	.	Parent=7146b182-f0ed-49e1-bab5-c24465edb466;ID=ca80ae9a-621c-43ae-95cd-417d558658c5;Name=ca80ae9a-621c-43ae-95cd-417d558658c5
 DC3.0sc01	.	CDS	4956381	4956602	.	+	0	Parent=7146b182-f0ed-49e1-bab5-c24465edb466;ID=7146b182-f0ed-49e1-bab5-c24465edb466-CDS;Name=7146b182-f0ed-49e1-bab5-c24465edb466-CDS
 ###
 DC3.0sc01	.	gene	4920568	4921616	.	-	.	owner=tdshippy@gmail.com;ID=e8712a16-5e95-40be-92e8-baeafa54b9a2;date_last_modified=2022-10-26;Name=DC3.0sc01c;date_creation=2022-10-26
-DC3.0sc01	.	mRNA	4920568	4921616	.	-	.	owner=tdshippy@gmail.com;Parent=e8712a16-5e95-40be-92e8-baeafa54b9a2;description=created with search hit;ID=ff0a1d7e-6209-4c88-bdc5-c354fc0ebee5;date_last_modified=2022-10-26;Name=DC3.0sc01c-00001;date_creation=2022-10-26
+DC3.0sc01	.	mRNA	4920568	4921616	.	-	.	owner=tdshippy@gmail.com;Parent=e8712a16-5e95-40be-92e8-baeafa54b9a2;description=created with search hit;ID=ff0a1d7e-6209-4c88-bdc5-c354fc0ebee5;date_last_modified=2022-10-26;Name=NO-DCITR-ID;date_creation=2022-10-26
 DC3.0sc01	.	exon	4920568	4921616	.	-	.	Parent=ff0a1d7e-6209-4c88-bdc5-c354fc0ebee5;ID=28381948-df9b-4eeb-844c-45ae7974ad47;Name=28381948-df9b-4eeb-844c-45ae7974ad47
 DC3.0sc01	.	CDS	4920806	4920889	.	-	0	Parent=ff0a1d7e-6209-4c88-bdc5-c354fc0ebee5;ID=ff0a1d7e-6209-4c88-bdc5-c354fc0ebee5-CDS;Name=ff0a1d7e-6209-4c88-bdc5-c354fc0ebee5-CDS
 ###
@@ -2632,7 +2632,7 @@ DC3.0sc12	.	CDS	15496406	15496566	.	+	0	Parent=1d756af9-e3d8-482f-8a82-89f06b5e3
 DC3.0sc12	.	CDS	15497307	15497508	.	+	1	Parent=1d756af9-e3d8-482f-8a82-89f06b5e3167;ID=5b83c19a-aee3-4737-8a46-d8a73b440a36;Name=5b83c19a-aee3-4737-8a46-d8a73b440a36
 DC3.0sc12	.	exon	15496406	15496566	.	+	.	Parent=1d756af9-e3d8-482f-8a82-89f06b5e3167;ID=381163da-7ea4-4670-9028-e60f8f842714;Name=381163da-7ea4-4670-9028-e60f8f842714
 DC3.0sc12	.	exon	15493468	15493674	.	+	.	Parent=1d756af9-e3d8-482f-8a82-89f06b5e3167;ID=e964943f-caf0-42c3-95a6-130bb9c35175;Name=e964943f-caf0-42c3-95a6-130bb9c35175
-DC3.0sc12	.	mRNA	15492235	15497740	.	+	.	owner=thomsonparis@ufl.edu;Parent=e6587c55-a2d5-41c8-a7ec-a2b33bb18208;ID=08491be8-0bd9-4208-8143-f8822fe74b5f;orig_id=Dcitr12g07450.1.1;date_last_modified=2021-01-14;Name=Dcitr12g07450.1.1;description=UV-sensitive opsin-00001;date_creation=2021-01-14
+DC3.0sc12	.	mRNA	15492235	15497740	.	+	.	owner=thomsonparis@ufl.edu;Parent=e6587c55-a2d5-41c8-a7ec-a2b33bb18208;ID=08491be8-0bd9-4208-8143-f8822fe74b5f;orig_id=Dcitr12g07450.1.1;date_last_modified=2021-01-14;Name=Dcitr12g07450.1.1;description=UV-sensitive opsin;date_creation=2021-01-14
 DC3.0sc12	.	exon	15493468	15493674	.	+	.	Parent=08491be8-0bd9-4208-8143-f8822fe74b5f;ID=96942519-5e2f-49d3-817e-af9c2f7923b0;Name=96942519-5e2f-49d3-817e-af9c2f7923b0
 DC3.0sc12	.	exon	15494384	15494599	.	+	.	Parent=08491be8-0bd9-4208-8143-f8822fe74b5f;ID=5b98b444-787f-42d2-bdc7-45442c7821da;Name=5b98b444-787f-42d2-bdc7-45442c7821da
 DC3.0sc12	.	exon	15495765	15495937	.	+	.	Parent=08491be8-0bd9-4208-8143-f8822fe74b5f;ID=a09a5248-2ef0-4fba-b87b-c3650c3a8a81;Name=a09a5248-2ef0-4fba-b87b-c3650c3a8a81
