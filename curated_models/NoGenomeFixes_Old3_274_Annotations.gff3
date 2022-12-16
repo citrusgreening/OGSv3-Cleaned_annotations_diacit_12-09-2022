@@ -74,7 +74,7 @@ DC3.0sc07	.	exon	26796326	26796676	.	-	.	Parent=172e2aa1-0531-4922-ab9c-ae3f23a2
 DC3.0sc07	.	non_canonical_five_prime_splice_site	26793637	26793637	.	-	.	Parent=172e2aa1-0531-4922-ab9c-ae3f23a20cf7;ID=172e2aa1-0531-4922-ab9c-ae3f23a20cf7-non_canonical_five_prime_splice_site-26793636;Name=172e2aa1-0531-4922-ab9c-ae3f23a20cf7-non_canonical_five_prime_splice_site-26793636
 ###
 DC3.0sc07	.	gene	18237624	18303587	.	+	.	owner=adkinssc@mail.irsc.edu;ID=49603466-4898-42f4-99d9-2650fca7a786;date_last_modified=2019-11-01;Name=Dcitr07g08550.1.1;date_creation=2019-11-01
-DC3.0sc07	.	mRNA	18237624	18303587	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=49603466-4898-42f4-99d9-2650fca7a786;ID=c20ddd45-df7a-464b-84bf-8cb32382fc2e;orig_id=Dcitr07g08550.1.1;date_last_modified=2019-11-01;Name=Dcitr07g08550.1.1-00001;date_creation=2019-11-01
+DC3.0sc07	.	mRNA	18237624	18303587	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=49603466-4898-42f4-99d9-2650fca7a786;ID=c20ddd45-df7a-464b-84bf-8cb32382fc2e;orig_id=Dcitr07g08550.1.1;date_last_modified=2019-11-01;Name=Dcitr07g08550.1.1;date_creation=2019-11-01
 DC3.0sc07	.	exon	18297622	18297627	.	+	.	Parent=c20ddd45-df7a-464b-84bf-8cb32382fc2e;ID=c8948f40-2822-4d28-91ba-1d26fe45aa45;Name=c8948f40-2822-4d28-91ba-1d26fe45aa45
 DC3.0sc07	.	exon	18298180	18298303	.	+	.	Parent=c20ddd45-df7a-464b-84bf-8cb32382fc2e;ID=d28ae346-3e6b-49e0-91e9-2a6b4d2215c3;Name=d28ae346-3e6b-49e0-91e9-2a6b4d2215c3
 DC3.0sc07	.	exon	18263245	18263325	.	+	.	Parent=c20ddd45-df7a-464b-84bf-8cb32382fc2e;ID=167ddcdd-9a21-456d-88c7-cbbc9f3a075d;Name=167ddcdd-9a21-456d-88c7-cbbc9f3a075d
@@ -99,7 +99,7 @@ DC3.0sc07	.	exon	18265574	18265745	.	+	.	Parent=c20ddd45-df7a-464b-84bf-8cb32382
 DC3.0sc07	.	exon	18248246	18248375	.	+	.	Parent=c20ddd45-df7a-464b-84bf-8cb32382fc2e;ID=0f757e62-b12c-4cd7-8fe5-19cf781111a0;Name=0f757e62-b12c-4cd7-8fe5-19cf781111a0
 ###
 DC3.0sc07	.	gene	1094661	1224551	.	+	.	owner=perentem@mail.uc.edu;ID=32942bb1-bc1a-4a99-899b-29200ac6013e;date_last_modified=2019-11-08;Name=DcDTr08027.1;date_creation=2019-11-08
-DC3.0sc07	.	mRNA	1094661	1224551	.	+	.	owner=perentem@mail.uc.edu;Parent=32942bb1-bc1a-4a99-899b-29200ac6013e;ID=706db2bc-c334-4b22-a83c-a4ac232e4f04;orig_id=DcDTr08027.1.mrna1;date_last_modified=2019-11-08;Name=DcDTr08027.1-00001;date_creation=2019-11-08
+DC3.0sc07	.	mRNA	1094661	1224551	.	+	.	owner=perentem@mail.uc.edu;Parent=32942bb1-bc1a-4a99-899b-29200ac6013e;ID=706db2bc-c334-4b22-a83c-a4ac232e4f04;orig_id=DcDTr08027.1.mrna1;date_last_modified=2019-11-08;Name=DcDTr08027.1;date_creation=2019-11-08
 DC3.0sc07	.	exon	1222017	1222118	.	+	.	Parent=706db2bc-c334-4b22-a83c-a4ac232e4f04;ID=949a3650-5b76-4fcf-a359-b4bb56383e0f;Name=949a3650-5b76-4fcf-a359-b4bb56383e0f
 DC3.0sc07	.	non_canonical_five_prime_splice_site	1207632	1207632	.	+	.	Parent=706db2bc-c334-4b22-a83c-a4ac232e4f04;ID=706db2bc-c334-4b22-a83c-a4ac232e4f04-non_canonical_five_prime_splice_site-1207631;Name=706db2bc-c334-4b22-a83c-a4ac232e4f04-non_canonical_five_prime_splice_site-1207631
 DC3.0sc07	.	exon	1094661	1095024	.	+	.	Parent=706db2bc-c334-4b22-a83c-a4ac232e4f04;ID=97d87f3c-3e68-46e7-b488-83e9c3bdb0a4;Name=97d87f3c-3e68-46e7-b488-83e9c3bdb0a4
@@ -169,7 +169,7 @@ DC3.0sc07	.	non_canonical_five_prime_splice_site	1095027	1095027	.	+	.	Parent=70
 DC3.0sc07	.	non_canonical_three_prime_splice_site	1213490	1213490	.	+	.	Parent=706db2bc-c334-4b22-a83c-a4ac232e4f04;ID=706db2bc-c334-4b22-a83c-a4ac232e4f04-non_canonical_three_prime_splice_site-1213489;Name=706db2bc-c334-4b22-a83c-a4ac232e4f04-non_canonical_three_prime_splice_site-1213489
 ###
 DC3.0sc07	.	gene	1109183	1143117	.	+	.	owner=perentem@mail.uc.edu;ID=1886bb63-813a-492c-abd0-0c29ec947413;date_last_modified=2019-11-08;Name=mikado.DC3.0sc07G120.1;date_creation=2019-11-08
-DC3.0sc07	.	mRNA	1109183	1143117	.	+	.	owner=perentem@mail.uc.edu;Parent=1886bb63-813a-492c-abd0-0c29ec947413;ID=ee85cc97-0ff0-4fb1-bba5-b823d767c939;orig_id=DC3.0sc07:hit:5190:4.5.0.13;date_last_modified=2019-11-08;Name=mikado.DC3.0sc07G120.1-00001;date_creation=2019-11-08
+DC3.0sc07	.	mRNA	1109183	1143117	.	+	.	owner=perentem@mail.uc.edu;Parent=1886bb63-813a-492c-abd0-0c29ec947413;ID=ee85cc97-0ff0-4fb1-bba5-b823d767c939;orig_id=DC3.0sc07:hit:5190:4.5.0.13;date_last_modified=2019-11-08;Name=mikado.DC3.0sc07G120.1;date_creation=2019-11-08
 DC3.0sc07	.	non_canonical_three_prime_splice_site	1111118	1111118	.	+	.	Parent=ee85cc97-0ff0-4fb1-bba5-b823d767c939;ID=ee85cc97-0ff0-4fb1-bba5-b823d767c939-non_canonical_three_prime_splice_site-1111117;Name=ee85cc97-0ff0-4fb1-bba5-b823d767c939-non_canonical_three_prime_splice_site-1111117
 DC3.0sc07	.	exon	1109183	1111001	.	+	.	Parent=ee85cc97-0ff0-4fb1-bba5-b823d767c939;ID=9c3c1755-75fe-464c-ae2a-028b9f84a593;Name=9c3c1755-75fe-464c-ae2a-028b9f84a593
 DC3.0sc07	.	exon	1136871	1143117	.	+	.	Parent=ee85cc97-0ff0-4fb1-bba5-b823d767c939;ID=9b056233-a1eb-4f9b-9e96-0116bfef5cd9;Name=9b056233-a1eb-4f9b-9e96-0116bfef5cd9
@@ -180,8 +180,8 @@ DC3.0sc07	.	exon	1136493	1136754	.	+	.	Parent=ee85cc97-0ff0-4fb1-bba5-b823d767c9
 DC3.0sc07	.	non_canonical_five_prime_splice_site	1111004	1111004	.	+	.	Parent=ee85cc97-0ff0-4fb1-bba5-b823d767c939;ID=ee85cc97-0ff0-4fb1-bba5-b823d767c939-non_canonical_five_prime_splice_site-1111003;Name=ee85cc97-0ff0-4fb1-bba5-b823d767c939-non_canonical_five_prime_splice_site-1111003
 DC3.0sc07	.	CDS	1138298	1142941	.	+	0	Parent=ee85cc97-0ff0-4fb1-bba5-b823d767c939;ID=ee85cc97-0ff0-4fb1-bba5-b823d767c939-CDS;Name=ee85cc97-0ff0-4fb1-bba5-b823d767c939-CDS
 ###
-DC3.0sc07	.	gene	5836762	5855839	.	+	.	owner=douglasharper711@gmail.com;ID=fb6906b9-6b51-4b89-a2c5-efd8759cfb0a;date_last_modified=2019-11-08;Name=Aconitate_Hydratase.2.0-00001;date_creation=2019-11-08
-DC3.0sc07	.	mRNA	5836762	5855839	.	+	.	owner=douglasharper711@gmail.com;Parent=fb6906b9-6b51-4b89-a2c5-efd8759cfb0a;ID=2a136947-3530-4c0b-9a90-c29902ae12c6;date_last_modified=2019-11-08;Name=Aconitate_Hydratase.2.0-00001-00001;date_creation=2019-11-08
+DC3.0sc07	.	gene	5836762	5855839	.	+	.	owner=douglasharper711@gmail.com;ID=fb6906b9-6b51-4b89-a2c5-efd8759cfb0a;date_last_modified=2019-11-08;Name=Aconitate_Hydratase.2.0;date_creation=2019-11-08
+DC3.0sc07	.	mRNA	5836762	5855839	.	+	.	owner=douglasharper711@gmail.com;Parent=fb6906b9-6b51-4b89-a2c5-efd8759cfb0a;ID=2a136947-3530-4c0b-9a90-c29902ae12c6;date_last_modified=2019-11-08;Name=Aconitate_Hydratase.2.0-00001;date_creation=2019-11-08
 DC3.0sc07	.	exon	5854005	5854216	.	+	.	Parent=2a136947-3530-4c0b-9a90-c29902ae12c6;ID=fd110dc3-8334-478d-88bf-80f13985a8e6;Name=fd110dc3-8334-478d-88bf-80f13985a8e6
 DC3.0sc07	.	exon	5849345	5849603	.	+	.	Parent=2a136947-3530-4c0b-9a90-c29902ae12c6;ID=d2bad4f1-391c-4a1b-87b7-1783cdf60093;Name=d2bad4f1-391c-4a1b-87b7-1783cdf60093
 DC3.0sc07	.	exon	5836762	5836976	.	+	.	Parent=2a136947-3530-4c0b-9a90-c29902ae12c6;ID=676ee7e4-b6f9-4271-9fec-0d408d140e41;Name=676ee7e4-b6f9-4271-9fec-0d408d140e41
@@ -212,7 +212,7 @@ DC3.0sc07	.	exon	5848717	5848874	.	+	.	Parent=2a136947-3530-4c0b-9a90-c29902ae12
 DC3.0sc07	.	exon	5850569	5850774	.	+	.	Parent=2a136947-3530-4c0b-9a90-c29902ae12c6;ID=1349d722-1ee0-49e4-b6d4-4d5e598edb6c;Name=1349d722-1ee0-49e4-b6d4-4d5e598edb6c
 ###
 DC3.0sc07	.	gene	3738233	3744332	.	+	.	owner=tdshippy@gmail.com;ID=37039941-4260-485d-93e9-88dfdd957c85;date_last_modified=2021-08-13;Name=Rac1;date_creation=2019-12-05
-DC3.0sc07	.	mRNA	3738233	3744332	.	+	.	owner=tdshippy@gmail.com;Parent=37039941-4260-485d-93e9-88dfdd957c85;description=Rac1;ID=b6647c9d-522b-47a5-a5d7-fea0e86c23be;orig_id=Dcitr07g02580.1.1;date_last_modified=2019-12-05;Name=Dcitr07g02580.1.1-00001;date_creation=2019-12-05
+DC3.0sc07	.	mRNA	3738233	3744332	.	+	.	owner=tdshippy@gmail.com;Parent=37039941-4260-485d-93e9-88dfdd957c85;description=Rac1;ID=b6647c9d-522b-47a5-a5d7-fea0e86c23be;orig_id=Dcitr07g02580.1.1;date_last_modified=2019-12-05;Name=Dcitr07g02580.1.1;date_creation=2019-12-05
 DC3.0sc07	.	non_canonical_three_prime_splice_site	3744063	3744063	.	+	.	Parent=b6647c9d-522b-47a5-a5d7-fea0e86c23be;ID=b6647c9d-522b-47a5-a5d7-fea0e86c23be-non_canonical_three_prime_splice_site-3744062;Name=b6647c9d-522b-47a5-a5d7-fea0e86c23be-non_canonical_three_prime_splice_site-3744062
 DC3.0sc07	.	exon	3741412	3741601	.	+	.	Parent=b6647c9d-522b-47a5-a5d7-fea0e86c23be;ID=9bf4b165-2385-41cd-8561-c47ac7a45c3c;Name=9bf4b165-2385-41cd-8561-c47ac7a45c3c
 DC3.0sc07	.	exon	3743149	3743346	.	+	.	Parent=b6647c9d-522b-47a5-a5d7-fea0e86c23be;ID=94d2b514-25d4-443b-8030-e7d0d117bbc6;Name=94d2b514-25d4-443b-8030-e7d0d117bbc6
@@ -224,7 +224,7 @@ DC3.0sc07	.	CDS	3743149	3743346	.	+	0	Parent=b6647c9d-522b-47a5-a5d7-fea0e86c23b
 DC3.0sc07	.	CDS	3744063	3744218	.	+	0	Parent=b6647c9d-522b-47a5-a5d7-fea0e86c23be;ID=f46a1ab5-4953-4ce0-a8a3-fa7c5e96566c;Name=f46a1ab5-4953-4ce0-a8a3-fa7c5e96566c
 ###
 DC3.0sc07	.	gene	24740136	24743953	.	-	.	owner=tdshippy@gmail.com;ID=ffb98687-83b7-421f-ba69-5079efd1259a;date_last_modified=2019-12-11;Name=Dcitr07g11210.1.1;date_creation=2019-12-11
-DC3.0sc07	.	mRNA	24740136	24743953	.	-	.	owner=tdshippy@gmail.com;Parent=ffb98687-83b7-421f-ba69-5079efd1259a;ID=5f4091ac-1252-45af-a8ef-d41365f5fe4e;orig_id=Dcitr07g11210.1.1;date_last_modified=2019-12-11;Name=Dcitr07g11210.1.1-00001;date_creation=2019-12-11
+DC3.0sc07	.	mRNA	24740136	24743953	.	-	.	owner=tdshippy@gmail.com;Parent=ffb98687-83b7-421f-ba69-5079efd1259a;ID=5f4091ac-1252-45af-a8ef-d41365f5fe4e;orig_id=Dcitr07g11210.1.1;date_last_modified=2019-12-11;Name=Dcitr07g11210.1.1;date_creation=2019-12-11
 DC3.0sc07	.	CDS	24743472	24743517	.	-	0	Parent=5f4091ac-1252-45af-a8ef-d41365f5fe4e;ID=ae2b2868-ef43-44b9-a1ac-25276d6a20fd;Name=ae2b2868-ef43-44b9-a1ac-25276d6a20fd
 DC3.0sc07	.	CDS	24742874	24743129	.	-	2	Parent=5f4091ac-1252-45af-a8ef-d41365f5fe4e;ID=ae2b2868-ef43-44b9-a1ac-25276d6a20fd;Name=ae2b2868-ef43-44b9-a1ac-25276d6a20fd
 DC3.0sc07	.	CDS	24741147	24741261	.	-	1	Parent=5f4091ac-1252-45af-a8ef-d41365f5fe4e;ID=ae2b2868-ef43-44b9-a1ac-25276d6a20fd;Name=ae2b2868-ef43-44b9-a1ac-25276d6a20fd
@@ -237,7 +237,7 @@ DC3.0sc07	.	exon	24740650	24740860	.	-	.	Parent=5f4091ac-1252-45af-a8ef-d41365f5
 DC3.0sc07	.	exon	24742874	24743129	.	-	.	Parent=5f4091ac-1252-45af-a8ef-d41365f5fe4e;ID=732c71f2-d241-4d90-b826-09feb82ca1b7;Name=732c71f2-d241-4d90-b826-09feb82ca1b7
 ###
 DC3.0sc07	.	gene	24851801	24964505	.	+	.	owner=tdshippy@gmail.com;ID=994ee16b-0921-4ff2-a1f4-2fe5e84dfccc;date_last_modified=2019-12-11;Name=Dcitr07g11290.1.1;date_creation=2019-12-11
-DC3.0sc07	.	mRNA	24851801	24963735	.	+	.	owner=tdshippy@gmail.com;Parent=994ee16b-0921-4ff2-a1f4-2fe5e84dfccc;ID=d80d019e-c277-4c99-a5f0-4555dc17b2ee;orig_id=MCOT04352.0.CT.mrna1;date_last_modified=2019-12-11;Name=Dcitr07g11290.1.1-00002;date_creation=2019-12-11
+DC3.0sc07	.	mRNA	24851801	24963735	.	+	.	owner=tdshippy@gmail.com;Parent=994ee16b-0921-4ff2-a1f4-2fe5e84dfccc;ID=d80d019e-c277-4c99-a5f0-4555dc17b2ee;orig_id=MCOT04352.0.CT.mrna1;date_last_modified=2019-12-11;Name=Dcitr07g11290.1.1-0;date_creation=2019-12-11
 DC3.0sc07	.	exon	24961461	24961603	.	+	.	Parent=d80d019e-c277-4c99-a5f0-4555dc17b2ee;ID=00510443-a105-48f3-b5db-fb50e7998903;Name=00510443-a105-48f3-b5db-fb50e7998903
 DC3.0sc07	.	exon	24851801	24852566	.	+	.	Parent=d80d019e-c277-4c99-a5f0-4555dc17b2ee;ID=cfe4467d-6abf-4399-9056-a6df60907875;Name=cfe4467d-6abf-4399-9056-a6df60907875
 DC3.0sc07	.	CDS	24851909	24852566	.	+	0	Parent=d80d019e-c277-4c99-a5f0-4555dc17b2ee;ID=3c34667b-00a5-4fcf-b4a5-217c9c0f6e1e;Name=3c34667b-00a5-4fcf-b4a5-217c9c0f6e1e
@@ -246,7 +246,7 @@ DC3.0sc07	.	CDS	24961842	24963183	.	+	0	Parent=d80d019e-c277-4c99-a5f0-4555dc17b
 DC3.0sc07	.	CDS	24963609	24963735	.	+	2	Parent=d80d019e-c277-4c99-a5f0-4555dc17b2ee;ID=3c34667b-00a5-4fcf-b4a5-217c9c0f6e1e;Name=3c34667b-00a5-4fcf-b4a5-217c9c0f6e1e
 DC3.0sc07	.	exon	24961842	24963183	.	+	.	Parent=d80d019e-c277-4c99-a5f0-4555dc17b2ee;ID=77abca3a-7bd2-4ea1-afb7-810b76368a26;Name=77abca3a-7bd2-4ea1-afb7-810b76368a26
 DC3.0sc07	.	exon	24963609	24963735	.	+	.	Parent=d80d019e-c277-4c99-a5f0-4555dc17b2ee;ID=a0d984b6-c3ac-4d74-9e7b-0415ca7bf224;Name=a0d984b6-c3ac-4d74-9e7b-0415ca7bf224
-DC3.0sc07	.	mRNA	24909158	24964505	.	+	.	owner=tdshippy@gmail.com;Parent=994ee16b-0921-4ff2-a1f4-2fe5e84dfccc;ID=c6e33601-2f7c-4a6b-89f5-9f057696bc3e;orig_id=Dcitr07g11290.1.1;date_last_modified=2019-12-11;Name=Dcitr07g11290.1.1-00001;date_creation=2019-12-11
+DC3.0sc07	.	mRNA	24909158	24964505	.	+	.	owner=tdshippy@gmail.com;Parent=994ee16b-0921-4ff2-a1f4-2fe5e84dfccc;ID=c6e33601-2f7c-4a6b-89f5-9f057696bc3e;orig_id=Dcitr07g11290.1.1;date_last_modified=2019-12-11;Name=Dcitr07g11290.1.1;date_creation=2019-12-11
 DC3.0sc07	.	exon	24963609	24964505	.	+	.	Parent=c6e33601-2f7c-4a6b-89f5-9f057696bc3e;ID=5b695a48-89ae-4e19-a0c9-472457fc23e6;Name=5b695a48-89ae-4e19-a0c9-472457fc23e6
 DC3.0sc07	.	exon	24961461	24961603	.	+	.	Parent=c6e33601-2f7c-4a6b-89f5-9f057696bc3e;ID=489f9a66-57ab-4ede-859d-56974afffea5;Name=489f9a66-57ab-4ede-859d-56974afffea5
 DC3.0sc07	.	exon	24913968	24915385	.	+	.	Parent=c6e33601-2f7c-4a6b-89f5-9f057696bc3e;ID=af4efb75-edd3-4892-b9ba-e26a53ecf3d7;Name=af4efb75-edd3-4892-b9ba-e26a53ecf3d7
@@ -258,7 +258,7 @@ DC3.0sc07	.	exon	24961842	24963183	.	+	.	Parent=c6e33601-2f7c-4a6b-89f5-9f057696
 DC3.0sc07	.	exon	24909158	24909415	.	+	.	Parent=c6e33601-2f7c-4a6b-89f5-9f057696bc3e;ID=97e5bbf0-836f-4c7e-9310-5007d31d3527;Name=97e5bbf0-836f-4c7e-9310-5007d31d3527
 ###
 DC3.0sc07	.	gene	24744677	24759885	.	-	.	owner=tdshippy@gmail.com;ID=489bbadb-e6da-471f-b44b-6a2ee082c56b;date_last_modified=2019-12-11;Name=Dcitr07g11220.1.1;date_creation=2019-12-11
-DC3.0sc07	.	mRNA	24744677	24759885	.	-	.	owner=tdshippy@gmail.com;Parent=489bbadb-e6da-471f-b44b-6a2ee082c56b;ID=9c9779e3-7939-4431-8ae3-9d1141ff3f39;orig_id=Dcitr07g11220.1.1;date_last_modified=2019-12-11;Name=Dcitr07g11220.1.1-00001;date_creation=2019-12-11
+DC3.0sc07	.	mRNA	24744677	24759885	.	-	.	owner=tdshippy@gmail.com;Parent=489bbadb-e6da-471f-b44b-6a2ee082c56b;ID=9c9779e3-7939-4431-8ae3-9d1141ff3f39;orig_id=Dcitr07g11220.1.1;date_last_modified=2019-12-11;Name=Dcitr07g11220.1.1;date_creation=2019-12-11
 DC3.0sc07	.	exon	24744677	24745272	.	-	.	Parent=9c9779e3-7939-4431-8ae3-9d1141ff3f39;ID=cec77afb-1ae6-4224-9546-c6cae988dbc1;Name=cec77afb-1ae6-4224-9546-c6cae988dbc1
 DC3.0sc07	.	CDS	24759873	24759885	.	-	0	Parent=9c9779e3-7939-4431-8ae3-9d1141ff3f39;ID=91ef10b1-f4b3-46dd-8889-f1d1fdb14be6;Name=91ef10b1-f4b3-46dd-8889-f1d1fdb14be6
 DC3.0sc07	.	CDS	24754503	24754627	.	-	2	Parent=9c9779e3-7939-4431-8ae3-9d1141ff3f39;ID=91ef10b1-f4b3-46dd-8889-f1d1fdb14be6;Name=91ef10b1-f4b3-46dd-8889-f1d1fdb14be6
@@ -277,7 +277,7 @@ DC3.0sc07	.	exon	24753741	24753893	.	-	.	Parent=9c9779e3-7939-4431-8ae3-9d1141ff
 DC3.0sc07	.	exon	24751031	24751129	.	-	.	Parent=9c9779e3-7939-4431-8ae3-9d1141ff3f39;ID=9f258010-b3a7-48d3-bfa5-1ca4fd0dbc5c;Name=9f258010-b3a7-48d3-bfa5-1ca4fd0dbc5c
 ###
 DC3.0sc07	.	gene	24661517	24732327	.	+	.	owner=tdshippy@gmail.com;ID=59b7add6-12f6-4cb1-9bfd-0c0dc71c278d;date_last_modified=2019-12-11;Name=Dcitr07g11180.1.1;date_creation=2019-12-11
-DC3.0sc07	.	mRNA	24661517	24732327	.	+	.	owner=tdshippy@gmail.com;Parent=59b7add6-12f6-4cb1-9bfd-0c0dc71c278d;ID=cc4a7eb9-0c67-4d4d-ab14-c3646ce7e2fa;orig_id=Dcitr07g11180.1.1;date_last_modified=2019-12-11;Name=Dcitr07g11180.1.1-00001;date_creation=2019-12-11
+DC3.0sc07	.	mRNA	24661517	24732327	.	+	.	owner=tdshippy@gmail.com;Parent=59b7add6-12f6-4cb1-9bfd-0c0dc71c278d;ID=cc4a7eb9-0c67-4d4d-ab14-c3646ce7e2fa;orig_id=Dcitr07g11180.1.1;date_last_modified=2019-12-11;Name=Dcitr07g11180.1.1;date_creation=2019-12-11
 DC3.0sc07	.	exon	24668244	24668477	.	+	.	Parent=cc4a7eb9-0c67-4d4d-ab14-c3646ce7e2fa;ID=d55c0c42-705e-41b0-910c-2dc16f62f54c;Name=d55c0c42-705e-41b0-910c-2dc16f62f54c
 DC3.0sc07	.	exon	24732164	24732327	.	+	.	Parent=cc4a7eb9-0c67-4d4d-ab14-c3646ce7e2fa;ID=94b04b8b-2898-4b04-ad2e-d1c7fdcfcbbf;Name=94b04b8b-2898-4b04-ad2e-d1c7fdcfcbbf
 DC3.0sc07	.	exon	24728151	24728275	.	+	.	Parent=cc4a7eb9-0c67-4d4d-ab14-c3646ce7e2fa;ID=58a30898-26b4-4f83-a238-6640fda29b9a;Name=58a30898-26b4-4f83-a238-6640fda29b9a
@@ -318,7 +318,7 @@ DC3.0sc07	.	exon	24666147	24666277	.	+	.	Parent=cc4a7eb9-0c67-4d4d-ab14-c3646ce7
 DC3.0sc07	.	exon	24692571	24692703	.	+	.	Parent=cc4a7eb9-0c67-4d4d-ab14-c3646ce7e2fa;ID=333d584d-ce3a-4d90-82fd-42d5a9202f97;Name=333d584d-ce3a-4d90-82fd-42d5a9202f97
 ###
 DC3.0sc07	.	gene	24823981	24832096	.	+	.	owner=tdshippy@gmail.com;ID=0b049383-d3ab-4819-b8b4-bf0599c7e172;date_last_modified=2019-12-11;Name=Dcitr07g11270.1.1;date_creation=2019-12-11
-DC3.0sc07	.	mRNA	24823981	24832096	.	+	.	owner=tdshippy@gmail.com;Parent=0b049383-d3ab-4819-b8b4-bf0599c7e172;ID=40bdeb3a-9cc3-4aa9-992d-69f5767f0268;orig_id=Dcitr07g11270.1.1;date_last_modified=2019-12-11;Name=Dcitr07g11270.1.1-00001;date_creation=2019-12-11
+DC3.0sc07	.	mRNA	24823981	24832096	.	+	.	owner=tdshippy@gmail.com;Parent=0b049383-d3ab-4819-b8b4-bf0599c7e172;ID=40bdeb3a-9cc3-4aa9-992d-69f5767f0268;orig_id=Dcitr07g11270.1.1;date_last_modified=2019-12-11;Name=Dcitr07g11270.1.1;date_creation=2019-12-11
 DC3.0sc07	.	non_canonical_three_prime_splice_site	24832036	24832036	.	+	.	Parent=40bdeb3a-9cc3-4aa9-992d-69f5767f0268;ID=40bdeb3a-9cc3-4aa9-992d-69f5767f0268-non_canonical_three_prime_splice_site-24832035;Name=40bdeb3a-9cc3-4aa9-992d-69f5767f0268-non_canonical_three_prime_splice_site-24832035
 DC3.0sc07	.	exon	24823981	24824234	.	+	.	Parent=40bdeb3a-9cc3-4aa9-992d-69f5767f0268;ID=f925f3e6-249a-4bca-9e94-2a43952ae581;Name=f925f3e6-249a-4bca-9e94-2a43952ae581
 DC3.0sc07	.	exon	24825099	24825264	.	+	.	Parent=40bdeb3a-9cc3-4aa9-992d-69f5767f0268;ID=1b2e4029-08d0-4a32-ac76-66080023d544;Name=1b2e4029-08d0-4a32-ac76-66080023d544
@@ -333,7 +333,7 @@ DC3.0sc07	.	exon	24830167	24830394	.	+	.	Parent=40bdeb3a-9cc3-4aa9-992d-69f5767f
 DC3.0sc07	.	exon	24832036	24832096	.	+	.	Parent=40bdeb3a-9cc3-4aa9-992d-69f5767f0268;ID=b21d95ba-ac3b-4411-a6de-4467cc3e8392;Name=b21d95ba-ac3b-4411-a6de-4467cc3e8392
 ###
 DC3.0sc07	.	gene	24815787	24823650	.	-	.	owner=tdshippy@gmail.com;ID=effdfa8e-59b9-4cbc-81bb-03e5f68a0aa4;date_last_modified=2019-12-11;Name=Dcitr07g11260.1.1;date_creation=2019-12-11
-DC3.0sc07	.	mRNA	24815787	24823650	.	-	.	owner=tdshippy@gmail.com;Parent=effdfa8e-59b9-4cbc-81bb-03e5f68a0aa4;ID=90afefaa-b71b-4a0f-a3d0-368a22d1d45e;orig_id=Dcitr07g11260.1.1;date_last_modified=2019-12-11;Name=Dcitr07g11260.1.1-00001;date_creation=2019-12-11
+DC3.0sc07	.	mRNA	24815787	24823650	.	-	.	owner=tdshippy@gmail.com;Parent=effdfa8e-59b9-4cbc-81bb-03e5f68a0aa4;ID=90afefaa-b71b-4a0f-a3d0-368a22d1d45e;orig_id=Dcitr07g11260.1.1;date_last_modified=2019-12-11;Name=Dcitr07g11260.1.1;date_creation=2019-12-11
 DC3.0sc07	.	exon	24815787	24818390	.	-	.	Parent=90afefaa-b71b-4a0f-a3d0-368a22d1d45e;ID=1f1229f3-fc9e-46ed-9efe-d3feac62d71e;Name=1f1229f3-fc9e-46ed-9efe-d3feac62d71e
 DC3.0sc07	.	exon	24821494	24821725	.	-	.	Parent=90afefaa-b71b-4a0f-a3d0-368a22d1d45e;ID=d3156d5c-8cf3-40ce-b752-1b00811636ac;Name=d3156d5c-8cf3-40ce-b752-1b00811636ac
 DC3.0sc07	.	CDS	24823436	24823648	.	-	0	Parent=90afefaa-b71b-4a0f-a3d0-368a22d1d45e;ID=2d99b80e-ff70-4874-b684-16ded2d23b3f;Name=2d99b80e-ff70-4874-b684-16ded2d23b3f
@@ -350,7 +350,7 @@ DC3.0sc07	.	exon	24818761	24818995	.	-	.	Parent=90afefaa-b71b-4a0f-a3d0-368a22d1
 DC3.0sc07	.	exon	24822115	24822255	.	-	.	Parent=90afefaa-b71b-4a0f-a3d0-368a22d1d45e;ID=0e015e4a-d497-4ada-b050-d016926478a0;Name=0e015e4a-d497-4ada-b050-d016926478a0
 ###
 DC3.0sc07	.	gene	24886720	24917531	.	-	.	owner=tdshippy@gmail.com;ID=2e74215b-83bd-41e1-a7d1-c85c9cbffb21;date_last_modified=2019-12-11;Name=Dcitr07g11280.1.1;date_creation=2019-12-11
-DC3.0sc07	.	mRNA	24886720	24917531	.	-	.	owner=tdshippy@gmail.com;Parent=2e74215b-83bd-41e1-a7d1-c85c9cbffb21;ID=d61b783f-f9ae-4231-8949-fd59b7e9b934;orig_id=Dcitr07g11280.1.1;date_last_modified=2019-12-11;Name=Dcitr07g11280.1.1-00001;date_creation=2019-12-11
+DC3.0sc07	.	mRNA	24886720	24917531	.	-	.	owner=tdshippy@gmail.com;Parent=2e74215b-83bd-41e1-a7d1-c85c9cbffb21;ID=d61b783f-f9ae-4231-8949-fd59b7e9b934;orig_id=Dcitr07g11280.1.1;date_last_modified=2019-12-11;Name=Dcitr07g11280.1.1;date_creation=2019-12-11
 DC3.0sc07	.	exon	24917401	24917531	.	-	.	Parent=d61b783f-f9ae-4231-8949-fd59b7e9b934;ID=0406fe00-0fd7-4d96-b95a-994446b7465e;Name=0406fe00-0fd7-4d96-b95a-994446b7465e
 DC3.0sc07	.	CDS	24917401	24917531	.	-	0	Parent=d61b783f-f9ae-4231-8949-fd59b7e9b934;ID=b6ef25a0-04c3-46ed-a539-aca9e58520ae;Name=b6ef25a0-04c3-46ed-a539-aca9e58520ae
 DC3.0sc07	.	CDS	24906073	24906100	.	-	1	Parent=d61b783f-f9ae-4231-8949-fd59b7e9b934;ID=b6ef25a0-04c3-46ed-a539-aca9e58520ae;Name=b6ef25a0-04c3-46ed-a539-aca9e58520ae
@@ -363,7 +363,7 @@ DC3.0sc07	.	exon	24896502	24896508	.	-	.	Parent=d61b783f-f9ae-4231-8949-fd59b7e9
 DC3.0sc07	.	exon	24897202	24897225	.	-	.	Parent=d61b783f-f9ae-4231-8949-fd59b7e9b934;ID=498d2721-1c3f-42c7-a2ac-2a874c35180d;Name=498d2721-1c3f-42c7-a2ac-2a874c35180d
 ###
 DC3.0sc07	.	gene	6963435	7002038	.	-	.	owner=gracerl@mail.irsc.edu;ID=86263f19-4928-44e7-baaf-e6237abc8927;date_last_modified=2019-12-22;Name=MCOT05340.0.CO;date_creation=2019-12-22
-DC3.0sc07	.	mRNA	6963435	6966669	.	-	.	owner=gracerl@mail.irsc.edu;Parent=86263f19-4928-44e7-baaf-e6237abc8927;ID=15686cdf-d400-400a-928d-af933d889b99;date_last_modified=2019-12-22;Name=MCOT05340.0.CO-00003;date_creation=2019-12-22
+DC3.0sc07	.	mRNA	6963435	6966669	.	-	.	owner=gracerl@mail.irsc.edu;Parent=86263f19-4928-44e7-baaf-e6237abc8927;ID=15686cdf-d400-400a-928d-af933d889b99;date_last_modified=2019-12-22;Name=MCOT05340.0.CO;date_creation=2019-12-22
 DC3.0sc07	.	exon	6966387	6966463	.	-	.	Parent=15686cdf-d400-400a-928d-af933d889b99;ID=0ec81674-b8c5-4bf5-8990-54c6b6421e13;Name=0ec81674-b8c5-4bf5-8990-54c6b6421e13
 DC3.0sc07	.	exon	6965814	6965970	.	-	.	Parent=15686cdf-d400-400a-928d-af933d889b99;ID=27c66c3e-f512-4374-bbc9-b55c9eace778;Name=27c66c3e-f512-4374-bbc9-b55c9eace778
 DC3.0sc07	.	exon	6964994	6965165	.	-	.	Parent=15686cdf-d400-400a-928d-af933d889b99;ID=8acbc713-3c17-44d5-b5a7-5cba0315299c;Name=8acbc713-3c17-44d5-b5a7-5cba0315299c
@@ -374,7 +374,7 @@ DC3.0sc07	.	CDS	6964994	6965165	.	-	2	Parent=15686cdf-d400-400a-928d-af933d889b9
 DC3.0sc07	.	CDS	6964371	6964473	.	-	1	Parent=15686cdf-d400-400a-928d-af933d889b99;ID=57dbdde0-b2a4-4350-a5d8-5bf20a53609a;Name=57dbdde0-b2a4-4350-a5d8-5bf20a53609a
 DC3.0sc07	.	exon	6963435	6964473	.	-	.	Parent=15686cdf-d400-400a-928d-af933d889b99;ID=be6f04a9-d715-46f3-90e7-6b26dd599281;Name=be6f04a9-d715-46f3-90e7-6b26dd599281
 DC3.0sc07	.	exon	6966630	6966669	.	-	.	Parent=15686cdf-d400-400a-928d-af933d889b99;ID=b306383a-1132-4c70-8e27-78de90120ba7;Name=b306383a-1132-4c70-8e27-78de90120ba7
-DC3.0sc07	.	mRNA	6964209	7002038	.	-	.	owner=gracerl@mail.irsc.edu;Parent=86263f19-4928-44e7-baaf-e6237abc8927;ID=a4720aa7-d8d1-4303-bcc6-6c9e1e473dee;date_last_modified=2019-12-22;Name=MCOT05340.0.CO-00001;date_creation=2019-12-22
+DC3.0sc07	.	mRNA	6964209	7002038	.	-	.	owner=gracerl@mail.irsc.edu;Parent=86263f19-4928-44e7-baaf-e6237abc8927;ID=a4720aa7-d8d1-4303-bcc6-6c9e1e473dee;date_last_modified=2019-12-22;Name=MCOT05340.0.CO;date_creation=2019-12-22
 DC3.0sc07	.	exon	6982776	6982902	.	-	.	Parent=a4720aa7-d8d1-4303-bcc6-6c9e1e473dee;ID=dc886623-d31f-4562-a0c2-31a3e575745a;Name=dc886623-d31f-4562-a0c2-31a3e575745a
 DC3.0sc07	.	exon	7001857	7002038	.	-	.	Parent=a4720aa7-d8d1-4303-bcc6-6c9e1e473dee;ID=10e89388-42cc-4802-9ebf-624b0413dc8c;Name=10e89388-42cc-4802-9ebf-624b0413dc8c
 DC3.0sc07	.	exon	6973519	6973689	.	-	.	Parent=a4720aa7-d8d1-4303-bcc6-6c9e1e473dee;ID=4d01133b-9df5-48d1-a48e-74380e25d67e;Name=4d01133b-9df5-48d1-a48e-74380e25d67e
@@ -407,7 +407,7 @@ DC3.0sc07	.	exon	6975810	6976044	.	-	.	Parent=a4720aa7-d8d1-4303-bcc6-6c9e1e473d
 DC3.0sc07	.	exon	6977845	6977984	.	-	.	Parent=a4720aa7-d8d1-4303-bcc6-6c9e1e473dee;ID=8b6d9548-d57e-4178-bf69-513ce3abe066;Name=8b6d9548-d57e-4178-bf69-513ce3abe066
 DC3.0sc07	.	exon	6983244	6983350	.	-	.	Parent=a4720aa7-d8d1-4303-bcc6-6c9e1e473dee;ID=9f6f63c5-dcb8-4a2d-ad5a-b6dc8aeeb320;Name=9f6f63c5-dcb8-4a2d-ad5a-b6dc8aeeb320
 DC3.0sc07	.	exon	6994974	6995150	.	-	.	Parent=a4720aa7-d8d1-4303-bcc6-6c9e1e473dee;ID=d1fab5eb-3d94-47dd-82f8-97a749c7ff9a;Name=d1fab5eb-3d94-47dd-82f8-97a749c7ff9a
-DC3.0sc07	.	mRNA	6979126	7001973	.	-	.	owner=gracerl@mail.irsc.edu;Parent=86263f19-4928-44e7-baaf-e6237abc8927;ID=a4751ce7-be33-44a5-8f38-d581c680a9d9;date_last_modified=2019-12-22;Name=MCOT05340.0.CO-00002;date_creation=2019-12-22
+DC3.0sc07	.	mRNA	6979126	7001973	.	-	.	owner=gracerl@mail.irsc.edu;Parent=86263f19-4928-44e7-baaf-e6237abc8927;ID=a4751ce7-be33-44a5-8f38-d581c680a9d9;date_last_modified=2019-12-22;Name=MCOT05340.0.CO-0;date_creation=2019-12-22
 DC3.0sc07	.	exon	6983244	6983350	.	-	.	Parent=a4751ce7-be33-44a5-8f38-d581c680a9d9;ID=7bfe0b2b-30a7-4a3e-8d5c-5f5ad534f929;Name=7bfe0b2b-30a7-4a3e-8d5c-5f5ad534f929
 DC3.0sc07	.	exon	6979802	6979978	.	-	.	Parent=a4751ce7-be33-44a5-8f38-d581c680a9d9;ID=c46747eb-9252-42a3-89cc-e70bb61a6d8d;Name=c46747eb-9252-42a3-89cc-e70bb61a6d8d
 DC3.0sc07	.	exon	6994078	6994206	.	-	.	Parent=a4751ce7-be33-44a5-8f38-d581c680a9d9;ID=4e00cd1d-7ee9-4d06-8ea8-bfdb8b734b6b;Name=4e00cd1d-7ee9-4d06-8ea8-bfdb8b734b6b
@@ -424,7 +424,7 @@ DC3.0sc07	.	exon	6979126	6979395	.	-	.	Parent=a4751ce7-be33-44a5-8f38-d581c680a9
 DC3.0sc07	.	exon	6982776	6982902	.	-	.	Parent=a4751ce7-be33-44a5-8f38-d581c680a9d9;ID=7993a4fd-778d-4170-9e71-cf763516b15e;Name=7993a4fd-778d-4170-9e71-cf763516b15e
 ###
 DC3.0sc07	.	gene	2083310	2151880	.	+	.	owner=gracerl@mail.irsc.edu;ID=8e4d31bb-d221-48a7-a95c-dd2e9575453c;date_last_modified=2019-12-22;Name=Dcitr07g01670.1.1;date_creation=2019-12-22
-DC3.0sc07	.	mRNA	2083310	2151880	.	+	.	owner=gracerl@mail.irsc.edu;Parent=8e4d31bb-d221-48a7-a95c-dd2e9575453c;ID=a1b284aa-8617-42a1-af4b-7dc31d952414;date_last_modified=2019-12-22;Name=Dcitr07g01670.1.1-00001;date_creation=2019-12-22
+DC3.0sc07	.	mRNA	2083310	2151880	.	+	.	owner=gracerl@mail.irsc.edu;Parent=8e4d31bb-d221-48a7-a95c-dd2e9575453c;ID=a1b284aa-8617-42a1-af4b-7dc31d952414;date_last_modified=2019-12-22;Name=Dcitr07g01670.1.1;date_creation=2019-12-22
 DC3.0sc07	.	exon	2088532	2088708	.	+	.	Parent=a1b284aa-8617-42a1-af4b-7dc31d952414;ID=f34791b5-bdbd-4cbf-81dd-86c89b82c6d4;Name=f34791b5-bdbd-4cbf-81dd-86c89b82c6d4
 DC3.0sc07	.	exon	2097512	2097609	.	+	.	Parent=a1b284aa-8617-42a1-af4b-7dc31d952414;ID=fc7c8161-c23f-49b8-8327-b91a56384b50;Name=fc7c8161-c23f-49b8-8327-b91a56384b50
 DC3.0sc07	.	exon	2147611	2147914	.	+	.	Parent=a1b284aa-8617-42a1-af4b-7dc31d952414;ID=6b3d4508-ca01-4d0a-abec-adf6d06ae5a6;Name=6b3d4508-ca01-4d0a-abec-adf6d06ae5a6
@@ -485,7 +485,7 @@ DC3.0sc07	.	CDS	24191718	24191856	.	-	0	Parent=d21de11f-1c82-415f-91b2-d551da709
 DC3.0sc07	.	CDS	24190952	24191205	.	-	2	Parent=d21de11f-1c82-415f-91b2-d551da7097ba;ID=6a1aad57-f07e-4fc6-8d9e-be8e64649da6;Name=6a1aad57-f07e-4fc6-8d9e-be8e64649da6
 ###
 DC3.0sc07	.	gene	12678206	12707332	.	+	.	owner=wtank@ksu.edu;ID=4f48a705-b0fb-4563-9ef2-80be162caf0b;date_last_modified=2020-01-23;Name=Possible Ubiquitin-carboxyl_protease_7;date_creation=2020-01-23
-DC3.0sc07	.	mRNA	12678206	12707332	.	+	.	owner=wtank@ksu.edu;Parent=4f48a705-b0fb-4563-9ef2-80be162caf0b;ID=ee289a5f-c574-4441-bc99-ab73173bd538;date_last_modified=2020-01-23;Name=Dcitr07g06000.1.1-00001;date_creation=2020-01-23
+DC3.0sc07	.	mRNA	12678206	12707332	.	+	.	owner=wtank@ksu.edu;Parent=4f48a705-b0fb-4563-9ef2-80be162caf0b;ID=ee289a5f-c574-4441-bc99-ab73173bd538;date_last_modified=2020-01-23;Name=Dcitr07g06000.1.1;date_creation=2020-01-23
 DC3.0sc07	.	exon	12695056	12695209	.	+	.	Parent=ee289a5f-c574-4441-bc99-ab73173bd538;ID=b04e0a09-8c39-482d-8c44-47016c4e78b1;Name=b04e0a09-8c39-482d-8c44-47016c4e78b1
 DC3.0sc07	.	exon	12705005	12705107	.	+	.	Parent=ee289a5f-c574-4441-bc99-ab73173bd538;ID=b802bf1f-1e64-439b-bf67-ef576cb11681;Name=b802bf1f-1e64-439b-bf67-ef576cb11681
 DC3.0sc07	.	exon	12680058	12680306	.	+	.	Parent=ee289a5f-c574-4441-bc99-ab73173bd538;ID=39c630aa-68e7-4e60-8dbb-d610d417f407;Name=39c630aa-68e7-4e60-8dbb-d610d417f407
@@ -552,7 +552,7 @@ DC3.0sc07	.	CDS	17995910	17996651	.	-	2	Parent=3913b449-1697-47cf-9c5f-466b6a854
 DC3.0sc07	.	CDS	17994853	17995140	.	-	1	Parent=3913b449-1697-47cf-9c5f-466b6a854995;ID=d0462508-a38f-458b-bad0-f41a41afe200;Name=d0462508-a38f-458b-bad0-f41a41afe200
 DC3.0sc07	.	CDS	17994044	17994212	.	-	1	Parent=3913b449-1697-47cf-9c5f-466b6a854995;ID=d0462508-a38f-458b-bad0-f41a41afe200;Name=d0462508-a38f-458b-bad0-f41a41afe200
 ###
-DC3.0sc07	.	gene	17997707	18007620	.	-	.	owner=sammy.sedky@usda.gov;ID=bae02959-117a-47c2-b49e-89c95dfd0fad;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Dcitr07g08280.1.1-00001;date_creation=2021-10-07
+DC3.0sc07	.	gene	17997707	18007620	.	-	.	owner=sammy.sedky@usda.gov;ID=bae02959-117a-47c2-b49e-89c95dfd0fad;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Dcitr07g08280.1.1;date_creation=2021-10-07
 DC3.0sc07	.	mRNA	17997707	18007620	.	-	.	owner=sammy.sedky@usda.gov;Parent=bae02959-117a-47c2-b49e-89c95dfd0fad;ID=6d7eb995-9f6e-46cd-87b0-d0d4fb22ba5e;orig_id=Dcitr07g08280.1.1;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Odorant receptor;date_creation=2021-10-07
 DC3.0sc07	.	exon	18006769	18006999	.	-	.	Parent=6d7eb995-9f6e-46cd-87b0-d0d4fb22ba5e;ID=63324bbb-f074-43e8-8bf4-2e9ef55b24e2;Name=63324bbb-f074-43e8-8bf4-2e9ef55b24e2
 DC3.0sc07	.	exon	17997707	17998005	.	-	.	Parent=6d7eb995-9f6e-46cd-87b0-d0d4fb22ba5e;ID=bfdb828c-a4a9-4f7e-a50c-8c450cbd2f89;Name=bfdb828c-a4a9-4f7e-a50c-8c450cbd2f89
@@ -599,7 +599,7 @@ DC3.0sc07	.	exon	18099479	18099766	.	+	.	Parent=6e1ab173-c10f-4e88-b059-41183cb0
 ###
 ##sequence-region DC3.0sc08 1 28791834
 DC3.0sc08	.	gene	7918056	7933981	.	-	.	owner=adkinssc@mail.irsc.edu;ID=69ab0a4a-1da7-4b80-a95b-e6508f73043f;date_last_modified=2020-03-06;Name=TKTL2;date_creation=2019-11-15
-DC3.0sc08	.	mRNA	7918056	7933981	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=69ab0a4a-1da7-4b80-a95b-e6508f73043f;description=Transketolase like-protein 2 RB;ID=aeeb5e92-0b38-4dc2-aee1-6f1edae94e15;orig_id=Dcitr08g04260.1.2;date_last_modified=2020-03-06;Name=Dcitr08g04260.1.1-00002;date_creation=2019-11-15
+DC3.0sc08	.	mRNA	7918056	7933981	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=69ab0a4a-1da7-4b80-a95b-e6508f73043f;description=Transketolase like-protein 2 RB;ID=aeeb5e92-0b38-4dc2-aee1-6f1edae94e15;orig_id=Dcitr08g04260.1.2;date_last_modified=2020-03-06;Name=Dcitr08g04260.1.1-0;date_creation=2019-11-15
 DC3.0sc08	.	exon	7921443	7921694	.	-	.	Parent=aeeb5e92-0b38-4dc2-aee1-6f1edae94e15;ID=f27060a6-b7e1-4312-9fde-56077a9bc88e;Name=f27060a6-b7e1-4312-9fde-56077a9bc88e
 DC3.0sc08	.	exon	7923688	7923877	.	-	.	Parent=aeeb5e92-0b38-4dc2-aee1-6f1edae94e15;ID=a76b0f6f-2923-472f-8fed-3a3cc3c99350;Name=a76b0f6f-2923-472f-8fed-3a3cc3c99350
 DC3.0sc08	.	exon	7933791	7933981	.	-	.	Parent=aeeb5e92-0b38-4dc2-aee1-6f1edae94e15;ID=02c604a0-a135-4bd6-9eef-4ce42dc92334;Name=02c604a0-a135-4bd6-9eef-4ce42dc92334
@@ -621,7 +621,7 @@ DC3.0sc08	.	CDS	7918374	7918546	.	-	2	Parent=aeeb5e92-0b38-4dc2-aee1-6f1edae94e1
 DC3.0sc08	.	exon	7918056	7918546	.	-	.	Parent=aeeb5e92-0b38-4dc2-aee1-6f1edae94e15;ID=a256f0be-028a-4ce8-a97e-1506ececee2d;Name=a256f0be-028a-4ce8-a97e-1506ececee2d
 DC3.0sc08	.	exon	7919133	7919504	.	-	.	Parent=aeeb5e92-0b38-4dc2-aee1-6f1edae94e15;ID=2a8731ed-794d-4c63-a4c7-7bbf65a8ebbb;Name=2a8731ed-794d-4c63-a4c7-7bbf65a8ebbb
 DC3.0sc08	.	exon	7924240	7924385	.	-	.	Parent=aeeb5e92-0b38-4dc2-aee1-6f1edae94e15;ID=c128c1f0-515c-40a8-aace-f5a64cf6910c;Name=c128c1f0-515c-40a8-aace-f5a64cf6910c
-DC3.0sc08	.	mRNA	7918056	7928758	.	-	.	owner=adkinssc@mail.irsc.edu;symbol=TKTL2-RA;Parent=69ab0a4a-1da7-4b80-a95b-e6508f73043f;description=Transketolase like-protein 2 RA;ID=0a06ba15-605a-4e59-ab65-1ec38f7e2535;orig_id=Dcitr08g04260.1.1;date_last_modified=2020-03-06;Name=Dcitr08g04260.1.1-00001;date_creation=2019-11-15
+DC3.0sc08	.	mRNA	7918056	7928758	.	-	.	owner=adkinssc@mail.irsc.edu;symbol=TKTL2-RA;Parent=69ab0a4a-1da7-4b80-a95b-e6508f73043f;description=Transketolase like-protein 2 RA;ID=0a06ba15-605a-4e59-ab65-1ec38f7e2535;orig_id=Dcitr08g04260.1.1;date_last_modified=2020-03-06;Name=Dcitr08g04260.1.1;date_creation=2019-11-15
 DC3.0sc08	.	exon	7920480	7920617	.	-	.	Parent=0a06ba15-605a-4e59-ab65-1ec38f7e2535;ID=36ec7047-8985-42ce-abfc-d5cb6ee287b0;Name=36ec7047-8985-42ce-abfc-d5cb6ee287b0
 DC3.0sc08	.	exon	7922948	7923182	.	-	.	Parent=0a06ba15-605a-4e59-ab65-1ec38f7e2535;ID=39689327-ebe8-4a5c-80d8-298195b687bc;Name=39689327-ebe8-4a5c-80d8-298195b687bc
 DC3.0sc08	.	exon	7918056	7918546	.	-	.	Parent=0a06ba15-605a-4e59-ab65-1ec38f7e2535;ID=89ed8dd9-b508-4e17-ae77-20fba8fc3dab;Name=89ed8dd9-b508-4e17-ae77-20fba8fc3dab
@@ -667,7 +667,7 @@ DC3.0sc08	.	exon	8134655	8134667	.	-	.	Parent=96ac0f07-6ee7-4915-8ab4-1e1a941a2c
 DC3.0sc08	.	exon	8129189	8129439	.	-	.	Parent=96ac0f07-6ee7-4915-8ab4-1e1a941a2c32;ID=fa5447b6-8299-46e6-b460-c170eb83dd2b;Name=fa5447b6-8299-46e6-b460-c170eb83dd2b
 DC3.0sc08	.	exon	8132235	8132270	.	-	.	Parent=96ac0f07-6ee7-4915-8ab4-1e1a941a2c32;ID=3d0300d1-cd1e-4a80-954d-4ff05dc4d756;Name=3d0300d1-cd1e-4a80-954d-4ff05dc4d756
 DC3.0sc08	.	exon	8127401	8127537	.	-	.	Parent=96ac0f07-6ee7-4915-8ab4-1e1a941a2c32;ID=4a4bbed3-b818-4938-b4f8-b0a7647e302a;Name=4a4bbed3-b818-4938-b4f8-b0a7647e302a
-DC3.0sc08	.	mRNA	8125659	8141144	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=b1baa5b8-2514-401a-89c7-cef4b2a38959;ID=1a2be1c3-ef29-4b51-9f51-ccbd324feaea;orig_id=Dcitr08g04360.1.1;date_last_modified=2019-11-15;Name=Dcitr08g04360.1.1-00001;date_creation=2019-11-15
+DC3.0sc08	.	mRNA	8125659	8141144	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=b1baa5b8-2514-401a-89c7-cef4b2a38959;ID=1a2be1c3-ef29-4b51-9f51-ccbd324feaea;orig_id=Dcitr08g04360.1.1;date_last_modified=2019-11-15;Name=Dcitr08g04360.1.1;date_creation=2019-11-15
 DC3.0sc08	.	exon	8126638	8126999	.	-	.	Parent=1a2be1c3-ef29-4b51-9f51-ccbd324feaea;ID=a73aa9e6-c502-4d19-9b6b-05cacc0c1690;Name=a73aa9e6-c502-4d19-9b6b-05cacc0c1690
 DC3.0sc08	.	exon	8127504	8127537	.	-	.	Parent=1a2be1c3-ef29-4b51-9f51-ccbd324feaea;ID=5bcac39d-8e8b-4d93-b3aa-1812f8f752d0;Name=5bcac39d-8e8b-4d93-b3aa-1812f8f752d0
 DC3.0sc08	.	exon	8132160	8132270	.	-	.	Parent=1a2be1c3-ef29-4b51-9f51-ccbd324feaea;ID=9337989f-e9f6-4c27-8581-d3957dc1a384;Name=9337989f-e9f6-4c27-8581-d3957dc1a384
@@ -692,14 +692,14 @@ DC3.0sc08	.	CDS	8125869	8126041	.	-	2	Parent=1a2be1c3-ef29-4b51-9f51-ccbd324feae
 DC3.0sc08	.	stop_codon_read_through	8127504	8127506	.	-	.	Parent=14574b4e-03b7-4ed7-8ab7-63aefa5cfb23;ID=14574b4e-03b7-4ed7-8ab7-63aefa5cfb23-stop_codon_read_through;Name=14574b4e-03b7-4ed7-8ab7-63aefa5cfb23-stop_codon_read_through
 DC3.0sc08	.	exon	8140856	8141144	.	-	.	Parent=1a2be1c3-ef29-4b51-9f51-ccbd324feaea;ID=1c4ae5a3-60c7-4a4b-afd3-5aebe3aa1972;Name=1c4ae5a3-60c7-4a4b-afd3-5aebe3aa1972
 DC3.0sc08	.	exon	8129912	8130013	.	-	.	Parent=1a2be1c3-ef29-4b51-9f51-ccbd324feaea;ID=a15f373c-527a-4882-bf1d-ac327e49c241;Name=a15f373c-527a-4882-bf1d-ac327e49c241
-DC3.0sc08	.	mRNA	8125659	8127464	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=b1baa5b8-2514-401a-89c7-cef4b2a38959;ID=2077ac3c-9497-405c-b364-cfd569f89c33;orig_id=Dcitr08g04350.1.1;date_last_modified=2019-11-15;Name=Dcitr08g04360.1.1-00003;date_creation=2019-11-15
+DC3.0sc08	.	mRNA	8125659	8127464	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=b1baa5b8-2514-401a-89c7-cef4b2a38959;ID=2077ac3c-9497-405c-b364-cfd569f89c33;orig_id=Dcitr08g04350.1.1;date_last_modified=2019-11-15;Name=Dcitr08g04360.1.1;date_creation=2019-11-15
 DC3.0sc08	.	exon	8126638	8126999	.	-	.	Parent=2077ac3c-9497-405c-b364-cfd569f89c33;ID=4aeb2389-0d9f-4b84-b60b-cc0dd5cc9f98;Name=4aeb2389-0d9f-4b84-b60b-cc0dd5cc9f98
 DC3.0sc08	.	exon	8127412	8127464	.	-	.	Parent=2077ac3c-9497-405c-b364-cfd569f89c33;ID=1b62b713-af0e-4fcb-b7e6-566d7c06b2d9;Name=1b62b713-af0e-4fcb-b7e6-566d7c06b2d9
 DC3.0sc08	.	CDS	8127412	8127464	.	-	0	Parent=2077ac3c-9497-405c-b364-cfd569f89c33;ID=a4371b5e-f80e-48d2-a11e-f5ab67b818cc;Name=a4371b5e-f80e-48d2-a11e-f5ab67b818cc
 DC3.0sc08	.	CDS	8126638	8126999	.	-	1	Parent=2077ac3c-9497-405c-b364-cfd569f89c33;ID=a4371b5e-f80e-48d2-a11e-f5ab67b818cc;Name=a4371b5e-f80e-48d2-a11e-f5ab67b818cc
 DC3.0sc08	.	CDS	8125869	8126041	.	-	2	Parent=2077ac3c-9497-405c-b364-cfd569f89c33;ID=a4371b5e-f80e-48d2-a11e-f5ab67b818cc;Name=a4371b5e-f80e-48d2-a11e-f5ab67b818cc
 DC3.0sc08	.	exon	8125659	8126041	.	-	.	Parent=2077ac3c-9497-405c-b364-cfd569f89c33;ID=e1f03cb7-5d7c-4d14-8226-0f622cb20a0f;Name=e1f03cb7-5d7c-4d14-8226-0f622cb20a0f
-DC3.0sc08	.	mRNA	8125578	8142208	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=b1baa5b8-2514-401a-89c7-cef4b2a38959;ID=49e27f41-69f2-496c-be6f-53e9a5366bb5;date_last_modified=2020-03-06;Name=TKT 2 or 1-00001;date_creation=2020-03-06
+DC3.0sc08	.	mRNA	8125578	8142208	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=b1baa5b8-2514-401a-89c7-cef4b2a38959;ID=49e27f41-69f2-496c-be6f-53e9a5366bb5;date_last_modified=2020-03-06;Name=TKT 2 or 1;date_creation=2020-03-06
 DC3.0sc08	.	exon	8128380	8128517	.	-	.	Parent=49e27f41-69f2-496c-be6f-53e9a5366bb5;ID=b683bde1-c030-4dbc-beaa-0b937719b1ab;Name=b683bde1-c030-4dbc-beaa-0b937719b1ab
 DC3.0sc08	.	exon	8131574	8131763	.	-	.	Parent=49e27f41-69f2-496c-be6f-53e9a5366bb5;ID=6c5c223e-ed1b-4b2f-875d-950547d55b9f;Name=6c5c223e-ed1b-4b2f-875d-950547d55b9f
 DC3.0sc08	.	CDS	8140856	8140959	.	-	0	Parent=49e27f41-69f2-496c-be6f-53e9a5366bb5;ID=b2a84d1f-b992-405c-88e9-cb9819986dcb;Name=b2a84d1f-b992-405c-88e9-cb9819986dcb
@@ -732,7 +732,7 @@ DC3.0sc08	.	exon	193714	193816	.	-	.	Parent=08a9b51e-5c2b-4b80-8fcb-923291aaf364
 DC3.0sc08	.	exon	175544	175927	.	-	.	Parent=08a9b51e-5c2b-4b80-8fcb-923291aaf364;ID=70e3b85c-7728-4c13-8363-61ec4a095213;Name=70e3b85c-7728-4c13-8363-61ec4a095213
 ###
 DC3.0sc08	.	gene	4798043	4811768	.	-	.	owner=perentem@mail.uc.edu;ID=17b210c5-2e24-4f6c-83a5-719cede00d4e;date_last_modified=2019-11-15;Name=Dcitr08g03230.1.1;date_creation=2019-11-15
-DC3.0sc08	.	mRNA	4798043	4811768	.	-	.	owner=perentem@mail.uc.edu;Parent=17b210c5-2e24-4f6c-83a5-719cede00d4e;ID=83082953-73f8-4841-839c-32fb00d93e71;orig_id=Dcitr08g03230.1.1;date_last_modified=2019-11-15;Name=Dcitr08g03230.1.1-00001;date_creation=2019-11-15
+DC3.0sc08	.	mRNA	4798043	4811768	.	-	.	owner=perentem@mail.uc.edu;Parent=17b210c5-2e24-4f6c-83a5-719cede00d4e;ID=83082953-73f8-4841-839c-32fb00d93e71;orig_id=Dcitr08g03230.1.1;date_last_modified=2019-11-15;Name=Dcitr08g03230.1.1;date_creation=2019-11-15
 DC3.0sc08	.	exon	4798043	4803145	.	-	.	Parent=83082953-73f8-4841-839c-32fb00d93e71;ID=26808ae1-024e-4ffb-b8b6-d655c9502a02;Name=26808ae1-024e-4ffb-b8b6-d655c9502a02
 DC3.0sc08	.	exon	4803376	4803407	.	-	.	Parent=83082953-73f8-4841-839c-32fb00d93e71;ID=1c7d7cbd-43e0-46eb-af1f-4d749a6d7f7b;Name=1c7d7cbd-43e0-46eb-af1f-4d749a6d7f7b
 DC3.0sc08	.	exon	4808446	4808480	.	-	.	Parent=83082953-73f8-4841-839c-32fb00d93e71;ID=38d344ae-2cd9-4f45-a823-cd0fff94ec31;Name=38d344ae-2cd9-4f45-a823-cd0fff94ec31
@@ -742,7 +742,7 @@ DC3.0sc08	.	CDS	4803376	4803407	.	-	2	Parent=83082953-73f8-4841-839c-32fb00d93e7
 DC3.0sc08	.	CDS	4799909	4803145	.	-	0	Parent=83082953-73f8-4841-839c-32fb00d93e71;ID=df47ef12-4156-4aee-9954-1e137937adfe;Name=df47ef12-4156-4aee-9954-1e137937adfe
 ###
 DC3.0sc08	.	gene	4130559	4136598	.	+	.	owner=perentem@mail.uc.edu;ID=7334334f-2571-4508-92d5-6cc508556431;date_last_modified=2019-11-15;Name=Dcitr08g02820.1.1;date_creation=2019-11-15
-DC3.0sc08	.	mRNA	4130559	4136598	.	+	.	owner=perentem@mail.uc.edu;Parent=7334334f-2571-4508-92d5-6cc508556431;ID=677a76a7-3868-4553-9884-a34e2286e78b;orig_id=Dcitr08g02820.1.1;date_last_modified=2019-11-15;Name=Dcitr08g02820.1.1-00001;date_creation=2019-11-15
+DC3.0sc08	.	mRNA	4130559	4136598	.	+	.	owner=perentem@mail.uc.edu;Parent=7334334f-2571-4508-92d5-6cc508556431;ID=677a76a7-3868-4553-9884-a34e2286e78b;orig_id=Dcitr08g02820.1.1;date_last_modified=2019-11-15;Name=Dcitr08g02820.1.1;date_creation=2019-11-15
 DC3.0sc08	.	CDS	4130734	4130736	.	+	0	Parent=677a76a7-3868-4553-9884-a34e2286e78b;ID=d69fc5a3-bc4d-4fe3-b710-d674291c0473;Name=d69fc5a3-bc4d-4fe3-b710-d674291c0473
 DC3.0sc08	.	CDS	4133271	4133479	.	+	0	Parent=677a76a7-3868-4553-9884-a34e2286e78b;ID=d69fc5a3-bc4d-4fe3-b710-d674291c0473;Name=d69fc5a3-bc4d-4fe3-b710-d674291c0473
 DC3.0sc08	.	CDS	4133919	4136373	.	+	1	Parent=677a76a7-3868-4553-9884-a34e2286e78b;ID=d69fc5a3-bc4d-4fe3-b710-d674291c0473;Name=d69fc5a3-bc4d-4fe3-b710-d674291c0473
@@ -978,7 +978,7 @@ DC3.0sc05	.	exon	36167775	36167924	.	-	.	Parent=efd9218e-cb19-4458-b81b-8dddb3e4
 DC3.0sc05	.	exon	36164316	36164489	.	-	.	Parent=efd9218e-cb19-4458-b81b-8dddb3e4f9b6;ID=8d7a47b6-d9d3-484a-b1a3-e1520c152a7d;Name=8d7a47b6-d9d3-484a-b1a3-e1520c152a7d
 ###
 DC3.0sc05	.	gene	10312543	10315966	.	-	.	owner=perentem@mail.uc.edu;ID=459c3808-ec44-4340-9ad8-e1963b6e0b54;date_last_modified=2019-11-13;Name=Dcitr05g04820.1.1;date_creation=2019-11-13
-DC3.0sc05	.	mRNA	10312543	10315966	.	-	.	owner=perentem@mail.uc.edu;Parent=459c3808-ec44-4340-9ad8-e1963b6e0b54;ID=fef7560c-1387-4cfc-9dd8-a0880f2de057;orig_id=Dcitr05g04820.1.1;date_last_modified=2019-11-13;Name=Dcitr05g04820.1.1-00001;date_creation=2019-11-13
+DC3.0sc05	.	mRNA	10312543	10315966	.	-	.	owner=perentem@mail.uc.edu;Parent=459c3808-ec44-4340-9ad8-e1963b6e0b54;ID=fef7560c-1387-4cfc-9dd8-a0880f2de057;orig_id=Dcitr05g04820.1.1;date_last_modified=2019-11-13;Name=Dcitr05g04820.1.1;date_creation=2019-11-13
 DC3.0sc05	.	CDS	10313952	10314146	.	-	0	Parent=fef7560c-1387-4cfc-9dd8-a0880f2de057;ID=8fb90f4b-a412-4f11-a21f-0579ab6844e5;Name=8fb90f4b-a412-4f11-a21f-0579ab6844e5
 DC3.0sc05	.	CDS	10313389	10313590	.	-	0	Parent=fef7560c-1387-4cfc-9dd8-a0880f2de057;ID=8fb90f4b-a412-4f11-a21f-0579ab6844e5;Name=8fb90f4b-a412-4f11-a21f-0579ab6844e5
 DC3.0sc05	.	CDS	10312629	10312783	.	-	2	Parent=fef7560c-1387-4cfc-9dd8-a0880f2de057;ID=8fb90f4b-a412-4f11-a21f-0579ab6844e5;Name=8fb90f4b-a412-4f11-a21f-0579ab6844e5
@@ -988,7 +988,7 @@ DC3.0sc05	.	exon	10313952	10314147	.	-	.	Parent=fef7560c-1387-4cfc-9dd8-a0880f2d
 DC3.0sc05	.	exon	10315679	10315966	.	-	.	Parent=fef7560c-1387-4cfc-9dd8-a0880f2de057;ID=78287494-d2cb-4927-a203-3f9af2f1e08e;Name=78287494-d2cb-4927-a203-3f9af2f1e08e
 ###
 DC3.0sc05	.	gene	32292729	32314532	.	+	.	owner=aguirreikristine@gmail.com,tamayoba@mail.irsc.edu,massiminoel@mail.irsc.edu;ID=0248a1ba-0cea-43bb-bf42-b77c63dc0ecd;date_last_modified=2019-11-14;Name=MCOT02759.2.CO;date_creation=2019-11-14
-DC3.0sc05	.	mRNA	32292729	32314532	.	+	.	owner=aguirreikristine@gmail.com;Parent=0248a1ba-0cea-43bb-bf42-b77c63dc0ecd;ID=e6f46119-e91d-4fe6-a834-9d13b2b03d19;orig_id=DcDTi06836.3.mrna1;date_last_modified=2019-11-14;Name=MCOT02759.2.CO-00003;date_creation=2019-11-14
+DC3.0sc05	.	mRNA	32292729	32314532	.	+	.	owner=aguirreikristine@gmail.com;Parent=0248a1ba-0cea-43bb-bf42-b77c63dc0ecd;ID=e6f46119-e91d-4fe6-a834-9d13b2b03d19;orig_id=DcDTi06836.3.mrna1;date_last_modified=2019-11-14;Name=MCOT02759.2.CO;date_creation=2019-11-14
 DC3.0sc05	.	exon	32310487	32310699	.	+	.	Parent=e6f46119-e91d-4fe6-a834-9d13b2b03d19;ID=0c454747-1732-4228-98e2-3a0df9216570;Name=0c454747-1732-4228-98e2-3a0df9216570
 DC3.0sc05	.	exon	32313283	32314532	.	+	.	Parent=e6f46119-e91d-4fe6-a834-9d13b2b03d19;ID=8cdb22f5-cf2f-4f9c-9997-8f2a01884d42;Name=8cdb22f5-cf2f-4f9c-9997-8f2a01884d42
 DC3.0sc05	.	exon	32305002	32305097	.	+	.	Parent=e6f46119-e91d-4fe6-a834-9d13b2b03d19;ID=5da48ad3-38df-43b2-8889-da86441adb47;Name=5da48ad3-38df-43b2-8889-da86441adb47
@@ -1010,7 +1010,7 @@ DC3.0sc05	.	CDS	32309727	32309914	.	+	2	Parent=e6f46119-e91d-4fe6-a834-9d13b2b03
 DC3.0sc05	.	CDS	32310487	32310699	.	+	0	Parent=e6f46119-e91d-4fe6-a834-9d13b2b03d19;ID=2a957d80-cacd-4c29-821c-b4be87d213f0;Name=2a957d80-cacd-4c29-821c-b4be87d213f0
 DC3.0sc05	.	CDS	32312583	32312786	.	+	0	Parent=e6f46119-e91d-4fe6-a834-9d13b2b03d19;ID=2a957d80-cacd-4c29-821c-b4be87d213f0;Name=2a957d80-cacd-4c29-821c-b4be87d213f0
 DC3.0sc05	.	CDS	32313283	32313426	.	+	0	Parent=e6f46119-e91d-4fe6-a834-9d13b2b03d19;ID=2a957d80-cacd-4c29-821c-b4be87d213f0;Name=2a957d80-cacd-4c29-821c-b4be87d213f0
-DC3.0sc05	.	mRNA	32292770	32313469	.	+	.	owner=aguirreikristine@gmail.com;Parent=0248a1ba-0cea-43bb-bf42-b77c63dc0ecd;ID=93f231e6-8f34-4dc4-8a33-dec48de38c7a;orig_id=MCOT02759.2.CO.mrna1;date_last_modified=2019-11-14;Name=MCOT02759.2.CO-00001;date_creation=2019-11-14
+DC3.0sc05	.	mRNA	32292770	32313469	.	+	.	owner=aguirreikristine@gmail.com;Parent=0248a1ba-0cea-43bb-bf42-b77c63dc0ecd;ID=93f231e6-8f34-4dc4-8a33-dec48de38c7a;orig_id=MCOT02759.2.CO.mrna1;date_last_modified=2019-11-14;Name=MCOT02759.2.CO;date_creation=2019-11-14
 DC3.0sc05	.	exon	32298999	32299182	.	+	.	Parent=93f231e6-8f34-4dc4-8a33-dec48de38c7a;ID=1f1edd3e-1b8e-41d5-adae-9d75ac594ceb;Name=1f1edd3e-1b8e-41d5-adae-9d75ac594ceb
 DC3.0sc05	.	exon	32292770	32292899	.	+	.	Parent=93f231e6-8f34-4dc4-8a33-dec48de38c7a;ID=fe19cd1e-00f1-4346-82c6-0a87c489aab6;Name=fe19cd1e-00f1-4346-82c6-0a87c489aab6
 DC3.0sc05	.	exon	32305002	32305097	.	+	.	Parent=93f231e6-8f34-4dc4-8a33-dec48de38c7a;ID=08abbe16-68e5-4091-88ea-b6baa88bdfed;Name=08abbe16-68e5-4091-88ea-b6baa88bdfed
@@ -1035,7 +1035,7 @@ DC3.0sc05	.	CDS	32312562	32312786	.	+	0	Parent=93f231e6-8f34-4dc4-8a33-dec48de38
 DC3.0sc05	.	CDS	32313283	32313426	.	+	0	Parent=93f231e6-8f34-4dc4-8a33-dec48de38c7a;ID=0d5872c1-dfc2-40ff-bfed-c554a721f546;Name=0d5872c1-dfc2-40ff-bfed-c554a721f546
 DC3.0sc05	.	exon	32301645	32301960	.	+	.	Parent=93f231e6-8f34-4dc4-8a33-dec48de38c7a;ID=eaabece2-9c65-4472-b8c8-9edfc8242d2f;Name=eaabece2-9c65-4472-b8c8-9edfc8242d2f
 DC3.0sc05	.	exon	32309153	32309260	.	+	.	Parent=93f231e6-8f34-4dc4-8a33-dec48de38c7a;ID=fd60781a-a595-465d-9463-96f3f8e44c49;Name=fd60781a-a595-465d-9463-96f3f8e44c49
-DC3.0sc05	.	mRNA	32301610	32313426	.	+	.	owner=tamayoba@mail.irsc.edu;Parent=0248a1ba-0cea-43bb-bf42-b77c63dc0ecd;ID=0d9859ce-e811-48e2-ba4d-61839ee18910;date_last_modified=2019-11-14;Name=MCOT02759.2.CO-00004;date_creation=2019-11-14
+DC3.0sc05	.	mRNA	32301610	32313426	.	+	.	owner=tamayoba@mail.irsc.edu;Parent=0248a1ba-0cea-43bb-bf42-b77c63dc0ecd;ID=0d9859ce-e811-48e2-ba4d-61839ee18910;date_last_modified=2019-11-14;Name=MCOT02759.2.CO;date_creation=2019-11-14
 DC3.0sc05	.	exon	32310487	32310699	.	+	.	Parent=0d9859ce-e811-48e2-ba4d-61839ee18910;ID=4c0e1bd4-2251-494b-ab89-d535fb7c4f38;Name=4c0e1bd4-2251-494b-ab89-d535fb7c4f38
 DC3.0sc05	.	exon	32305485	32305645	.	+	.	Parent=0d9859ce-e811-48e2-ba4d-61839ee18910;ID=93b43108-58a7-4a2b-9ba9-04213377c31a;Name=93b43108-58a7-4a2b-9ba9-04213377c31a
 DC3.0sc05	.	exon	32306041	32306165	.	+	.	Parent=0d9859ce-e811-48e2-ba4d-61839ee18910;ID=b5fc4156-f990-4411-a7fe-8c798a89099a;Name=b5fc4156-f990-4411-a7fe-8c798a89099a
@@ -1056,7 +1056,7 @@ DC3.0sc05	.	CDS	32312583	32312786	.	+	0	Parent=0d9859ce-e811-48e2-ba4d-61839ee18
 DC3.0sc05	.	CDS	32313283	32313426	.	+	0	Parent=0d9859ce-e811-48e2-ba4d-61839ee18910;ID=69c905bb-c405-49b2-a0db-a7f4e6769c56;Name=69c905bb-c405-49b2-a0db-a7f4e6769c56
 DC3.0sc05	.	exon	32301610	32301960	.	+	.	Parent=0d9859ce-e811-48e2-ba4d-61839ee18910;ID=9d0f36a2-43e3-4008-a595-02d30981d5d0;Name=9d0f36a2-43e3-4008-a595-02d30981d5d0
 DC3.0sc05	.	exon	32312583	32312786	.	+	.	Parent=0d9859ce-e811-48e2-ba4d-61839ee18910;ID=9f87e6f2-0786-421a-8730-1b3e587aeb15;Name=9f87e6f2-0786-421a-8730-1b3e587aeb15
-DC3.0sc05	.	mRNA	32301610	32313426	.	+	.	owner=massiminoel@mail.irsc.edu;Parent=0248a1ba-0cea-43bb-bf42-b77c63dc0ecd;ID=625c755b-7967-48a0-9ae3-dd5153229de6;orig_id=Dcitr05g13950.1.1;date_last_modified=2019-11-14;Name=MCOT02759.2.CO-00002;date_creation=2019-11-14
+DC3.0sc05	.	mRNA	32301610	32313426	.	+	.	owner=massiminoel@mail.irsc.edu;Parent=0248a1ba-0cea-43bb-bf42-b77c63dc0ecd;ID=625c755b-7967-48a0-9ae3-dd5153229de6;orig_id=Dcitr05g13950.1.1;date_last_modified=2019-11-14;Name=MCOT02759.2.CO-0;date_creation=2019-11-14
 DC3.0sc05	.	exon	32307032	32307202	.	+	.	Parent=625c755b-7967-48a0-9ae3-dd5153229de6;ID=1ea6b009-9361-4986-834d-590b22160b54;Name=1ea6b009-9361-4986-834d-590b22160b54
 DC3.0sc05	.	CDS	32301610	32302074	.	+	0	Parent=625c755b-7967-48a0-9ae3-dd5153229de6;ID=3c783f2a-4711-4cd7-9cbc-283be019339f;Name=3c783f2a-4711-4cd7-9cbc-283be019339f
 DC3.0sc05	.	CDS	32305002	32305097	.	+	0	Parent=625c755b-7967-48a0-9ae3-dd5153229de6;ID=3c783f2a-4711-4cd7-9cbc-283be019339f;Name=3c783f2a-4711-4cd7-9cbc-283be019339f
@@ -1079,7 +1079,7 @@ DC3.0sc05	.	exon	32306041	32306165	.	+	.	Parent=625c755b-7967-48a0-9ae3-dd515322
 DC3.0sc05	.	exon	32309153	32309260	.	+	.	Parent=625c755b-7967-48a0-9ae3-dd5153229de6;ID=592bb1c7-a2f5-484d-9d10-141118b233b7;Name=592bb1c7-a2f5-484d-9d10-141118b233b7
 ###
 DC3.0sc05	.	gene	30268780	30300798	.	+	.	owner=adkinssc@mail.irsc.edu;ID=5f86a676-46b6-4b24-83de-bc110563c178;date_last_modified=2019-11-22;Name=Maybe 6PGLS;date_creation=2019-11-22
-DC3.0sc05	.	mRNA	30268803	30270225	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=5f86a676-46b6-4b24-83de-bc110563c178;ID=433fef9a-69c1-4339-b7fc-67ba86ee17c8;orig_id=DC3.0sc05:hit:14373:4.5.0.302;date_last_modified=2019-11-22;Name=Maybe 6PGLS-00002;date_creation=2019-11-22
+DC3.0sc05	.	mRNA	30268803	30270225	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=5f86a676-46b6-4b24-83de-bc110563c178;ID=433fef9a-69c1-4339-b7fc-67ba86ee17c8;orig_id=DC3.0sc05:hit:14373:4.5.0.302;date_last_modified=2019-11-22;Name=Maybe 6PGLS-0;date_creation=2019-11-22
 DC3.0sc05	.	exon	30269601	30269761	.	+	.	Parent=433fef9a-69c1-4339-b7fc-67ba86ee17c8;ID=8b60a5a3-b18b-4160-a087-e83e413596b9;Name=8b60a5a3-b18b-4160-a087-e83e413596b9
 DC3.0sc05	.	exon	30268803	30269115	.	+	.	Parent=433fef9a-69c1-4339-b7fc-67ba86ee17c8;ID=47aff275-dda2-4074-94e5-02af0e3e332c;Name=47aff275-dda2-4074-94e5-02af0e3e332c
 DC3.0sc05	.	exon	30269252	30269339	.	+	.	Parent=433fef9a-69c1-4339-b7fc-67ba86ee17c8;ID=7cbc7d9f-45a1-47b7-b4b3-93fb33417705;Name=7cbc7d9f-45a1-47b7-b4b3-93fb33417705
@@ -1088,7 +1088,7 @@ DC3.0sc05	.	CDS	30268803	30269115	.	+	0	Parent=433fef9a-69c1-4339-b7fc-67ba86ee1
 DC3.0sc05	.	CDS	30269252	30269339	.	+	2	Parent=433fef9a-69c1-4339-b7fc-67ba86ee17c8;ID=433fef9a-69c1-4339-b7fc-67ba86ee17c8-CDS;Name=433fef9a-69c1-4339-b7fc-67ba86ee17c8-CDS
 DC3.0sc05	.	CDS	30269601	30269761	.	+	1	Parent=433fef9a-69c1-4339-b7fc-67ba86ee17c8;ID=433fef9a-69c1-4339-b7fc-67ba86ee17c8-CDS;Name=433fef9a-69c1-4339-b7fc-67ba86ee17c8-CDS
 DC3.0sc05	.	CDS	30270194	30270225	.	+	2	Parent=433fef9a-69c1-4339-b7fc-67ba86ee17c8;ID=433fef9a-69c1-4339-b7fc-67ba86ee17c8-CDS;Name=433fef9a-69c1-4339-b7fc-67ba86ee17c8-CDS
-DC3.0sc05	.	mRNA	30296902	30300768	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=5f86a676-46b6-4b24-83de-bc110563c178;ID=4e023b69-833a-4670-808d-46204dc0fb1a;orig_id=Dcitr05g12850.1.1;date_last_modified=2019-11-22;Name=Dcitr05g12850.1.1-00001;date_creation=2019-11-22
+DC3.0sc05	.	mRNA	30296902	30300768	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=5f86a676-46b6-4b24-83de-bc110563c178;ID=4e023b69-833a-4670-808d-46204dc0fb1a;orig_id=Dcitr05g12850.1.1;date_last_modified=2019-11-22;Name=Dcitr05g12850.1.1;date_creation=2019-11-22
 DC3.0sc05	.	exon	30296902	30297248	.	+	.	Parent=4e023b69-833a-4670-808d-46204dc0fb1a;ID=89cfa49e-428a-4f0e-b395-83c59b6d1e73;Name=89cfa49e-428a-4f0e-b395-83c59b6d1e73
 DC3.0sc05	.	CDS	30297104	30297248	.	+	0	Parent=4e023b69-833a-4670-808d-46204dc0fb1a;ID=5a675e93-6940-4acb-9834-bd56cc66acfe;Name=5a675e93-6940-4acb-9834-bd56cc66acfe
 DC3.0sc05	.	CDS	30298776	30298982	.	+	2	Parent=4e023b69-833a-4670-808d-46204dc0fb1a;ID=5a675e93-6940-4acb-9834-bd56cc66acfe;Name=5a675e93-6940-4acb-9834-bd56cc66acfe
@@ -1097,7 +1097,7 @@ DC3.0sc05	.	CDS	30300170	30300379	.	+	0	Parent=4e023b69-833a-4670-808d-46204dc0f
 DC3.0sc05	.	exon	30298776	30298982	.	+	.	Parent=4e023b69-833a-4670-808d-46204dc0fb1a;ID=8a9ddc12-20a8-4ae5-af6f-ec640b352249;Name=8a9ddc12-20a8-4ae5-af6f-ec640b352249
 DC3.0sc05	.	exon	30299444	30299757	.	+	.	Parent=4e023b69-833a-4670-808d-46204dc0fb1a;ID=0321f1bc-2989-41ff-8276-8489ae3be456;Name=0321f1bc-2989-41ff-8276-8489ae3be456
 DC3.0sc05	.	exon	30300170	30300768	.	+	.	Parent=4e023b69-833a-4670-808d-46204dc0fb1a;ID=4a18b564-901a-4792-a714-7bfb1808a6c1;Name=4a18b564-901a-4792-a714-7bfb1808a6c1
-DC3.0sc05	.	mRNA	30268780	30300798	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=5f86a676-46b6-4b24-83de-bc110563c178;ID=64b628d7-06f3-42c3-8576-3b293188c8b3;orig_id=MCOT21834.0.CT.mrna1;date_last_modified=2019-11-22;Name=Maybe 6PGLS-00001;date_creation=2019-11-22
+DC3.0sc05	.	mRNA	30268780	30300798	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=5f86a676-46b6-4b24-83de-bc110563c178;ID=64b628d7-06f3-42c3-8576-3b293188c8b3;orig_id=MCOT21834.0.CT.mrna1;date_last_modified=2019-11-22;Name=Maybe 6PGLS;date_creation=2019-11-22
 DC3.0sc05	.	exon	30269601	30269761	.	+	.	Parent=64b628d7-06f3-42c3-8576-3b293188c8b3;ID=b8f7da3c-874a-406d-abce-58f240470815;Name=b8f7da3c-874a-406d-abce-58f240470815
 DC3.0sc05	.	exon	30297144	30297248	.	+	.	Parent=64b628d7-06f3-42c3-8576-3b293188c8b3;ID=58523262-abd3-4860-acfb-c6e6e1878d53;Name=58523262-abd3-4860-acfb-c6e6e1878d53
 DC3.0sc05	.	CDS	30268782	30269115	.	+	0	Parent=64b628d7-06f3-42c3-8576-3b293188c8b3;ID=b5410946-b5b6-4076-ba73-21c8c2eaeff1;Name=b5410946-b5b6-4076-ba73-21c8c2eaeff1
@@ -1261,7 +1261,7 @@ DC3.0sc05	.	CDS	4459946	4460040	.	-	1	Parent=0e88d9ba-2a76-45f2-837c-a9799c2b843
 DC3.0sc05	.	CDS	4459558	4459634	.	-	2	Parent=0e88d9ba-2a76-45f2-837c-a9799c2b8430;ID=05892fc1-bad4-4f16-bb1e-6a07760c0d89;Name=05892fc1-bad4-4f16-bb1e-6a07760c0d89
 ###
 DC3.0sc05	.	gene	12785830	12796823	.	-	.	owner=adkinssc@mail.irsc.edu;ID=bee5702a-6284-4774-add7-2c47bb7291aa;date_last_modified=2020-01-17;Name=deoxyribose-phosphate aldolase;date_creation=2020-01-17
-DC3.0sc05	.	mRNA	12785830	12796823	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=bee5702a-6284-4774-add7-2c47bb7291aa;ID=f310a42b-d50b-461d-8789-d226463f12d4;date_last_modified=2020-01-17;Name=Dcitr05g05800.1.1-00002;date_creation=2020-01-17
+DC3.0sc05	.	mRNA	12785830	12796823	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=bee5702a-6284-4774-add7-2c47bb7291aa;ID=f310a42b-d50b-461d-8789-d226463f12d4;date_last_modified=2020-01-17;Name=Dcitr05g05800.1.1-0;date_creation=2020-01-17
 DC3.0sc05	.	exon	12785830	12787106	.	-	.	Parent=f310a42b-d50b-461d-8789-d226463f12d4;ID=bc111b7f-3697-403c-aa4f-1070121aaff9;Name=bc111b7f-3697-403c-aa4f-1070121aaff9
 DC3.0sc05	.	exon	12795536	12795856	.	-	.	Parent=f310a42b-d50b-461d-8789-d226463f12d4;ID=5a43d1ef-2da0-4d77-81e7-8b7dec7e6a8c;Name=5a43d1ef-2da0-4d77-81e7-8b7dec7e6a8c
 DC3.0sc05	.	exon	12796141	12796823	.	-	.	Parent=f310a42b-d50b-461d-8789-d226463f12d4;ID=f6d0518d-dcb6-49ae-9010-6c0273b26a15;Name=f6d0518d-dcb6-49ae-9010-6c0273b26a15
@@ -1269,7 +1269,7 @@ DC3.0sc05	.	exon	12795112	12795342	.	-	.	Parent=f310a42b-d50b-461d-8789-d226463f
 DC3.0sc05	.	CDS	12796141	12796609	.	-	0	Parent=f310a42b-d50b-461d-8789-d226463f12d4;ID=f252ffe5-10c5-433f-8e73-988077539f5c;Name=f252ffe5-10c5-433f-8e73-988077539f5c
 DC3.0sc05	.	CDS	12795536	12795856	.	-	2	Parent=f310a42b-d50b-461d-8789-d226463f12d4;ID=f252ffe5-10c5-433f-8e73-988077539f5c;Name=f252ffe5-10c5-433f-8e73-988077539f5c
 DC3.0sc05	.	CDS	12795125	12795342	.	-	2	Parent=f310a42b-d50b-461d-8789-d226463f12d4;ID=f252ffe5-10c5-433f-8e73-988077539f5c;Name=f252ffe5-10c5-433f-8e73-988077539f5c
-DC3.0sc05	.	mRNA	12794181	12796805	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=bee5702a-6284-4774-add7-2c47bb7291aa;ID=64cdb787-7f6f-4549-820a-102a624747a9;date_last_modified=2020-01-17;Name=Dcitr05g05800.1.1-00001;date_creation=2020-01-17
+DC3.0sc05	.	mRNA	12794181	12796805	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=bee5702a-6284-4774-add7-2c47bb7291aa;ID=64cdb787-7f6f-4549-820a-102a624747a9;date_last_modified=2020-01-17;Name=Dcitr05g05800.1.1;date_creation=2020-01-17
 DC3.0sc05	.	exon	12794181	12795342	.	-	.	Parent=64cdb787-7f6f-4549-820a-102a624747a9;ID=9d9d7dba-d5bd-464c-b02c-968d065df6e4;Name=9d9d7dba-d5bd-464c-b02c-968d065df6e4
 DC3.0sc05	.	exon	12795536	12795856	.	-	.	Parent=64cdb787-7f6f-4549-820a-102a624747a9;ID=eaabd7cb-9e36-44e9-be22-b653c322f00f;Name=eaabd7cb-9e36-44e9-be22-b653c322f00f
 DC3.0sc05	.	exon	12796141	12796805	.	-	.	Parent=64cdb787-7f6f-4549-820a-102a624747a9;ID=ca18c3ce-5b95-47f2-9296-5ecd64752ea4;Name=ca18c3ce-5b95-47f2-9296-5ecd64752ea4
@@ -1278,7 +1278,7 @@ DC3.0sc05	.	CDS	12795536	12795856	.	-	2	Parent=64cdb787-7f6f-4549-820a-102a62474
 DC3.0sc05	.	CDS	12795125	12795342	.	-	2	Parent=64cdb787-7f6f-4549-820a-102a624747a9;ID=a9389a61-87a1-4c7f-85be-12bb36f84b35;Name=a9389a61-87a1-4c7f-85be-12bb36f84b35
 ###
 DC3.0sc05	.	gene	10180542	10183288	.	+	.	owner=wtank@ksu.edu;ID=8f71e5c7-74e5-44f4-b6cc-8da5f8f1c207;date_last_modified=2020-01-23;Name=Possible ubiquitin-conjugating enzyme E2 G2-like;date_creation=2020-01-23
-DC3.0sc05	.	mRNA	10180542	10183288	.	+	.	owner=wtank@ksu.edu;Parent=8f71e5c7-74e5-44f4-b6cc-8da5f8f1c207;ID=5018e54c-e16f-4bea-8c99-789f9462e56f;date_last_modified=2020-01-23;Name=Dcitr05g04710.1.1-00001;date_creation=2020-01-23
+DC3.0sc05	.	mRNA	10180542	10183288	.	+	.	owner=wtank@ksu.edu;Parent=8f71e5c7-74e5-44f4-b6cc-8da5f8f1c207;ID=5018e54c-e16f-4bea-8c99-789f9462e56f;date_last_modified=2020-01-23;Name=Dcitr05g04710.1.1;date_creation=2020-01-23
 DC3.0sc05	.	exon	10183133	10183288	.	+	.	Parent=5018e54c-e16f-4bea-8c99-789f9462e56f;ID=a3689576-cbd1-42d1-bed6-91c53fe6447a;Name=a3689576-cbd1-42d1-bed6-91c53fe6447a
 DC3.0sc05	.	CDS	10180849	10180891	.	+	0	Parent=5018e54c-e16f-4bea-8c99-789f9462e56f;ID=7ef6a527-67cb-4819-a6d5-8be7f9f80ec3;Name=7ef6a527-67cb-4819-a6d5-8be7f9f80ec3
 DC3.0sc05	.	CDS	10181110	10181191	.	+	2	Parent=5018e54c-e16f-4bea-8c99-789f9462e56f;ID=7ef6a527-67cb-4819-a6d5-8be7f9f80ec3;Name=7ef6a527-67cb-4819-a6d5-8be7f9f80ec3
@@ -1363,7 +1363,7 @@ DC3.0sc09	.	CDS	21692261	21692430	.	-	2	Parent=cd50434f-3b26-46f9-b32b-ee4c093d0
 DC3.0sc09	.	CDS	21691386	21691600	.	-	0	Parent=cd50434f-3b26-46f9-b32b-ee4c093d02f7;ID=7fbd875c-c770-4ad9-881e-14513c213c46;Name=7fbd875c-c770-4ad9-881e-14513c213c46
 ###
 DC3.0sc09	.	gene	26539569	26542941	.	+	.	owner=gracerl@mail.irsc.edu;ID=608f9077-ee04-4965-834e-f54eb0630a8e;date_last_modified=2019-12-22;Name=Dcitr09g09620.1.1;date_creation=2019-12-22
-DC3.0sc09	.	mRNA	26539569	26542941	.	+	.	owner=gracerl@mail.irsc.edu;Parent=608f9077-ee04-4965-834e-f54eb0630a8e;ID=ac8858e9-5b98-40ca-9d16-9cae0710de5d;date_last_modified=2019-12-22;Name=Dcitr09g09620.1.1-00001;date_creation=2019-12-22
+DC3.0sc09	.	mRNA	26539569	26542941	.	+	.	owner=gracerl@mail.irsc.edu;Parent=608f9077-ee04-4965-834e-f54eb0630a8e;ID=ac8858e9-5b98-40ca-9d16-9cae0710de5d;date_last_modified=2019-12-22;Name=Dcitr09g09620.1.1;date_creation=2019-12-22
 DC3.0sc09	.	exon	26541641	26542941	.	+	.	Parent=ac8858e9-5b98-40ca-9d16-9cae0710de5d;ID=0d3f5fe9-2e2f-4514-8a63-f60e89aea0fa;Name=0d3f5fe9-2e2f-4514-8a63-f60e89aea0fa
 DC3.0sc09	.	exon	26541357	26541487	.	+	.	Parent=ac8858e9-5b98-40ca-9d16-9cae0710de5d;ID=f5a7dd5d-b1cc-42e0-803f-a30e25ff5f1a;Name=f5a7dd5d-b1cc-42e0-803f-a30e25ff5f1a
 DC3.0sc09	.	CDS	26539787	26539901	.	+	0	Parent=ac8858e9-5b98-40ca-9d16-9cae0710de5d;ID=ba0d488b-4064-42e8-8178-9cdfe23ef17f;Name=ba0d488b-4064-42e8-8178-9cdfe23ef17f
@@ -1376,7 +1376,7 @@ DC3.0sc09	.	exon	26539569	26539901	.	+	.	Parent=ac8858e9-5b98-40ca-9d16-9cae0710
 DC3.0sc09	.	exon	26540168	26540835	.	+	.	Parent=ac8858e9-5b98-40ca-9d16-9cae0710de5d;ID=361d4a45-fbc0-48fa-98d0-f869ab4b945f;Name=361d4a45-fbc0-48fa-98d0-f869ab4b945f
 ###
 DC3.0sc09	.	gene	24217273	24226873	.	-	.	owner=gracerl@mail.irsc.edu;ID=d612ac25-29d4-40be-8685-399a2e611ba9;date_last_modified=2019-12-22;Name=Dcitr09g08730.1.4;date_creation=2019-12-22
-DC3.0sc09	.	mRNA	24217273	24226873	.	-	.	owner=gracerl@mail.irsc.edu;Parent=d612ac25-29d4-40be-8685-399a2e611ba9;ID=aea9f501-c2af-4912-a5cd-3dd8c18f0b5a;date_last_modified=2019-12-22;Name=Dcitr09g08730.1.4-00001;date_creation=2019-12-22
+DC3.0sc09	.	mRNA	24217273	24226873	.	-	.	owner=gracerl@mail.irsc.edu;Parent=d612ac25-29d4-40be-8685-399a2e611ba9;ID=aea9f501-c2af-4912-a5cd-3dd8c18f0b5a;date_last_modified=2019-12-22;Name=Dcitr09g08730.1.4;date_creation=2019-12-22
 DC3.0sc09	.	exon	24219171	24219303	.	-	.	Parent=aea9f501-c2af-4912-a5cd-3dd8c18f0b5a;ID=6f2c19cc-3bb0-4895-9d37-75b59227e060;Name=6f2c19cc-3bb0-4895-9d37-75b59227e060
 DC3.0sc09	.	exon	24220496	24220680	.	-	.	Parent=aea9f501-c2af-4912-a5cd-3dd8c18f0b5a;ID=978ed89f-50fe-4de1-9928-5fbfd42d3249;Name=978ed89f-50fe-4de1-9928-5fbfd42d3249
 DC3.0sc09	.	exon	24223962	24224140	.	-	.	Parent=aea9f501-c2af-4912-a5cd-3dd8c18f0b5a;ID=fc9e10b7-5a75-46fe-b119-9e7cd8474eb4;Name=fc9e10b7-5a75-46fe-b119-9e7cd8474eb4
@@ -1399,7 +1399,7 @@ DC3.0sc09	.	exon	24226650	24226873	.	-	.	Parent=aea9f501-c2af-4912-a5cd-3dd8c18f
 DC3.0sc09	.	exon	24223488	24223634	.	-	.	Parent=aea9f501-c2af-4912-a5cd-3dd8c18f0b5a;ID=441bd311-effc-4c45-938c-dee506686023;Name=441bd311-effc-4c45-938c-dee506686023
 ###
 DC3.0sc09	.	gene	5259295	5260652	.	+	.	owner=gracerl@mail.irsc.edu;ID=31eb5a2e-e2a4-47db-8138-d0b258559575;date_last_modified=2019-12-22;Name=c49829/f11p12/1354;date_creation=2019-12-22
-DC3.0sc09	.	mRNA	5259295	5260652	.	+	.	owner=gracerl@mail.irsc.edu;Parent=31eb5a2e-e2a4-47db-8138-d0b258559575;ID=cb09eabe-80c9-42dd-a8ec-2b64730a3c04;date_last_modified=2019-12-22;Name=c49829/f11p12/1354-00001;date_creation=2019-12-22
+DC3.0sc09	.	mRNA	5259295	5260652	.	+	.	owner=gracerl@mail.irsc.edu;Parent=31eb5a2e-e2a4-47db-8138-d0b258559575;ID=cb09eabe-80c9-42dd-a8ec-2b64730a3c04;date_last_modified=2019-12-22;Name=c49829/f11p12/1354;date_creation=2019-12-22
 DC3.0sc09	.	CDS	5259444	5260175	.	+	0	Parent=cb09eabe-80c9-42dd-a8ec-2b64730a3c04;ID=cb09eabe-80c9-42dd-a8ec-2b64730a3c04-CDS;Name=cb09eabe-80c9-42dd-a8ec-2b64730a3c04-CDS
 DC3.0sc09	.	exon	5259295	5260652	.	+	.	Parent=cb09eabe-80c9-42dd-a8ec-2b64730a3c04;ID=455d9f3f-3f7e-4e11-9736-a573ca8213f3;Name=455d9f3f-3f7e-4e11-9736-a573ca8213f3
 ###
@@ -1471,7 +1471,7 @@ DC3.0sc04	.	CDS	32712024	32712229	.	-	2	Parent=2d134179-c34f-49f2-84c8-ceab4b84e
 DC3.0sc04	.	CDS	32711030	32711188	.	-	0	Parent=2d134179-c34f-49f2-84c8-ceab4b84e972;ID=665945c3-b63d-45be-b9ac-cb36a7241ed3;Name=665945c3-b63d-45be-b9ac-cb36a7241ed3
 ###
 DC3.0sc04	.	gene	36134590	36145967	.	+	.	owner=perentem@mail.uc.edu;ID=ed21f3cd-5b6c-4e80-8307-496d56fa1cbe;date_last_modified=2019-11-13;Name=Dcitr04g15340.1.1;date_creation=2019-11-13
-DC3.0sc04	.	mRNA	36134590	36145967	.	+	.	owner=perentem@mail.uc.edu;Parent=ed21f3cd-5b6c-4e80-8307-496d56fa1cbe;ID=1c6db628-22ff-424c-ba62-689dc8c580af;orig_id=Dcitr04g15340.1.1;date_last_modified=2019-11-13;Name=Dcitr04g15340.1.1-00001;date_creation=2019-11-13
+DC3.0sc04	.	mRNA	36134590	36145967	.	+	.	owner=perentem@mail.uc.edu;Parent=ed21f3cd-5b6c-4e80-8307-496d56fa1cbe;ID=1c6db628-22ff-424c-ba62-689dc8c580af;orig_id=Dcitr04g15340.1.1;date_last_modified=2019-11-13;Name=Dcitr04g15340.1.1;date_creation=2019-11-13
 DC3.0sc04	.	exon	36136627	36136751	.	+	.	Parent=1c6db628-22ff-424c-ba62-689dc8c580af;ID=0e175f5d-df9b-408f-9bb8-e30d389666a6;Name=0e175f5d-df9b-408f-9bb8-e30d389666a6
 DC3.0sc04	.	exon	36137230	36137385	.	+	.	Parent=1c6db628-22ff-424c-ba62-689dc8c580af;ID=faf683e9-7631-46fc-ba05-d6dbd1bcb7c3;Name=faf683e9-7631-46fc-ba05-d6dbd1bcb7c3
 DC3.0sc04	.	exon	36141115	36141150	.	+	.	Parent=1c6db628-22ff-424c-ba62-689dc8c580af;ID=2d4625de-7f33-4183-b048-126ceb634f46;Name=2d4625de-7f33-4183-b048-126ceb634f46
@@ -1643,7 +1643,7 @@ DC3.0sc04	.	exon	5313282	5313297	.	-	.	Parent=0ec9f0c2-6f95-4b0a-9047-5e5edfdeb8
 DC3.0sc04	.	non_canonical_five_prime_splice_site	5313280	5313280	.	-	.	Parent=0ec9f0c2-6f95-4b0a-9047-5e5edfdeb805;ID=0ec9f0c2-6f95-4b0a-9047-5e5edfdeb805-non_canonical_five_prime_splice_site-5313279;Name=0ec9f0c2-6f95-4b0a-9047-5e5edfdeb805-non_canonical_five_prime_splice_site-5313279
 ###
 DC3.0sc04	.	gene	15967685	15995933	.	+	.	owner=massiminoel@mail.irsc.edu;ID=898f67cc-74dc-468b-afb4-3fc0836ce503;date_last_modified=2019-12-09;Name=Dcitr04g08050.1.1;date_creation=2019-12-09
-DC3.0sc04	.	mRNA	15967685	15995933	.	+	.	owner=massiminoel@mail.irsc.edu;Parent=898f67cc-74dc-468b-afb4-3fc0836ce503;ID=03987ae5-64c9-4b2e-b1f4-13b9e9bf01eb;orig_id=Dcitr04g08050.1.1;date_last_modified=2019-12-09;Name=Dcitr04g08050.1.1-00001;date_creation=2019-12-09
+DC3.0sc04	.	mRNA	15967685	15995933	.	+	.	owner=massiminoel@mail.irsc.edu;Parent=898f67cc-74dc-468b-afb4-3fc0836ce503;ID=03987ae5-64c9-4b2e-b1f4-13b9e9bf01eb;orig_id=Dcitr04g08050.1.1;date_last_modified=2019-12-09;Name=Dcitr04g08050.1.1;date_creation=2019-12-09
 DC3.0sc04	.	exon	15971943	15972070	.	+	.	Parent=03987ae5-64c9-4b2e-b1f4-13b9e9bf01eb;ID=0bbf5cd5-6aba-40a6-bb29-d28e3252a114;Name=0bbf5cd5-6aba-40a6-bb29-d28e3252a114
 DC3.0sc04	.	exon	15989530	15989758	.	+	.	Parent=03987ae5-64c9-4b2e-b1f4-13b9e9bf01eb;ID=f58f15ef-de43-4271-b050-68c0cc36d6a8;Name=f58f15ef-de43-4271-b050-68c0cc36d6a8
 DC3.0sc04	.	exon	15973916	15974293	.	+	.	Parent=03987ae5-64c9-4b2e-b1f4-13b9e9bf01eb;ID=ee096861-563e-4041-a607-dd7f54bfe869;Name=ee096861-563e-4041-a607-dd7f54bfe869
@@ -1813,7 +1813,7 @@ DC3.0sc04	.	exon	5184342	5184519	.	-	.	Parent=a6cbe873-d46c-40f2-8ab4-13f0b576a1
 DC3.0sc04	.	exon	5186582	5186833	.	-	.	Parent=a6cbe873-d46c-40f2-8ab4-13f0b576a1df;ID=d2c04750-1ad8-437b-88a3-880a1b07c1cb;Name=d2c04750-1ad8-437b-88a3-880a1b07c1cb
 DC3.0sc04	.	exon	5182135	5182263	.	-	.	Parent=a6cbe873-d46c-40f2-8ab4-13f0b576a1df;ID=f1ec0737-e8ce-42ab-a864-f25c867331ae;Name=f1ec0737-e8ce-42ab-a864-f25c867331ae
 ###
-DC3.0sc04	.	gene	40168083	40169690	.	+	.	owner=sammy.sedky@usda.gov;is_fmin_partial=true;ID=4e034a37-049f-4a6a-b5c3-5c2f555eb164;date_last_modified=2021-10-07;Name=Dcitr04g16790.1.1-00001;date_creation=2021-10-07
+DC3.0sc04	.	gene	40168083	40169690	.	+	.	owner=sammy.sedky@usda.gov;is_fmin_partial=true;ID=4e034a37-049f-4a6a-b5c3-5c2f555eb164;date_last_modified=2021-10-07;Name=Dcitr04g16790.1.1;date_creation=2021-10-07
 DC3.0sc04	.	mRNA	40168083	40169690	.	+	.	owner=sammy.sedky@usda.gov;Parent=4e034a37-049f-4a6a-b5c3-5c2f555eb164;is_fmin_partial=true;ID=02008a0e-affb-48c0-a225-189e5b56e467;orig_id=Dcitr04g16790.1.1;date_last_modified=2021-10-07;Name=Odorant receptor Or2-like;date_creation=2021-10-07
 DC3.0sc04	.	exon	40168604	40168786	.	+	.	Parent=02008a0e-affb-48c0-a225-189e5b56e467;ID=d7cb102b-365d-43a8-9eec-baed551aeddc;Name=d7cb102b-365d-43a8-9eec-baed551aeddc
 DC3.0sc04	.	CDS	40168083	40168211	.	+	0	Parent=02008a0e-affb-48c0-a225-189e5b56e467;ID=19b1fb20-f08a-4301-b1d8-2be0084b543f;Name=19b1fb20-f08a-4301-b1d8-2be0084b543f
@@ -1911,7 +1911,7 @@ DC3.0sc02	.	exon	24399804	24399982	.	-	.	Parent=6e2a7f6c-9def-4420-8266-5311d32e
 DC3.0sc02	.	exon	24438453	24438615	.	-	.	Parent=6e2a7f6c-9def-4420-8266-5311d32ea7e9;ID=4a8df6dd-eef8-4805-9db9-0a7176d6f0ac;Name=4a8df6dd-eef8-4805-9db9-0a7176d6f0ac
 ###
 DC3.0sc02	.	gene	23860118	23882828	.	+	.	owner=greensr5@mail.irsc.edu;ID=9826e722-1f30-4fca-8c9f-d615272475b9;date_last_modified=2019-11-03;Name=MCOT01399.0.CTa;date_creation=2019-11-03
-DC3.0sc02	.	mRNA	23860118	23882828	.	+	.	owner=greensr5@mail.irsc.edu;Parent=9826e722-1f30-4fca-8c9f-d615272475b9;ID=1be938fb-e143-4404-9e93-09de3f7666f5;date_last_modified=2019-11-03;Name=MCOT01399.0.CTa-00001;date_creation=2019-11-03
+DC3.0sc02	.	mRNA	23860118	23882828	.	+	.	owner=greensr5@mail.irsc.edu;Parent=9826e722-1f30-4fca-8c9f-d615272475b9;ID=1be938fb-e143-4404-9e93-09de3f7666f5;date_last_modified=2019-11-03;Name=MCOT01399.0.CTa;date_creation=2019-11-03
 DC3.0sc02	.	exon	23860450	23860542	.	+	.	Parent=1be938fb-e143-4404-9e93-09de3f7666f5;ID=00830a29-8091-46f8-999f-c52138b942b3;Name=00830a29-8091-46f8-999f-c52138b942b3
 DC3.0sc02	.	exon	23874126	23874227	.	+	.	Parent=1be938fb-e143-4404-9e93-09de3f7666f5;ID=5bccbe21-98de-4be7-91a3-094416660aaf;Name=5bccbe21-98de-4be7-91a3-094416660aaf
 DC3.0sc02	.	exon	23860857	23861021	.	+	.	Parent=1be938fb-e143-4404-9e93-09de3f7666f5;ID=90d0e4ed-c9ab-496f-846a-26eb83e5e640;Name=90d0e4ed-c9ab-496f-846a-26eb83e5e640
@@ -1990,7 +1990,7 @@ DC3.0sc02	.	exon	7744451	7744704	.	-	.	Parent=061df2f4-ecc0-4722-9321-6da126d1d1
 DC3.0sc02	.	exon	7743919	7744241	.	-	.	Parent=061df2f4-ecc0-4722-9321-6da126d1d174;ID=187b8b0b-a711-4f6c-846a-54c91a2e534e;Name=187b8b0b-a711-4f6c-846a-54c91a2e534e
 ###
 DC3.0sc02	.	gene	38360473	38366266	.	-	.	owner=adkinssc@mail.irsc.edu;ID=dd9eb618-6336-4904-a6ec-955380347d63;date_last_modified=2019-12-16;Name=possible-molybdenum cofactor biosynthesis protein 1;date_creation=2019-12-16
-DC3.0sc02	.	mRNA	38360473	38366266	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=dd9eb618-6336-4904-a6ec-955380347d63;ID=e99aa194-5291-4bb5-9866-356328d44d76;date_last_modified=2019-12-16;Name=Dcitr02g16140.1.1-00001;date_creation=2019-12-16
+DC3.0sc02	.	mRNA	38360473	38366266	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=dd9eb618-6336-4904-a6ec-955380347d63;ID=e99aa194-5291-4bb5-9866-356328d44d76;date_last_modified=2019-12-16;Name=Dcitr02g16140.1.1;date_creation=2019-12-16
 DC3.0sc02	.	exon	38362537	38362682	.	-	.	Parent=e99aa194-5291-4bb5-9866-356328d44d76;ID=27f3c0b8-c859-4e32-a6d7-05ffff735366;Name=27f3c0b8-c859-4e32-a6d7-05ffff735366
 DC3.0sc02	.	exon	38362961	38363185	.	-	.	Parent=e99aa194-5291-4bb5-9866-356328d44d76;ID=36a9a36a-41d8-4ace-994e-760a524f70a8;Name=36a9a36a-41d8-4ace-994e-760a524f70a8
 DC3.0sc02	.	CDS	38365301	38365414	.	-	0	Parent=e99aa194-5291-4bb5-9866-356328d44d76;ID=8f2ee93f-4f26-4175-8cbb-2a2b945f97f2;Name=8f2ee93f-4f26-4175-8cbb-2a2b945f97f2
@@ -2110,12 +2110,12 @@ DC3.0sc02	.	CDS	46667724	46669223	.	-	0	Parent=87a6ed6c-79b3-4668-868e-87e510201
 DC3.0sc02	.	exon	46667679	46669578	.	-	.	Parent=87a6ed6c-79b3-4668-868e-87e51020153d;ID=c84331c2-f63f-4093-8b3d-c62a302b9bcb;Name=c84331c2-f63f-4093-8b3d-c62a302b9bcb
 ###
 DC3.0sc02	.	gene	5842026	5842516	.	-	.	owner=greensr5@mail.irsc.edu;ID=b83c5b5d-55fa-4d77-a185-41a7e625f0c5;date_last_modified=2020-01-10;Name=DcDTr02843.4;date_creation=2020-01-10
-DC3.0sc02	.	mRNA	5842026	5842516	.	-	.	owner=greensr5@mail.irsc.edu;Parent=b83c5b5d-55fa-4d77-a185-41a7e625f0c5;ID=a95feb05-b807-40f0-822d-a06b2f92fec0;date_last_modified=2020-01-10;Name=DcDTr02843.4-00001;date_creation=2020-01-10
+DC3.0sc02	.	mRNA	5842026	5842516	.	-	.	owner=greensr5@mail.irsc.edu;Parent=b83c5b5d-55fa-4d77-a185-41a7e625f0c5;ID=a95feb05-b807-40f0-822d-a06b2f92fec0;date_last_modified=2020-01-10;Name=DcDTr02843.4;date_creation=2020-01-10
 DC3.0sc02	.	CDS	5842084	5842221	.	-	0	Parent=a95feb05-b807-40f0-822d-a06b2f92fec0;ID=a95feb05-b807-40f0-822d-a06b2f92fec0-CDS;Name=a95feb05-b807-40f0-822d-a06b2f92fec0-CDS
 DC3.0sc02	.	exon	5842026	5842516	.	-	.	Parent=a95feb05-b807-40f0-822d-a06b2f92fec0;ID=32ba58d9-f759-4eb6-ad69-8cb91dbedf49;Name=32ba58d9-f759-4eb6-ad69-8cb91dbedf49
 ###
 DC3.0sc02	.	gene	10853544	10883567	.	+	.	owner=greensr5@mail.irsc.edu;ID=745df3bf-5738-4d59-aa34-2a0aa65ab1b9;date_last_modified=2020-01-10;Name=Dcitr02g04390.1.1;date_creation=2020-01-10
-DC3.0sc02	.	mRNA	10853544	10883529	.	+	.	owner=greensr5@mail.irsc.edu;Parent=745df3bf-5738-4d59-aa34-2a0aa65ab1b9;ID=ccc5c357-04c7-4229-a6f7-e74fab615306;date_last_modified=2020-01-10;Name=Dcitr02g04390.1.1-00001;date_creation=2020-01-10
+DC3.0sc02	.	mRNA	10853544	10883529	.	+	.	owner=greensr5@mail.irsc.edu;Parent=745df3bf-5738-4d59-aa34-2a0aa65ab1b9;ID=ccc5c357-04c7-4229-a6f7-e74fab615306;date_last_modified=2020-01-10;Name=Dcitr02g04390.1.1;date_creation=2020-01-10
 DC3.0sc02	.	exon	10867938	10868218	.	+	.	Parent=ccc5c357-04c7-4229-a6f7-e74fab615306;ID=440f88e0-31ff-40c8-8a6a-100c14428c1b;Name=440f88e0-31ff-40c8-8a6a-100c14428c1b
 DC3.0sc02	.	exon	10865200	10865359	.	+	.	Parent=ccc5c357-04c7-4229-a6f7-e74fab615306;ID=a464d3bb-dc47-4552-a295-ec84decdf1e8;Name=a464d3bb-dc47-4552-a295-ec84decdf1e8
 DC3.0sc02	.	exon	10878564	10878736	.	+	.	Parent=ccc5c357-04c7-4229-a6f7-e74fab615306;ID=2da12301-8d40-4e6d-bbd5-c7f796c2d997;Name=2da12301-8d40-4e6d-bbd5-c7f796c2d997
@@ -2164,7 +2164,7 @@ DC3.0sc02	.	exon	10859982	10860116	.	+	.	Parent=ccc5c357-04c7-4229-a6f7-e74fab61
 DC3.0sc02	.	exon	10875063	10875296	.	+	.	Parent=ccc5c357-04c7-4229-a6f7-e74fab615306;ID=27c25c93-1785-40d3-a6bb-dd4081dbd829;Name=27c25c93-1785-40d3-a6bb-dd4081dbd829
 DC3.0sc02	.	exon	10853544	10853850	.	+	.	Parent=ccc5c357-04c7-4229-a6f7-e74fab615306;ID=44df9b6e-aa7b-4776-9b2f-e0cc560f19bc;Name=44df9b6e-aa7b-4776-9b2f-e0cc560f19bc
 DC3.0sc02	.	exon	10870891	10871064	.	+	.	Parent=ccc5c357-04c7-4229-a6f7-e74fab615306;ID=bd4fa297-7bb2-4544-bad7-570181ceed0c;Name=bd4fa297-7bb2-4544-bad7-570181ceed0c
-DC3.0sc02	.	mRNA	10876648	10883567	.	+	.	owner=greensr5@mail.irsc.edu;Parent=745df3bf-5738-4d59-aa34-2a0aa65ab1b9;ID=1b1fd23d-4a5a-415c-a54a-f77b9d1da473;date_last_modified=2020-01-10;Name=Dcitr02g04390.1.1-00002;date_creation=2020-01-10
+DC3.0sc02	.	mRNA	10876648	10883567	.	+	.	owner=greensr5@mail.irsc.edu;Parent=745df3bf-5738-4d59-aa34-2a0aa65ab1b9;ID=1b1fd23d-4a5a-415c-a54a-f77b9d1da473;date_last_modified=2020-01-10;Name=Dcitr02g04390.1.1-0;date_creation=2020-01-10
 DC3.0sc02	.	exon	10881740	10883567	.	+	.	Parent=1b1fd23d-4a5a-415c-a54a-f77b9d1da473;ID=1a6dfc70-e724-47fc-bdde-c3b444e6a3d9;Name=1a6dfc70-e724-47fc-bdde-c3b444e6a3d9
 DC3.0sc02	.	exon	10878564	10878736	.	+	.	Parent=1b1fd23d-4a5a-415c-a54a-f77b9d1da473;ID=038086e6-6f15-4046-b915-71b436122c38;Name=038086e6-6f15-4046-b915-71b436122c38
 DC3.0sc02	.	exon	10877320	10877565	.	+	.	Parent=1b1fd23d-4a5a-415c-a54a-f77b9d1da473;ID=b823cc71-bb16-4758-8c8e-4e5083739ddf;Name=b823cc71-bb16-4758-8c8e-4e5083739ddf
@@ -2183,7 +2183,7 @@ DC3.0sc02	.	CDS	10881740	10881980	.	+	1	Parent=1b1fd23d-4a5a-415c-a54a-f77b9d1da
 DC3.0sc02	.	exon	10876648	10876689	.	+	.	Parent=1b1fd23d-4a5a-415c-a54a-f77b9d1da473;ID=a11796ac-57d6-4744-aef9-43c3a07ba9e5;Name=a11796ac-57d6-4744-aef9-43c3a07ba9e5
 ###
 DC3.0sc02	.	gene	10860757	10866573	.	+	.	owner=greensr5@mail.irsc.edu;ID=34269f5a-a82a-4e9d-b604-423bedf0c3b9;date_last_modified=2020-01-10;Name=Dcitr02g04400.1.1;date_creation=2020-01-10
-DC3.0sc02	.	mRNA	10860757	10866573	.	+	.	owner=greensr5@mail.irsc.edu;Parent=34269f5a-a82a-4e9d-b604-423bedf0c3b9;ID=4056809d-85a6-4f94-bd5f-6e7f60d057e5;date_last_modified=2020-01-10;Name=Dcitr02g04400.1.1-00001;date_creation=2020-01-10
+DC3.0sc02	.	mRNA	10860757	10866573	.	+	.	owner=greensr5@mail.irsc.edu;Parent=34269f5a-a82a-4e9d-b604-423bedf0c3b9;ID=4056809d-85a6-4f94-bd5f-6e7f60d057e5;date_last_modified=2020-01-10;Name=Dcitr02g04400.1.1;date_creation=2020-01-10
 DC3.0sc02	.	exon	10865200	10865359	.	+	.	Parent=4056809d-85a6-4f94-bd5f-6e7f60d057e5;ID=45303e31-4208-4abf-8beb-7c021c6e5b8d;Name=45303e31-4208-4abf-8beb-7c021c6e5b8d
 DC3.0sc02	.	exon	10866458	10866573	.	+	.	Parent=4056809d-85a6-4f94-bd5f-6e7f60d057e5;ID=9cfc4883-5139-45b0-b8f7-d2dd9a2d835c;Name=9cfc4883-5139-45b0-b8f7-d2dd9a2d835c
 DC3.0sc02	.	exon	10860757	10860965	.	+	.	Parent=4056809d-85a6-4f94-bd5f-6e7f60d057e5;ID=30ae2a5d-c025-45af-864f-391ab2f25ff6;Name=30ae2a5d-c025-45af-864f-391ab2f25ff6
@@ -2197,7 +2197,7 @@ DC3.0sc02	.	CDS	10865865	10866028	.	+	2	Parent=4056809d-85a6-4f94-bd5f-6e7f60d05
 DC3.0sc02	.	exon	10861414	10861586	.	+	.	Parent=4056809d-85a6-4f94-bd5f-6e7f60d057e5;ID=8d90a8bd-5840-449b-8cea-f5b9a539f399;Name=8d90a8bd-5840-449b-8cea-f5b9a539f399
 ###
 DC3.0sc02	.	gene	26704491	26707265	.	+	.	owner=adkinssc@mail.irsc.edu;ID=6d96af44-4e23-48a5-8067-42f82214c01d;date_last_modified=2020-01-14;Name=Dcitr02g11290.1.1;date_creation=2020-01-14
-DC3.0sc02	.	mRNA	26704491	26707265	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=6d96af44-4e23-48a5-8067-42f82214c01d;ID=b0d1d344-beaf-4bab-9039-ab12c0358874;date_last_modified=2020-01-14;Name=Dcitr02g11290.1.1-00001;date_creation=2020-01-14
+DC3.0sc02	.	mRNA	26704491	26707265	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=6d96af44-4e23-48a5-8067-42f82214c01d;ID=b0d1d344-beaf-4bab-9039-ab12c0358874;date_last_modified=2020-01-14;Name=Dcitr02g11290.1.1;date_creation=2020-01-14
 DC3.0sc02	.	CDS	26705943	26706216	.	+	0	Parent=b0d1d344-beaf-4bab-9039-ab12c0358874;ID=72d1023a-f182-40f3-9f93-292098076b2b;Name=72d1023a-f182-40f3-9f93-292098076b2b
 DC3.0sc02	.	CDS	26706387	26706850	.	+	2	Parent=b0d1d344-beaf-4bab-9039-ab12c0358874;ID=72d1023a-f182-40f3-9f93-292098076b2b;Name=72d1023a-f182-40f3-9f93-292098076b2b
 DC3.0sc02	.	exon	26705928	26706216	.	+	.	Parent=b0d1d344-beaf-4bab-9039-ab12c0358874;ID=d51dede0-4ece-4596-acd4-cec7e4a9a4a5;Name=d51dede0-4ece-4596-acd4-cec7e4a9a4a5
@@ -2206,7 +2206,7 @@ DC3.0sc02	.	exon	26705473	26705776	.	+	.	Parent=b0d1d344-beaf-4bab-9039-ab12c035
 DC3.0sc02	.	exon	26706387	26707265	.	+	.	Parent=b0d1d344-beaf-4bab-9039-ab12c0358874;ID=9c4d762e-1a5e-4ed3-bcc9-02dc3d54cbe5;Name=9c4d762e-1a5e-4ed3-bcc9-02dc3d54cbe5
 ###
 DC3.0sc02	.	gene	11572837	11574597	.	+	.	owner=wtank@ksu.edu;ID=84e807b6-38b4-4c14-a4e2-91f149b984fc;date_last_modified=2020-01-23;Name=Possible small ubiquitin-related modifier 1;date_creation=2020-01-23
-DC3.0sc02	.	mRNA	11572837	11574597	.	+	.	owner=wtank@ksu.edu;Parent=84e807b6-38b4-4c14-a4e2-91f149b984fc;ID=c843c13c-388b-47a3-8d9e-9e5e64347111;date_last_modified=2020-01-23;Name=Dcitr02g04830.1.2-00001;date_creation=2020-01-23
+DC3.0sc02	.	mRNA	11572837	11574597	.	+	.	owner=wtank@ksu.edu;Parent=84e807b6-38b4-4c14-a4e2-91f149b984fc;ID=c843c13c-388b-47a3-8d9e-9e5e64347111;date_last_modified=2020-01-23;Name=Dcitr02g04830.1.2;date_creation=2020-01-23
 DC3.0sc02	.	exon	11574274	11574597	.	+	.	Parent=c843c13c-388b-47a3-8d9e-9e5e64347111;ID=cebb4fea-8a80-4679-acfe-e580a9cce07a;Name=cebb4fea-8a80-4679-acfe-e580a9cce07a
 DC3.0sc02	.	exon	11572837	11572949	.	+	.	Parent=c843c13c-388b-47a3-8d9e-9e5e64347111;ID=044574d1-fe31-42ae-9ce4-8c49737a597f;Name=044574d1-fe31-42ae-9ce4-8c49737a597f
 DC3.0sc02	.	CDS	11572932	11572949	.	+	0	Parent=c843c13c-388b-47a3-8d9e-9e5e64347111;ID=142062a7-39a6-45c2-8eac-5ed0f0835bc0;Name=142062a7-39a6-45c2-8eac-5ed0f0835bc0
@@ -3022,7 +3022,7 @@ DC3.0sc02	.	CDS	39747908	39748094	.	+	0	Parent=5c339b56-11e1-4f9d-9d33-c228d37c9
 DC3.0sc02	.	CDS	39748631	39748839	.	+	2	Parent=5c339b56-11e1-4f9d-9d33-c228d37c9b02;ID=053b725a-4898-427b-8fc8-9d6090fb23ef;Name=053b725a-4898-427b-8fc8-9d6090fb23ef
 DC3.0sc02	.	exon	39747389	39748094	.	+	.	Parent=5c339b56-11e1-4f9d-9d33-c228d37c9b02;ID=67712217-fbf7-4bca-b5b9-be0326aa2d0b;Name=67712217-fbf7-4bca-b5b9-be0326aa2d0b
 ###
-DC3.0sc02	.	gene	44810698	44825144	.	+	.	owner=sammy.sedky@usda.gov;Note=Manually dissociate transcript from gene;ID=d4d1799f-fb5b-4a41-9c12-8e76db73db2e;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Dcitr02g18910.1.1a-00001;date_creation=2021-10-07
+DC3.0sc02	.	gene	44810698	44825144	.	+	.	owner=sammy.sedky@usda.gov;Note=Manually dissociate transcript from gene;ID=d4d1799f-fb5b-4a41-9c12-8e76db73db2e;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Dcitr02g18910.1.1a;date_creation=2021-10-07
 DC3.0sc02	.	mRNA	44810698	44825144	.	+	.	owner=sammy.sedky@usda.gov;Parent=d4d1799f-fb5b-4a41-9c12-8e76db73db2e;Note=Manually dissociate transcript from gene,Merged from DC3.0sc02a / 48aacc31-a180-48ac-a478-a3ddf13fac8e;ID=16a2c979-9f8e-4fd1-8334-78b9b2f47273;orig_id=Dcitr02g18910.1.1;is_fmax_partial=true;date_last_modified=2021-11-15;Name=Chemosensory protein;date_creation=2021-10-07
 DC3.0sc02	.	exon	44810698	44812058	.	+	.	Parent=16a2c979-9f8e-4fd1-8334-78b9b2f47273;ID=85e1ee51-9d4a-4201-aa6f-87395a9bfdd3;Name=85e1ee51-9d4a-4201-aa6f-87395a9bfdd3
 DC3.0sc02	.	exon	44824246	44825144	.	+	.	Parent=16a2c979-9f8e-4fd1-8334-78b9b2f47273;ID=6e4fb262-edf1-4be4-a35c-051f18fa2dab;Name=6e4fb262-edf1-4be4-a35c-051f18fa2dab
@@ -3046,7 +3046,7 @@ DC3.0sc02	.	CDS	44916783	44916976	.	+	2	Parent=64f54341-af95-458c-be23-059c71089
 DC3.0sc02	.	exon	44916783	44917344	.	+	.	Parent=64f54341-af95-458c-be23-059c71089c17;ID=7ea0ddb4-4d3b-478d-bce8-e52a7b329217;Name=7ea0ddb4-4d3b-478d-bce8-e52a7b329217
 DC3.0sc02	.	exon	44916098	44916299	.	+	.	Parent=64f54341-af95-458c-be23-059c71089c17;ID=b27d6297-bfdd-45bc-ae0a-b42c60838ad8;Name=b27d6297-bfdd-45bc-ae0a-b42c60838ad8
 ###
-DC3.0sc02	.	gene	44945536	44964788	.	-	.	owner=sammy.sedky@usda.gov;ID=6a009be5-3b51-4bc4-a32d-67471e878f76;date_last_modified=2021-10-07;Name=Dcitr02g18990.1.1-00001;date_creation=2021-10-07
+DC3.0sc02	.	gene	44945536	44964788	.	-	.	owner=sammy.sedky@usda.gov;ID=6a009be5-3b51-4bc4-a32d-67471e878f76;date_last_modified=2021-10-07;Name=Dcitr02g18990.1.1;date_creation=2021-10-07
 DC3.0sc02	.	mRNA	44945536	44964788	.	-	.	owner=sammy.sedky@usda.gov;Parent=6a009be5-3b51-4bc4-a32d-67471e878f76;ID=5fb643b1-aa81-49ad-9e8f-68bc1bc4831c;orig_id=Dcitr02g18990.1.1;date_last_modified=2021-11-15;Name=Chemosensory protein (PENDING);date_creation=2021-10-07
 DC3.0sc02	.	CDS	44964466	44964787	.	-	0	Parent=5fb643b1-aa81-49ad-9e8f-68bc1bc4831c;ID=c00d2e19-4751-4903-8b9f-58237534f34b;Name=c00d2e19-4751-4903-8b9f-58237534f34b
 DC3.0sc02	.	CDS	44958932	44959122	.	-	2	Parent=5fb643b1-aa81-49ad-9e8f-68bc1bc4831c;ID=c00d2e19-4751-4903-8b9f-58237534f34b;Name=c00d2e19-4751-4903-8b9f-58237534f34b
@@ -3114,7 +3114,7 @@ DC3.0sc02	.	exon	25820626	25820800	.	-	.	Parent=06ef4542-91ff-462a-a56d-97ade2e4
 DC3.0sc02	.	exon	25812948	25813335	.	-	.	Parent=06ef4542-91ff-462a-a56d-97ade2e4b4ca;ID=083f77fc-f580-47fc-a275-9b8edd39b7e5;Name=083f77fc-f580-47fc-a275-9b8edd39b7e5
 DC3.0sc02	.	exon	25809217	25809391	.	-	.	Parent=06ef4542-91ff-462a-a56d-97ade2e4b4ca;ID=d8a92c78-ed92-4c37-b1e3-7c51edbaa859;Name=d8a92c78-ed92-4c37-b1e3-7c51edbaa859
 ###
-DC3.0sc02	.	gene	25826589	25827946	.	-	.	owner=sammy.sedky@usda.gov;is_fmin_partial=true;ID=f779155b-d6aa-4bad-9c6a-16a17a8b5b7e;date_last_modified=2021-10-07;Name=Dcitr02g10860.1.1-00001;date_creation=2021-10-07
+DC3.0sc02	.	gene	25826589	25827946	.	-	.	owner=sammy.sedky@usda.gov;is_fmin_partial=true;ID=f779155b-d6aa-4bad-9c6a-16a17a8b5b7e;date_last_modified=2021-10-07;Name=Dcitr02g10860.1.1;date_creation=2021-10-07
 DC3.0sc02	.	mRNA	25826589	25827946	.	-	.	owner=sammy.sedky@usda.gov;Parent=f779155b-d6aa-4bad-9c6a-16a17a8b5b7e;is_fmin_partial=true;ID=5fe3b371-95c3-46bf-b851-fdb29fce6333;orig_id=Dcitr02g10860.1.1;date_last_modified=2021-10-07;Name=Cytochrome P450%2C E-class%2C group I (IPR002401);date_creation=2021-10-07
 DC3.0sc02	.	CDS	25827788	25827946	.	-	0	Parent=5fe3b371-95c3-46bf-b851-fdb29fce6333;ID=ba27560f-8e2f-48e9-9c28-7052073418b0;Name=ba27560f-8e2f-48e9-9c28-7052073418b0
 DC3.0sc02	.	CDS	25827229	25827430	.	-	0	Parent=5fe3b371-95c3-46bf-b851-fdb29fce6333;ID=ba27560f-8e2f-48e9-9c28-7052073418b0;Name=ba27560f-8e2f-48e9-9c28-7052073418b0
@@ -3138,7 +3138,7 @@ DC3.0sc10	.	CDS	1987176	1987284	.	-	0	Parent=143e8a4c-d214-4695-94c1-391e7a5df3d
 DC3.0sc10	.	CDS	1979396	1979637	.	-	2	Parent=143e8a4c-d214-4695-94c1-391e7a5df3d3;ID=9e13a7b9-b97c-4c94-981b-b7887f9b29ea;Name=9e13a7b9-b97c-4c94-981b-b7887f9b29ea
 ###
 DC3.0sc10	.	gene	13126913	13176585	.	-	.	owner=perentem@mail.uc.edu;ID=69dc73c2-2a89-4dbb-b1de-0a15a23cfc8a;date_last_modified=2019-11-12;Name=Dcitr10g06180.1.1;date_creation=2019-11-12
-DC3.0sc10	.	mRNA	13126913	13176585	.	-	.	owner=perentem@mail.uc.edu;Parent=69dc73c2-2a89-4dbb-b1de-0a15a23cfc8a;ID=18598535-39b1-4ead-acd3-e37aaa78365b;orig_id=Dcitr10g06180.1.1;date_last_modified=2019-11-12;Name=Dcitr10g06180.1.1-00001;date_creation=2019-11-12
+DC3.0sc10	.	mRNA	13126913	13176585	.	-	.	owner=perentem@mail.uc.edu;Parent=69dc73c2-2a89-4dbb-b1de-0a15a23cfc8a;ID=18598535-39b1-4ead-acd3-e37aaa78365b;orig_id=Dcitr10g06180.1.1;date_last_modified=2019-11-12;Name=Dcitr10g06180.1.1;date_creation=2019-11-12
 DC3.0sc10	.	exon	13170232	13170308	.	-	.	Parent=18598535-39b1-4ead-acd3-e37aaa78365b;ID=98502825-7964-49de-a4d9-cbc1c75d8862;Name=98502825-7964-49de-a4d9-cbc1c75d8862
 DC3.0sc10	.	exon	13172984	13173168	.	-	.	Parent=18598535-39b1-4ead-acd3-e37aaa78365b;ID=4a3a7251-8f5e-481f-ae39-1aa3e2b43013;Name=4a3a7251-8f5e-481f-ae39-1aa3e2b43013
 DC3.0sc10	.	exon	13174529	13174660	.	-	.	Parent=18598535-39b1-4ead-acd3-e37aaa78365b;ID=7dd76f12-28e2-47b0-b2b8-9fe888b6d0f5;Name=7dd76f12-28e2-47b0-b2b8-9fe888b6d0f5
@@ -3207,7 +3207,7 @@ DC3.0sc10	.	exon	3571890	3572050	.	-	.	Parent=71c2375b-ddef-470f-8629-aa56a5a5d6
 DC3.0sc10	.	exon	3577026	3577161	.	-	.	Parent=71c2375b-ddef-470f-8629-aa56a5a5d672;ID=4c38d6e7-b87c-4642-a0c0-feeef8749bce;Name=4c38d6e7-b87c-4642-a0c0-feeef8749bce
 DC3.0sc10	.	exon	3572554	3572749	.	-	.	Parent=71c2375b-ddef-470f-8629-aa56a5a5d672;ID=81ebc440-d98a-4eeb-b8e4-01a938b55d97;Name=81ebc440-d98a-4eeb-b8e4-01a938b55d97
 ###
-DC3.0sc10	.	gene	14529977	14533654	.	+	.	owner=sammy.sedky@usda.gov;ID=3e613c8d-ced9-453e-b8c2-4219afcbdf1c;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Dcitr10g06630.1.1-00001;date_creation=2021-10-07
+DC3.0sc10	.	gene	14529977	14533654	.	+	.	owner=sammy.sedky@usda.gov;ID=3e613c8d-ced9-453e-b8c2-4219afcbdf1c;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Dcitr10g06630.1.1;date_creation=2021-10-07
 DC3.0sc10	.	mRNA	14529977	14533654	.	+	.	owner=sammy.sedky@usda.gov;Parent=3e613c8d-ced9-453e-b8c2-4219afcbdf1c;ID=a7585c2c-081d-4c5e-a574-5ed7638aafe2;orig_id=Dcitr10g06630.1.1;is_fmax_partial=true;date_last_modified=2021-10-07;Name=cytochrome P450%2C E-class%2C group I (IPR002401);date_creation=2021-10-07
 DC3.0sc10	.	exon	14532632	14532818	.	+	.	Parent=a7585c2c-081d-4c5e-a574-5ed7638aafe2;ID=3c97f199-7c46-4107-89d8-e519a0cb849e;Name=3c97f199-7c46-4107-89d8-e519a0cb849e
 DC3.0sc10	.	exon	14533305	14533654	.	+	.	Parent=a7585c2c-081d-4c5e-a574-5ed7638aafe2;ID=8305c299-62d3-4512-a5b6-901a1b283a58;Name=8305c299-62d3-4512-a5b6-901a1b283a58
@@ -3263,7 +3263,7 @@ DC3.0sc10	.	CDS	14721895	14722333	.	-	1	Parent=9e23bf5b-48ba-453c-9519-64a370b47
 ###
 ##sequence-region DC3.0sc12 1 22772940
 DC3.0sc12	.	gene	9910056	9922626	.	+	.	owner=adkinssc@mail.irsc.edu;ID=a98a86ec-b439-4ac4-a5ec-200ab22ab72b;date_last_modified=2019-11-06;Name=MCOT01752.1.CT;date_creation=2019-11-06
-DC3.0sc12	.	mRNA	9910056	9922626	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=a98a86ec-b439-4ac4-a5ec-200ab22ab72b;ID=767d3631-d3b5-4a58-b600-89c54b57bdec;orig_id=MCOT01752.1.CT.mrna1;date_last_modified=2019-11-06;Name=MCOT01752.1.CT-00001;date_creation=2019-11-06
+DC3.0sc12	.	mRNA	9910056	9922626	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=a98a86ec-b439-4ac4-a5ec-200ab22ab72b;ID=767d3631-d3b5-4a58-b600-89c54b57bdec;orig_id=MCOT01752.1.CT.mrna1;date_last_modified=2019-11-06;Name=MCOT01752.1.CT;date_creation=2019-11-06
 DC3.0sc12	.	CDS	9912638	9912846	.	+	0	Parent=767d3631-d3b5-4a58-b600-89c54b57bdec;ID=082f59e3-6e59-4bff-a759-6624a5412b15;Name=082f59e3-6e59-4bff-a759-6624a5412b15
 DC3.0sc12	.	CDS	9912990	9913257	.	+	1	Parent=767d3631-d3b5-4a58-b600-89c54b57bdec;ID=082f59e3-6e59-4bff-a759-6624a5412b15;Name=082f59e3-6e59-4bff-a759-6624a5412b15
 DC3.0sc12	.	CDS	9920056	9920206	.	+	0	Parent=767d3631-d3b5-4a58-b600-89c54b57bdec;ID=082f59e3-6e59-4bff-a759-6624a5412b15;Name=082f59e3-6e59-4bff-a759-6624a5412b15
@@ -3293,7 +3293,7 @@ DC3.0sc12	.	exon	9850907	9851079	.	+	.	Parent=920a532b-3f9d-4606-bc71-3f6c2cf24a
 DC3.0sc12	.	non_canonical_three_prime_splice_site	9852720	9852720	.	+	.	Parent=920a532b-3f9d-4606-bc71-3f6c2cf24a50;ID=920a532b-3f9d-4606-bc71-3f6c2cf24a50-non_canonical_three_prime_splice_site-9852719;Name=920a532b-3f9d-4606-bc71-3f6c2cf24a50-non_canonical_three_prime_splice_site-9852719
 ###
 DC3.0sc12	.	gene	22179437	22263343	.	-	.	owner=perentem@mail.uc.edu;ID=ed3dc4dc-39f9-49c7-a8f8-a1b7ccff34ee;date_last_modified=2019-11-18;Name=Dcitr12g10220.1.1;date_creation=2019-11-15
-DC3.0sc12	.	mRNA	22179437	22263343	.	-	.	owner=perentem@mail.uc.edu;Parent=ed3dc4dc-39f9-49c7-a8f8-a1b7ccff34ee;ID=e7bf830e-d525-4a82-8dd3-fb4157e917a5;orig_id=Dcitr12g10220.1.1;date_last_modified=2019-11-15;Name=Dcitr12g10220.1.1-00001;date_creation=2019-11-15
+DC3.0sc12	.	mRNA	22179437	22263343	.	-	.	owner=perentem@mail.uc.edu;Parent=ed3dc4dc-39f9-49c7-a8f8-a1b7ccff34ee;ID=e7bf830e-d525-4a82-8dd3-fb4157e917a5;orig_id=Dcitr12g10220.1.1;date_last_modified=2019-11-15;Name=Dcitr12g10220.1.1;date_creation=2019-11-15
 DC3.0sc12	.	exon	22185378	22185471	.	-	.	Parent=e7bf830e-d525-4a82-8dd3-fb4157e917a5;ID=2b6dc0fe-3048-4d83-b9c4-2eae5a43dd5d;Name=2b6dc0fe-3048-4d83-b9c4-2eae5a43dd5d
 DC3.0sc12	.	exon	22257886	22258018	.	-	.	Parent=e7bf830e-d525-4a82-8dd3-fb4157e917a5;ID=762b992d-974f-4120-86ec-be8391f74772;Name=762b992d-974f-4120-86ec-be8391f74772
 DC3.0sc12	.	exon	22259320	22259516	.	-	.	Parent=e7bf830e-d525-4a82-8dd3-fb4157e917a5;ID=2be36ed1-52ab-4dd7-af31-6f2c99528936;Name=2be36ed1-52ab-4dd7-af31-6f2c99528936
@@ -3332,7 +3332,7 @@ DC3.0sc12	.	exon	22180994	22181126	.	-	.	Parent=e7bf830e-d525-4a82-8dd3-fb4157e9
 DC3.0sc12	.	exon	22184375	22184512	.	-	.	Parent=e7bf830e-d525-4a82-8dd3-fb4157e917a5;ID=d0eb66ed-1d05-4e5a-8f16-27b2800293d0;Name=d0eb66ed-1d05-4e5a-8f16-27b2800293d0
 ###
 DC3.0sc12	.	gene	22179437	22263343	.	-	.	owner=perentem@mail.uc.edu;ID=a9f6c9ae-1e76-4a73-84aa-52e81d186275;date_last_modified=2019-11-18;Name=Dcitr12g10220.1.1a;date_creation=2019-11-18
-DC3.0sc12	.	mRNA	22179437	22263343	.	-	.	owner=perentem@mail.uc.edu;Parent=a9f6c9ae-1e76-4a73-84aa-52e81d186275;ID=c3f09a6a-5773-467a-b7ef-e771cc2532c8;orig_id=Dcitr12g10220.1.1;date_last_modified=2019-11-18;Name=Dcitr12g10220.1.1a-00001;date_creation=2019-11-18
+DC3.0sc12	.	mRNA	22179437	22263343	.	-	.	owner=perentem@mail.uc.edu;Parent=a9f6c9ae-1e76-4a73-84aa-52e81d186275;ID=c3f09a6a-5773-467a-b7ef-e771cc2532c8;orig_id=Dcitr12g10220.1.1;date_last_modified=2019-11-18;Name=Dcitr12g10220.1.1a;date_creation=2019-11-18
 DC3.0sc12	.	non_canonical_five_prime_splice_site	22190544	22190544	.	-	.	Parent=c3f09a6a-5773-467a-b7ef-e771cc2532c8;ID=c3f09a6a-5773-467a-b7ef-e771cc2532c8-non_canonical_five_prime_splice_site-22190543;Name=c3f09a6a-5773-467a-b7ef-e771cc2532c8-non_canonical_five_prime_splice_site-22190543
 DC3.0sc12	.	exon	22184375	22184512	.	-	.	Parent=c3f09a6a-5773-467a-b7ef-e771cc2532c8;ID=653cf51c-b462-4b2c-b609-7ff704d3741f;Name=653cf51c-b462-4b2c-b609-7ff704d3741f
 DC3.0sc12	.	exon	22261488	22261625	.	-	.	Parent=c3f09a6a-5773-467a-b7ef-e771cc2532c8;ID=ef871b6b-c59d-40a9-a700-db96dab85d3e;Name=ef871b6b-c59d-40a9-a700-db96dab85d3e
@@ -3482,7 +3482,7 @@ DC3.0sc12	.	non_canonical_five_prime_splice_site	2674195	2674195	.	-	.	Parent=e1
 DC3.0sc12	.	non_canonical_three_prime_splice_site	2704459	2704459	.	-	.	Parent=e1fdada9-3da3-4a57-8c37-392c6930ff40;ID=e1fdada9-3da3-4a57-8c37-392c6930ff40-non_canonical_three_prime_splice_site-2704458;Name=e1fdada9-3da3-4a57-8c37-392c6930ff40-non_canonical_three_prime_splice_site-2704458
 ###
 DC3.0sc12	.	gene	6236268	6251580	.	-	.	owner=adkinssc@mail.irsc.edu;symbol=Syx1A-RB;ID=4066c691-d73f-4586-add3-e082822783e6;date_last_modified=2019-12-13;Name=Syntaxin-1A isoform X2;date_creation=2019-12-13
-DC3.0sc12	.	mRNA	6236268	6251580	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=4066c691-d73f-4586-add3-e082822783e6;Note=Used Apis mellifera sequence to search MCOT database. Model based off Denovo  DcDTi11885.13. Start and stop sites are good. Splice sites are good. Blast of model has  98% Query Coverage and 73% Identity to Syntaxis isoform X2 in Halymorpha halys. Blast included expected Syntaxin superfamily domain.;ID=77105ac7-fa4d-4bf0-b1c1-cb29afa9181b;orig_id=DcDTi11885.13.mrna1;date_last_modified=2019-12-13;Name=Dcitr12g03250.1.1-00002;date_creation=2019-12-13
+DC3.0sc12	.	mRNA	6236268	6251580	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=4066c691-d73f-4586-add3-e082822783e6;Note=Used Apis mellifera sequence to search MCOT database. Model based off Denovo  DcDTi11885.13. Start and stop sites are good. Splice sites are good. Blast of model has  98% Query Coverage and 73% Identity to Syntaxis isoform X2 in Halymorpha halys. Blast included expected Syntaxin superfamily domain.;ID=77105ac7-fa4d-4bf0-b1c1-cb29afa9181b;orig_id=DcDTi11885.13.mrna1;date_last_modified=2019-12-13;Name=Dcitr12g03250.1.1-0;date_creation=2019-12-13
 DC3.0sc12	.	exon	6251513	6251580	.	-	.	Parent=77105ac7-fa4d-4bf0-b1c1-cb29afa9181b;ID=0729dbb6-09d7-4460-906d-b5a02346760e;Name=0729dbb6-09d7-4460-906d-b5a02346760e
 DC3.0sc12	.	exon	6241804	6241914	.	-	.	Parent=77105ac7-fa4d-4bf0-b1c1-cb29afa9181b;ID=a7cc727e-c044-4666-bee7-eb646f7d1731;Name=a7cc727e-c044-4666-bee7-eb646f7d1731
 DC3.0sc12	.	exon	6236268	6238321	.	-	.	Parent=77105ac7-fa4d-4bf0-b1c1-cb29afa9181b;ID=60976dea-df02-48f0-893c-149b6bae0a3e;Name=60976dea-df02-48f0-893c-149b6bae0a3e
@@ -3493,19 +3493,19 @@ DC3.0sc12	.	CDS	6241804	6241914	.	-	0	Parent=77105ac7-fa4d-4bf0-b1c1-cb29afa9181
 DC3.0sc12	.	CDS	6238244	6238321	.	-	0	Parent=77105ac7-fa4d-4bf0-b1c1-cb29afa9181b;ID=922734fd-9c2b-4fc6-ba9a-dc61085e62cc;Name=922734fd-9c2b-4fc6-ba9a-dc61085e62cc
 ###
 DC3.0sc12	.	gene	18366986	18368391	.	+	.	owner=gracerl@mail.irsc.edu;ID=d5963274-6768-4bbb-84ba-e2893a72da3e;date_last_modified=2019-12-22;Name=Dcitr12g08560.1.1;date_creation=2019-12-22
-DC3.0sc12	.	mRNA	18366986	18368391	.	+	.	owner=gracerl@mail.irsc.edu;Parent=d5963274-6768-4bbb-84ba-e2893a72da3e;ID=3a17cedf-6e1c-4840-978e-de4828ea8a85;date_last_modified=2019-12-22;Name=Dcitr12g08560.1.1-00001;date_creation=2019-12-22
+DC3.0sc12	.	mRNA	18366986	18368391	.	+	.	owner=gracerl@mail.irsc.edu;Parent=d5963274-6768-4bbb-84ba-e2893a72da3e;ID=3a17cedf-6e1c-4840-978e-de4828ea8a85;date_last_modified=2019-12-22;Name=Dcitr12g08560.1.1;date_creation=2019-12-22
 DC3.0sc12	.	CDS	18367380	18367434	.	+	0	Parent=3a17cedf-6e1c-4840-978e-de4828ea8a85;ID=e9598be8-bf37-425f-bee3-832da3b737e8;Name=e9598be8-bf37-425f-bee3-832da3b737e8
 DC3.0sc12	.	CDS	18367823	18368391	.	+	2	Parent=3a17cedf-6e1c-4840-978e-de4828ea8a85;ID=e9598be8-bf37-425f-bee3-832da3b737e8;Name=e9598be8-bf37-425f-bee3-832da3b737e8
 DC3.0sc12	.	exon	18367823	18368391	.	+	.	Parent=3a17cedf-6e1c-4840-978e-de4828ea8a85;ID=a00d6261-f2be-4444-af5e-738cec604cc5;Name=a00d6261-f2be-4444-af5e-738cec604cc5
 DC3.0sc12	.	exon	18366986	18367434	.	+	.	Parent=3a17cedf-6e1c-4840-978e-de4828ea8a85;ID=70905645-4867-4965-8306-e6b844659fb8;Name=70905645-4867-4965-8306-e6b844659fb8
 ###
 DC3.0sc12	.	gene	18383369	18398063	.	+	.	owner=gracerl@mail.irsc.edu;Note=After BlastP this sequence%2C it looks like only the beginning of sequence aligns with orthologs. There are models that match the idea that only the beginning of this model is subunit-b. However%2C the sequence is identical to the other subunit-c (21kDa proteolipid)%2C so I think this is a duplication.;ID=44948a3d-da6e-4c6b-9e78-5300d6d01b36;date_last_modified=2019-12-22;Name=Dcitr12g08580.1.1;date_creation=2019-12-22
-DC3.0sc12	.	mRNA	18383369	18385285	.	+	.	owner=gracerl@mail.irsc.edu;Parent=44948a3d-da6e-4c6b-9e78-5300d6d01b36;ID=24629634-287c-49a6-902f-0d8f3676b48a;date_last_modified=2019-12-22;Name=Dcitr12g08580.1.1-00002;date_creation=2019-12-22
+DC3.0sc12	.	mRNA	18383369	18385285	.	+	.	owner=gracerl@mail.irsc.edu;Parent=44948a3d-da6e-4c6b-9e78-5300d6d01b36;ID=24629634-287c-49a6-902f-0d8f3676b48a;date_last_modified=2019-12-22;Name=Dcitr12g08580.1.1-0;date_creation=2019-12-22
 DC3.0sc12	.	exon	18383369	18383658	.	+	.	Parent=24629634-287c-49a6-902f-0d8f3676b48a;ID=79761382-1978-4b65-8794-322e5ccee885;Name=79761382-1978-4b65-8794-322e5ccee885
 DC3.0sc12	.	exon	18384047	18385285	.	+	.	Parent=24629634-287c-49a6-902f-0d8f3676b48a;ID=327db55d-6407-48f7-ae02-a7435ee06a8c;Name=327db55d-6407-48f7-ae02-a7435ee06a8c
 DC3.0sc12	.	CDS	18383604	18383658	.	+	0	Parent=24629634-287c-49a6-902f-0d8f3676b48a;ID=62dc4ff7-707d-4892-b5a8-1fce25236302;Name=62dc4ff7-707d-4892-b5a8-1fce25236302
 DC3.0sc12	.	CDS	18384047	18384615	.	+	2	Parent=24629634-287c-49a6-902f-0d8f3676b48a;ID=62dc4ff7-707d-4892-b5a8-1fce25236302;Name=62dc4ff7-707d-4892-b5a8-1fce25236302
-DC3.0sc12	.	mRNA	18383604	18398063	.	+	.	owner=gracerl@mail.irsc.edu;Parent=44948a3d-da6e-4c6b-9e78-5300d6d01b36;ID=c2b09de3-c4bc-4a1c-8feb-b02ac626e778;date_last_modified=2019-12-22;Name=Dcitr12g08580.1.1-00001;date_creation=2019-12-22
+DC3.0sc12	.	mRNA	18383604	18398063	.	+	.	owner=gracerl@mail.irsc.edu;Parent=44948a3d-da6e-4c6b-9e78-5300d6d01b36;ID=c2b09de3-c4bc-4a1c-8feb-b02ac626e778;date_last_modified=2019-12-22;Name=Dcitr12g08580.1.1;date_creation=2019-12-22
 DC3.0sc12	.	exon	18397054	18397241	.	+	.	Parent=c2b09de3-c4bc-4a1c-8feb-b02ac626e778;ID=d3aabf38-364f-4026-9d5d-8881ac3a29ba;Name=d3aabf38-364f-4026-9d5d-8881ac3a29ba
 DC3.0sc12	.	exon	18397832	18398063	.	+	.	Parent=c2b09de3-c4bc-4a1c-8feb-b02ac626e778;ID=ddefa5ea-c0e5-44e0-b1e8-4eef8237ea6d;Name=ddefa5ea-c0e5-44e0-b1e8-4eef8237ea6d
 DC3.0sc12	.	exon	18392873	18393013	.	+	.	Parent=c2b09de3-c4bc-4a1c-8feb-b02ac626e778;ID=c67c2823-77d0-4f43-a2a4-5f99c13ded8c;Name=c67c2823-77d0-4f43-a2a4-5f99c13ded8c
@@ -3538,7 +3538,7 @@ DC3.0sc12	.	exon	18386975	18387189	.	+	.	Parent=c2b09de3-c4bc-4a1c-8feb-b02ac626
 DC3.0sc12	.	exon	18395742	18395978	.	+	.	Parent=c2b09de3-c4bc-4a1c-8feb-b02ac626e778;ID=10c9b0f5-3673-4c8e-92ca-82a98ce4a74f;Name=10c9b0f5-3673-4c8e-92ca-82a98ce4a74f
 ###
 DC3.0sc12	.	gene	4682087	4688100	.	+	.	owner=adkinssc@mail.irsc.edu;ID=ca173f11-b48c-454b-9090-df8f211efe26;date_last_modified=2020-01-24;Name=ribokinase-like3;date_creation=2020-01-24
-DC3.0sc12	.	mRNA	4682087	4688100	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=ca173f11-b48c-454b-9090-df8f211efe26;ID=07e05140-38c1-404d-8cba-c55cae8dbce9;date_last_modified=2020-01-24;Name=Dcitr12g02720.1.1-00001;date_creation=2020-01-24
+DC3.0sc12	.	mRNA	4682087	4688100	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=ca173f11-b48c-454b-9090-df8f211efe26;ID=07e05140-38c1-404d-8cba-c55cae8dbce9;date_last_modified=2020-01-24;Name=Dcitr12g02720.1.1;date_creation=2020-01-24
 DC3.0sc12	.	exon	4682603	4682881	.	+	.	Parent=07e05140-38c1-404d-8cba-c55cae8dbce9;ID=1d4a2c8e-9a81-4ad8-b938-61263863c329;Name=1d4a2c8e-9a81-4ad8-b938-61263863c329
 DC3.0sc12	.	exon	4686956	4687242	.	+	.	Parent=07e05140-38c1-404d-8cba-c55cae8dbce9;ID=36228c1b-0ad0-4f32-9392-de27f60dd8e1;Name=36228c1b-0ad0-4f32-9392-de27f60dd8e1
 DC3.0sc12	.	exon	4683601	4683733	.	+	.	Parent=07e05140-38c1-404d-8cba-c55cae8dbce9;ID=5f9ed637-dd9b-4bd9-831e-6f88810b5368;Name=5f9ed637-dd9b-4bd9-831e-6f88810b5368
@@ -3555,7 +3555,7 @@ DC3.0sc12	.	CDS	4686292	4686330	.	+	2	Parent=07e05140-38c1-404d-8cba-c55cae8dbce
 DC3.0sc12	.	CDS	4686956	4687242	.	+	2	Parent=07e05140-38c1-404d-8cba-c55cae8dbce9;ID=34d665a9-82b6-41bd-b52c-32f752a9c48e;Name=34d665a9-82b6-41bd-b52c-32f752a9c48e
 DC3.0sc12	.	CDS	4687809	4688009	.	+	0	Parent=07e05140-38c1-404d-8cba-c55cae8dbce9;ID=34d665a9-82b6-41bd-b52c-32f752a9c48e;Name=34d665a9-82b6-41bd-b52c-32f752a9c48e
 DC3.0sc12	.	exon	4685449	4685556	.	+	.	Parent=07e05140-38c1-404d-8cba-c55cae8dbce9;ID=0327a5d4-5799-4a50-ac84-1628549c9421;Name=0327a5d4-5799-4a50-ac84-1628549c9421
-DC3.0sc12	.	mRNA	4682823	4688009	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=ca173f11-b48c-454b-9090-df8f211efe26;ID=5d89897d-5079-449a-ac00-0ad4d788d49b;date_last_modified=2020-01-24;Name=Dcitr12g02720.1.1-00002;date_creation=2020-01-24
+DC3.0sc12	.	mRNA	4682823	4688009	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=ca173f11-b48c-454b-9090-df8f211efe26;ID=5d89897d-5079-449a-ac00-0ad4d788d49b;date_last_modified=2020-01-24;Name=Dcitr12g02720.1.1-0;date_creation=2020-01-24
 DC3.0sc12	.	exon	4684515	4684647	.	+	.	Parent=5d89897d-5079-449a-ac00-0ad4d788d49b;ID=4aa09d3c-ec6b-4684-add6-430b75fcb173;Name=4aa09d3c-ec6b-4684-add6-430b75fcb173
 DC3.0sc12	.	exon	4685449	4685556	.	+	.	Parent=5d89897d-5079-449a-ac00-0ad4d788d49b;ID=f214d5c9-2df8-4d13-9bd2-319bbc3a1ab1;Name=f214d5c9-2df8-4d13-9bd2-319bbc3a1ab1
 DC3.0sc12	.	exon	4683601	4683733	.	+	.	Parent=5d89897d-5079-449a-ac00-0ad4d788d49b;ID=5102e120-cace-44b8-86cd-7b2b084f8678;Name=5102e120-cace-44b8-86cd-7b2b084f8678
@@ -3606,7 +3606,7 @@ DC3.0sc12	.	exon	18915200	18916067	.	-	.	Parent=664a3669-9735-4ec6-a300-a949d768
 DC3.0sc12	.	exon	18914569	18914798	.	-	.	Parent=664a3669-9735-4ec6-a300-a949d7686fe5;ID=ea17b647-4591-4fd4-8586-34ab52f2d424;Name=ea17b647-4591-4fd4-8586-34ab52f2d424
 DC3.0sc12	.	exon	18913472	18913775	.	-	.	Parent=664a3669-9735-4ec6-a300-a949d7686fe5;ID=5434e2cb-cb5f-47ea-b9b5-c6b976613bb5;Name=5434e2cb-cb5f-47ea-b9b5-c6b976613bb5
 ###
-DC3.0sc12	.	gene	10661680	10665533	.	-	.	owner=sammy.sedky@usda.gov;is_fmin_partial=true;ID=8a2685e9-3450-4a7b-8fb2-5c37f094de56;date_last_modified=2021-10-07;Name=Dcitr12g05370.1.1-00001;date_creation=2021-10-07
+DC3.0sc12	.	gene	10661680	10665533	.	-	.	owner=sammy.sedky@usda.gov;is_fmin_partial=true;ID=8a2685e9-3450-4a7b-8fb2-5c37f094de56;date_last_modified=2021-10-07;Name=Dcitr12g05370.1.1;date_creation=2021-10-07
 DC3.0sc12	.	mRNA	10661680	10665533	.	-	.	owner=sammy.sedky@usda.gov;Parent=8a2685e9-3450-4a7b-8fb2-5c37f094de56;is_fmin_partial=true;ID=cdc489a6-0766-4481-ba51-ea41a9355551;orig_id=Dcitr12g05370.1.1;date_last_modified=2021-10-07;Name=Cytochrome P450%2C E-class%2C group IV (IPR002403);date_creation=2021-10-07
 DC3.0sc12	.	exon	10662876	10663077	.	-	.	Parent=cdc489a6-0766-4481-ba51-ea41a9355551;ID=ba6ec140-6fb5-4d32-ab17-4a31b707fb46;Name=ba6ec140-6fb5-4d32-ab17-4a31b707fb46
 DC3.0sc12	.	exon	10664243	10664405	.	-	.	Parent=cdc489a6-0766-4481-ba51-ea41a9355551;ID=b7a37c23-800a-45b4-ba89-349fe2415d62;Name=b7a37c23-800a-45b4-ba89-349fe2415d62
@@ -3625,7 +3625,7 @@ DC3.0sc12	.	CDS	10661710	10662053	.	-	2	Parent=cdc489a6-0766-4481-ba51-ea41a9355
 ###
 ##sequence-region DC3.0sc00 1 34736251
 DC3.0sc00	.	gene	8482064	8482910	.	+	.	owner=adkinssc@mail.irsc.edu;ID=9083e099-3e42-4d62-88ee-56e5574b0015;date_last_modified=2019-11-01;Name=mikado.DC3.0sc00G1132.1;date_creation=2019-11-01
-DC3.0sc00	.	mRNA	8482064	8482910	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=9083e099-3e42-4d62-88ee-56e5574b0015;ID=4063f59d-3598-4e4a-9aa7-50b3104e5cfb;orig_id=Dcitr00g04580.1.1;date_last_modified=2019-11-01;Name=mikado.DC3.0sc00G1132.1-00001;date_creation=2019-11-01
+DC3.0sc00	.	mRNA	8482064	8482910	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=9083e099-3e42-4d62-88ee-56e5574b0015;ID=4063f59d-3598-4e4a-9aa7-50b3104e5cfb;orig_id=Dcitr00g04580.1.1;date_last_modified=2019-11-01;Name=mikado.DC3.0sc00G1132.1;date_creation=2019-11-01
 DC3.0sc00	.	CDS	8482095	8482148	.	+	0	Parent=4063f59d-3598-4e4a-9aa7-50b3104e5cfb;ID=99a14885-6590-4115-8843-b4a5b41cef81;Name=99a14885-6590-4115-8843-b4a5b41cef81
 DC3.0sc00	.	CDS	8482198	8482306	.	+	0	Parent=4063f59d-3598-4e4a-9aa7-50b3104e5cfb;ID=99a14885-6590-4115-8843-b4a5b41cef81;Name=99a14885-6590-4115-8843-b4a5b41cef81
 DC3.0sc00	.	CDS	8482353	8482885	.	+	2	Parent=4063f59d-3598-4e4a-9aa7-50b3104e5cfb;ID=99a14885-6590-4115-8843-b4a5b41cef81;Name=99a14885-6590-4115-8843-b4a5b41cef81
@@ -3634,10 +3634,10 @@ DC3.0sc00	.	exon	8482353	8482910	.	+	.	Parent=4063f59d-3598-4e4a-9aa7-50b3104e5c
 DC3.0sc00	.	exon	8482198	8482306	.	+	.	Parent=4063f59d-3598-4e4a-9aa7-50b3104e5cfb;ID=c6f85704-79a3-4616-845b-416688556629;Name=c6f85704-79a3-4616-845b-416688556629
 ###
 DC3.0sc00	.	gene	14873221	14876862	.	+	.	owner=perentem@mail.uc.edu;ID=13d3d564-ffcc-454d-b8a0-e8a58d45662f;date_last_modified=2019-11-12;Name=Dcitr00g07000.1.1;date_creation=2019-11-12
-DC3.0sc00	.	mRNA	14875462	14875742	.	+	.	owner=perentem@mail.uc.edu;Parent=13d3d564-ffcc-454d-b8a0-e8a58d45662f;ID=fc99932d-09f0-4b88-9ea4-6a7b9273c0bf;orig_id=Dcitr00g07000.1.1;date_last_modified=2019-11-12;Name=Dcitr00g07000.1.1-00001;date_creation=2019-11-12
+DC3.0sc00	.	mRNA	14875462	14875742	.	+	.	owner=perentem@mail.uc.edu;Parent=13d3d564-ffcc-454d-b8a0-e8a58d45662f;ID=fc99932d-09f0-4b88-9ea4-6a7b9273c0bf;orig_id=Dcitr00g07000.1.1;date_last_modified=2019-11-12;Name=Dcitr00g07000.1.1;date_creation=2019-11-12
 DC3.0sc00	.	exon	14875462	14875742	.	+	.	Parent=fc99932d-09f0-4b88-9ea4-6a7b9273c0bf;ID=8bda1d69-99cc-4778-a29f-85e68fcad19b;Name=8bda1d69-99cc-4778-a29f-85e68fcad19b
 DC3.0sc00	.	CDS	14875462	14875659	.	+	0	Parent=fc99932d-09f0-4b88-9ea4-6a7b9273c0bf;ID=fc99932d-09f0-4b88-9ea4-6a7b9273c0bf-CDS;Name=fc99932d-09f0-4b88-9ea4-6a7b9273c0bf-CDS
-DC3.0sc00	.	mRNA	14873221	14876862	.	+	.	owner=perentem@mail.uc.edu;Parent=13d3d564-ffcc-454d-b8a0-e8a58d45662f;ID=bcb9d265-343e-40d4-86cf-0ca557e28941;orig_id=DC3.0sc00:hit:4621:4.5.0.149;date_last_modified=2019-11-12;Name=Dcitr00g07000.1.1-00002;date_creation=2019-11-12
+DC3.0sc00	.	mRNA	14873221	14876862	.	+	.	owner=perentem@mail.uc.edu;Parent=13d3d564-ffcc-454d-b8a0-e8a58d45662f;ID=bcb9d265-343e-40d4-86cf-0ca557e28941;orig_id=DC3.0sc00:hit:4621:4.5.0.149;date_last_modified=2019-11-12;Name=Dcitr00g07000.1.1-0;date_creation=2019-11-12
 DC3.0sc00	.	exon	14874434	14874561	.	+	.	Parent=bcb9d265-343e-40d4-86cf-0ca557e28941;ID=97ce3cb6-0a51-40f1-9799-d42d94b2b1fb;Name=97ce3cb6-0a51-40f1-9799-d42d94b2b1fb
 DC3.0sc00	.	exon	14876086	14876862	.	+	.	Parent=bcb9d265-343e-40d4-86cf-0ca557e28941;ID=1302619b-3a37-41f2-b445-8eaec4bf1b69;Name=1302619b-3a37-41f2-b445-8eaec4bf1b69
 DC3.0sc00	.	exon	14873221	14873501	.	+	.	Parent=bcb9d265-343e-40d4-86cf-0ca557e28941;ID=ceeecacc-1a3a-485f-b3d2-d356d68ea19a;Name=ceeecacc-1a3a-485f-b3d2-d356d68ea19a
@@ -3651,7 +3651,7 @@ DC3.0sc00	.	exon	14873769	14874012	.	+	.	Parent=bcb9d265-343e-40d4-86cf-0ca557e2
 DC3.0sc00	.	exon	14874824	14874994	.	+	.	Parent=bcb9d265-343e-40d4-86cf-0ca557e28941;ID=b8c76a22-a303-40cc-9efd-31f40d8849aa;Name=b8c76a22-a303-40cc-9efd-31f40d8849aa
 ###
 DC3.0sc00	.	gene	33404913	33405628	.	-	.	owner=perentem@mail.uc.edu;ID=8c5121d2-fcf6-45c8-91b3-4c20535e7a5c;date_last_modified=2019-11-15;Name=Dcitr00g14810.1.1;date_creation=2019-11-15
-DC3.0sc00	.	mRNA	33404913	33405628	.	-	.	owner=perentem@mail.uc.edu;Parent=8c5121d2-fcf6-45c8-91b3-4c20535e7a5c;ID=675a62ca-3ea6-49fe-96b2-85f79952ffa7;orig_id=Dcitr00g14810.1.1;date_last_modified=2019-11-15;Name=Dcitr00g14810.1.1-00001;date_creation=2019-11-15
+DC3.0sc00	.	mRNA	33404913	33405628	.	-	.	owner=perentem@mail.uc.edu;Parent=8c5121d2-fcf6-45c8-91b3-4c20535e7a5c;ID=675a62ca-3ea6-49fe-96b2-85f79952ffa7;orig_id=Dcitr00g14810.1.1;date_last_modified=2019-11-15;Name=Dcitr00g14810.1.1;date_creation=2019-11-15
 DC3.0sc00	.	exon	33405249	33405342	.	-	.	Parent=675a62ca-3ea6-49fe-96b2-85f79952ffa7;ID=9e9dd775-a33c-48a2-a28f-70f4a976e09c;Name=9e9dd775-a33c-48a2-a28f-70f4a976e09c
 DC3.0sc00	.	exon	33405392	33405539	.	-	.	Parent=675a62ca-3ea6-49fe-96b2-85f79952ffa7;ID=3e9cbb7a-0d9c-4b65-b320-e823e6cd0efc;Name=3e9cbb7a-0d9c-4b65-b320-e823e6cd0efc
 DC3.0sc00	.	exon	33405584	33405628	.	-	.	Parent=675a62ca-3ea6-49fe-96b2-85f79952ffa7;ID=684ca08e-c989-4f2d-8f1e-19e390a014c2;Name=684ca08e-c989-4f2d-8f1e-19e390a014c2
@@ -3662,7 +3662,7 @@ DC3.0sc00	.	CDS	33405131	33405200	.	-	1	Parent=675a62ca-3ea6-49fe-96b2-85f79952f
 DC3.0sc00	.	exon	33404913	33405200	.	-	.	Parent=675a62ca-3ea6-49fe-96b2-85f79952ffa7;ID=11920f10-3dce-46f0-9e1c-2319c95ddb7e;Name=11920f10-3dce-46f0-9e1c-2319c95ddb7e
 ###
 DC3.0sc00	.	gene	10842953	10843893	.	+	.	owner=gracerl@mail.irsc.edu;ID=b47ffbed-21b2-4ccb-bc33-871a560d2550;date_last_modified=2019-12-22;Name=Dcitr00g04880.1.1;date_creation=2019-12-22
-DC3.0sc00	.	mRNA	10842953	10843893	.	+	.	owner=gracerl@mail.irsc.edu;Parent=b47ffbed-21b2-4ccb-bc33-871a560d2550;ID=47428f45-64aa-4b3a-85b6-d2dac6e580dd;date_last_modified=2019-12-22;Name=Dcitr00g04880.1.1-00001;date_creation=2019-12-22
+DC3.0sc00	.	mRNA	10842953	10843893	.	+	.	owner=gracerl@mail.irsc.edu;Parent=b47ffbed-21b2-4ccb-bc33-871a560d2550;ID=47428f45-64aa-4b3a-85b6-d2dac6e580dd;date_last_modified=2019-12-22;Name=Dcitr00g04880.1.1;date_creation=2019-12-22
 DC3.0sc00	.	exon	10842953	10843205	.	+	.	Parent=47428f45-64aa-4b3a-85b6-d2dac6e580dd;ID=45fdd262-1d32-4051-9d33-c326659247d6;Name=45fdd262-1d32-4051-9d33-c326659247d6
 DC3.0sc00	.	exon	10843410	10843674	.	+	.	Parent=47428f45-64aa-4b3a-85b6-d2dac6e580dd;ID=92645bce-e796-4736-90af-5de23dbe5dcf;Name=92645bce-e796-4736-90af-5de23dbe5dcf
 DC3.0sc00	.	exon	10843761	10843893	.	+	.	Parent=47428f45-64aa-4b3a-85b6-d2dac6e580dd;ID=1a41a5d2-34db-4f1f-afac-0d7ec82d21f6;Name=1a41a5d2-34db-4f1f-afac-0d7ec82d21f6
@@ -3671,7 +3671,7 @@ DC3.0sc00	.	CDS	10843410	10843674	.	+	2	Parent=47428f45-64aa-4b3a-85b6-d2dac6e58
 DC3.0sc00	.	CDS	10843761	10843893	.	+	1	Parent=47428f45-64aa-4b3a-85b6-d2dac6e580dd;ID=01efdc8b-c2a9-45d2-89f7-3e02c591cad8;Name=01efdc8b-c2a9-45d2-89f7-3e02c591cad8
 ###
 DC3.0sc00	.	gene	11214580	11217504	.	+	.	owner=gracerl@mail.irsc.edu;ID=08f6367e-6d7a-4c27-a121-b800503959bb;date_last_modified=2019-12-22;Name=c187711/f3p34/2158;date_creation=2019-12-22
-DC3.0sc00	.	mRNA	11214580	11217504	.	+	.	owner=gracerl@mail.irsc.edu;Parent=08f6367e-6d7a-4c27-a121-b800503959bb;ID=c9e9c922-53bf-42eb-87bd-5e3220ea5962;date_last_modified=2019-12-22;Name=c187711/f3p34/2158-00001;date_creation=2019-12-22
+DC3.0sc00	.	mRNA	11214580	11217504	.	+	.	owner=gracerl@mail.irsc.edu;Parent=08f6367e-6d7a-4c27-a121-b800503959bb;ID=c9e9c922-53bf-42eb-87bd-5e3220ea5962;date_last_modified=2019-12-22;Name=c187711/f3p34/2158;date_creation=2019-12-22
 DC3.0sc00	.	exon	11216321	11216449	.	+	.	Parent=c9e9c922-53bf-42eb-87bd-5e3220ea5962;ID=2fafeb68-9741-47d8-9828-26d1f68d9d3a;Name=2fafeb68-9741-47d8-9828-26d1f68d9d3a
 DC3.0sc00	.	CDS	11214777	11214891	.	+	0	Parent=c9e9c922-53bf-42eb-87bd-5e3220ea5962;ID=ca1bb532-516f-4f41-a252-ff2ef8a604f6;Name=ca1bb532-516f-4f41-a252-ff2ef8a604f6
 DC3.0sc00	.	CDS	11215154	11215416	.	+	2	Parent=c9e9c922-53bf-42eb-87bd-5e3220ea5962;ID=ca1bb532-516f-4f41-a252-ff2ef8a604f6;Name=ca1bb532-516f-4f41-a252-ff2ef8a604f6
@@ -3681,21 +3681,21 @@ DC3.0sc00	.	exon	11215154	11215818	.	+	.	Parent=c9e9c922-53bf-42eb-87bd-5e3220ea
 DC3.0sc00	.	exon	11216604	11217504	.	+	.	Parent=c9e9c922-53bf-42eb-87bd-5e3220ea5962;ID=52107b86-8a17-43a9-b4fa-94ac73d2f201;Name=52107b86-8a17-43a9-b4fa-94ac73d2f201
 ###
 DC3.0sc00	.	gene	13590940	13591948	.	-	.	owner=gracerl@mail.irsc.edu;ID=e78b881c-4598-4fda-bdd6-0e1d6dab81fe;date_last_modified=2019-12-22;Name=Dcitr00g06400.1.1;date_creation=2019-12-22
-DC3.0sc00	.	mRNA	13590940	13591948	.	-	.	owner=gracerl@mail.irsc.edu;Parent=e78b881c-4598-4fda-bdd6-0e1d6dab81fe;ID=324c5b13-39bf-4c87-ad7b-8a25c8417f78;date_last_modified=2019-12-22;Name=Dcitr00g06400.1.1-00001;date_creation=2019-12-22
+DC3.0sc00	.	mRNA	13590940	13591948	.	-	.	owner=gracerl@mail.irsc.edu;Parent=e78b881c-4598-4fda-bdd6-0e1d6dab81fe;ID=324c5b13-39bf-4c87-ad7b-8a25c8417f78;date_last_modified=2019-12-22;Name=Dcitr00g06400.1.1;date_creation=2019-12-22
 DC3.0sc00	.	exon	13590940	13591065	.	-	.	Parent=324c5b13-39bf-4c87-ad7b-8a25c8417f78;ID=cde76503-30f4-4bd9-86a9-149fea0b450f;Name=cde76503-30f4-4bd9-86a9-149fea0b450f
 DC3.0sc00	.	CDS	13591748	13591948	.	-	0	Parent=324c5b13-39bf-4c87-ad7b-8a25c8417f78;ID=e0c75a60-0989-40ec-9ae9-aa1dd19d188e;Name=e0c75a60-0989-40ec-9ae9-aa1dd19d188e
 DC3.0sc00	.	CDS	13590940	13591065	.	-	0	Parent=324c5b13-39bf-4c87-ad7b-8a25c8417f78;ID=e0c75a60-0989-40ec-9ae9-aa1dd19d188e;Name=e0c75a60-0989-40ec-9ae9-aa1dd19d188e
 DC3.0sc00	.	exon	13591748	13591948	.	-	.	Parent=324c5b13-39bf-4c87-ad7b-8a25c8417f78;ID=52c08e7f-a452-4545-a636-749edd7127cd;Name=52c08e7f-a452-4545-a636-749edd7127cd
 ###
 DC3.0sc00	.	gene	13590885	13593376	.	-	.	owner=gracerl@mail.irsc.edu;ID=ccb859df-98b5-4040-bec4-1c78018fbbd3;date_last_modified=2019-12-22;Name=Dcitr00g06420.1.1;date_creation=2019-12-22
-DC3.0sc00	.	mRNA	13592790	13593376	.	-	.	owner=gracerl@mail.irsc.edu;Parent=ccb859df-98b5-4040-bec4-1c78018fbbd3;ID=ec5fdbf8-ee4f-4cf5-a01a-7584e6ecf380;date_last_modified=2019-12-22;Name=Dcitr00g06420.1.1-00001;date_creation=2019-12-22
+DC3.0sc00	.	mRNA	13592790	13593376	.	-	.	owner=gracerl@mail.irsc.edu;Parent=ccb859df-98b5-4040-bec4-1c78018fbbd3;ID=ec5fdbf8-ee4f-4cf5-a01a-7584e6ecf380;date_last_modified=2019-12-22;Name=Dcitr00g06420.1.1;date_creation=2019-12-22
 DC3.0sc00	.	CDS	13593135	13593138	.	-	0	Parent=ec5fdbf8-ee4f-4cf5-a01a-7584e6ecf380;ID=82ef8360-d65d-4b2f-a8e1-6d48c89d29e3;Name=82ef8360-d65d-4b2f-a8e1-6d48c89d29e3
 DC3.0sc00	.	CDS	13592790	13593088	.	-	2	Parent=ec5fdbf8-ee4f-4cf5-a01a-7584e6ecf380;ID=82ef8360-d65d-4b2f-a8e1-6d48c89d29e3;Name=82ef8360-d65d-4b2f-a8e1-6d48c89d29e3
 DC3.0sc00	.	exon	13593210	13593268	.	-	.	Parent=ec5fdbf8-ee4f-4cf5-a01a-7584e6ecf380;ID=2ebbb8c5-0796-4991-bc68-471f8abf6251;Name=2ebbb8c5-0796-4991-bc68-471f8abf6251
 DC3.0sc00	.	exon	13593322	13593376	.	-	.	Parent=ec5fdbf8-ee4f-4cf5-a01a-7584e6ecf380;ID=0a3ee151-9827-46ed-b5dd-900be6299c2f;Name=0a3ee151-9827-46ed-b5dd-900be6299c2f
 DC3.0sc00	.	exon	13593135	13593162	.	-	.	Parent=ec5fdbf8-ee4f-4cf5-a01a-7584e6ecf380;ID=1ccecc44-64fd-4ab3-afc2-7e6e8ae77f9a;Name=1ccecc44-64fd-4ab3-afc2-7e6e8ae77f9a
 DC3.0sc00	.	exon	13592790	13593088	.	-	.	Parent=ec5fdbf8-ee4f-4cf5-a01a-7584e6ecf380;ID=80d7b08f-bdc7-4efe-8204-72f72c42cab6;Name=80d7b08f-bdc7-4efe-8204-72f72c42cab6
-DC3.0sc00	.	mRNA	13590885	13593354	.	-	.	owner=gracerl@mail.irsc.edu;Parent=ccb859df-98b5-4040-bec4-1c78018fbbd3;ID=06d45a61-5dbd-48f6-9a28-616dd5cfc438;date_last_modified=2019-12-22;Name=Dcitr00g06420.1.1-00002;date_creation=2019-12-22
+DC3.0sc00	.	mRNA	13590885	13593354	.	-	.	owner=gracerl@mail.irsc.edu;Parent=ccb859df-98b5-4040-bec4-1c78018fbbd3;ID=06d45a61-5dbd-48f6-9a28-616dd5cfc438;date_last_modified=2019-12-22;Name=Dcitr00g06420.1.1-0;date_creation=2019-12-22
 DC3.0sc00	.	exon	13593135	13593162	.	-	.	Parent=06d45a61-5dbd-48f6-9a28-616dd5cfc438;ID=23fb4bd0-4317-402c-80a7-f99d5b90021d;Name=23fb4bd0-4317-402c-80a7-f99d5b90021d
 DC3.0sc00	.	exon	13592256	13592519	.	-	.	Parent=06d45a61-5dbd-48f6-9a28-616dd5cfc438;ID=30673eb9-5aba-4e14-9d69-405ec4f73f02;Name=30673eb9-5aba-4e14-9d69-405ec4f73f02
 DC3.0sc00	.	exon	13593210	13593268	.	-	.	Parent=06d45a61-5dbd-48f6-9a28-616dd5cfc438;ID=0c60f3cb-6391-4096-8706-12f5553e5fd1;Name=0c60f3cb-6391-4096-8706-12f5553e5fd1
@@ -3707,19 +3707,19 @@ DC3.0sc00	.	exon	13593322	13593354	.	-	.	Parent=06d45a61-5dbd-48f6-9a28-616dd5cf
 DC3.0sc00	.	exon	13592789	13593088	.	-	.	Parent=06d45a61-5dbd-48f6-9a28-616dd5cfc438;ID=63d63124-5d50-419b-a67c-253532bc1d3f;Name=63d63124-5d50-419b-a67c-253532bc1d3f
 DC3.0sc00	.	exon	13591748	13592209	.	-	.	Parent=06d45a61-5dbd-48f6-9a28-616dd5cfc438;ID=02c33770-a233-4b19-93c9-348f9389c2e9;Name=02c33770-a233-4b19-93c9-348f9389c2e9
 DC3.0sc00	.	exon	13590885	13591699	.	-	.	Parent=06d45a61-5dbd-48f6-9a28-616dd5cfc438;ID=e4930f28-0a2a-497e-abe2-c703cc5ed545;Name=e4930f28-0a2a-497e-abe2-c703cc5ed545
-DC3.0sc00	.	mRNA	13592121	13592517	.	-	.	owner=gracerl@mail.irsc.edu;Parent=ccb859df-98b5-4040-bec4-1c78018fbbd3;ID=b572c452-e9f7-4a0f-9d1e-74bf356295d5;date_last_modified=2019-12-22;Name=Dcitr00g06420.1.1-00003;date_creation=2019-12-22
+DC3.0sc00	.	mRNA	13592121	13592517	.	-	.	owner=gracerl@mail.irsc.edu;Parent=ccb859df-98b5-4040-bec4-1c78018fbbd3;ID=b572c452-e9f7-4a0f-9d1e-74bf356295d5;date_last_modified=2019-12-22;Name=Dcitr00g06420.1.1;date_creation=2019-12-22
 DC3.0sc00	.	exon	13592121	13592209	.	-	.	Parent=b572c452-e9f7-4a0f-9d1e-74bf356295d5;ID=acc96c74-2bf0-4549-afb7-97a92b7e6eb1;Name=acc96c74-2bf0-4549-afb7-97a92b7e6eb1
 DC3.0sc00	.	exon	13592256	13592517	.	-	.	Parent=b572c452-e9f7-4a0f-9d1e-74bf356295d5;ID=655d17d0-a2e5-466a-9aca-bb470ac577c8;Name=655d17d0-a2e5-466a-9aca-bb470ac577c8
 DC3.0sc00	.	CDS	13592256	13592517	.	-	0	Parent=b572c452-e9f7-4a0f-9d1e-74bf356295d5;ID=392bbfc3-c992-41f0-a077-60679d874536;Name=392bbfc3-c992-41f0-a077-60679d874536
 DC3.0sc00	.	CDS	13592121	13592209	.	-	2	Parent=b572c452-e9f7-4a0f-9d1e-74bf356295d5;ID=392bbfc3-c992-41f0-a077-60679d874536;Name=392bbfc3-c992-41f0-a077-60679d874536
 ###
 DC3.0sc00	.	gene	16451379	16452202	.	-	.	owner=gracerl@mail.irsc.edu;ID=c997b612-0ef9-479f-9c99-fda749a91615;date_last_modified=2019-12-22;Name=DcDTr00643.55;date_creation=2019-12-22
-DC3.0sc00	.	mRNA	16451379	16452202	.	-	.	owner=gracerl@mail.irsc.edu;Parent=c997b612-0ef9-479f-9c99-fda749a91615;ID=003b77ec-e9cf-43ba-ab3e-9c9370e7fed9;date_last_modified=2019-12-22;Name=DcDTr00643.55-00001;date_creation=2019-12-22
+DC3.0sc00	.	mRNA	16451379	16452202	.	-	.	owner=gracerl@mail.irsc.edu;Parent=c997b612-0ef9-479f-9c99-fda749a91615;ID=003b77ec-e9cf-43ba-ab3e-9c9370e7fed9;date_last_modified=2019-12-22;Name=DcDTr00643.55;date_creation=2019-12-22
 DC3.0sc00	.	CDS	16451380	16451826	.	-	0	Parent=003b77ec-e9cf-43ba-ab3e-9c9370e7fed9;ID=003b77ec-e9cf-43ba-ab3e-9c9370e7fed9-CDS;Name=003b77ec-e9cf-43ba-ab3e-9c9370e7fed9-CDS
 DC3.0sc00	.	exon	16451379	16452202	.	-	.	Parent=003b77ec-e9cf-43ba-ab3e-9c9370e7fed9;ID=d46d0d51-eda5-4b39-8a9f-e038662a4813;Name=d46d0d51-eda5-4b39-8a9f-e038662a4813
 ###
 DC3.0sc00	.	gene	23525845	23528995	.	+	.	owner=gracerl@mail.irsc.edu;ID=9ad24f99-1366-4f9a-af77-423da6dfe22e;date_last_modified=2019-12-22;Name=Dcitr00g10880.1.1;date_creation=2019-12-22
-DC3.0sc00	.	mRNA	23525845	23528995	.	+	.	owner=gracerl@mail.irsc.edu;Parent=9ad24f99-1366-4f9a-af77-423da6dfe22e;ID=0778e826-b4fb-4e88-9cbf-4fcbe40edeaa;date_last_modified=2019-12-22;Name=Dcitr00g10880.1.1-00001;date_creation=2019-12-22
+DC3.0sc00	.	mRNA	23525845	23528995	.	+	.	owner=gracerl@mail.irsc.edu;Parent=9ad24f99-1366-4f9a-af77-423da6dfe22e;ID=0778e826-b4fb-4e88-9cbf-4fcbe40edeaa;date_last_modified=2019-12-22;Name=Dcitr00g10880.1.1;date_creation=2019-12-22
 DC3.0sc00	.	exon	23527414	23527544	.	+	.	Parent=0778e826-b4fb-4e88-9cbf-4fcbe40edeaa;ID=089434cc-7e74-4925-b7cd-cff3cd3ec1c0;Name=089434cc-7e74-4925-b7cd-cff3cd3ec1c0
 DC3.0sc00	.	exon	23527699	23528995	.	+	.	Parent=0778e826-b4fb-4e88-9cbf-4fcbe40edeaa;ID=7bc6d9db-516c-48a3-9c4e-1cc5a4100701;Name=7bc6d9db-516c-48a3-9c4e-1cc5a4100701
 DC3.0sc00	.	CDS	23526288	23526893	.	+	0	Parent=0778e826-b4fb-4e88-9cbf-4fcbe40edeaa;ID=3629428b-f88a-46eb-a5e6-8a1ef63bc2d6;Name=3629428b-f88a-46eb-a5e6-8a1ef63bc2d6
@@ -3731,7 +3731,7 @@ DC3.0sc00	.	exon	23526226	23526893	.	+	.	Parent=0778e826-b4fb-4e88-9cbf-4fcbe40e
 DC3.0sc00	.	exon	23527129	23527279	.	+	.	Parent=0778e826-b4fb-4e88-9cbf-4fcbe40edeaa;ID=ef9b22b7-8b91-419c-9ec4-0e611afa8e8c;Name=ef9b22b7-8b91-419c-9ec4-0e611afa8e8c
 ###
 DC3.0sc00	.	gene	11215696	11217899	.	+	.	owner=gracerl@mail.irsc.edu;ID=cc128d57-6a07-4bc2-b487-0ebbc7d2149f;date_last_modified=2019-12-22;Name=Dcitr00g05140.1.1;date_creation=2019-12-22
-DC3.0sc00	.	mRNA	11215696	11217899	.	+	.	owner=gracerl@mail.irsc.edu;Parent=cc128d57-6a07-4bc2-b487-0ebbc7d2149f;ID=b980711f-c025-4354-93a8-88e4ceb40bcb;date_last_modified=2019-12-22;Name=Dcitr00g05140.1.1-00001;date_creation=2019-12-22
+DC3.0sc00	.	mRNA	11215696	11217899	.	+	.	owner=gracerl@mail.irsc.edu;Parent=cc128d57-6a07-4bc2-b487-0ebbc7d2149f;ID=b980711f-c025-4354-93a8-88e4ceb40bcb;date_last_modified=2019-12-22;Name=Dcitr00g05140.1.1;date_creation=2019-12-22
 DC3.0sc00	.	exon	11216040	11216189	.	+	.	Parent=b980711f-c025-4354-93a8-88e4ceb40bcb;ID=2025fa30-a7f3-47d0-82a9-0049aced3b40;Name=2025fa30-a7f3-47d0-82a9-0049aced3b40
 DC3.0sc00	.	CDS	11215696	11215818	.	+	0	Parent=b980711f-c025-4354-93a8-88e4ceb40bcb;ID=a0499573-d6be-4a83-9625-8963dc4653a3;Name=a0499573-d6be-4a83-9625-8963dc4653a3
 DC3.0sc00	.	CDS	11216040	11216189	.	+	0	Parent=b980711f-c025-4354-93a8-88e4ceb40bcb;ID=a0499573-d6be-4a83-9625-8963dc4653a3;Name=a0499573-d6be-4a83-9625-8963dc4653a3
@@ -3742,7 +3742,7 @@ DC3.0sc00	.	exon	11216604	11217899	.	+	.	Parent=b980711f-c025-4354-93a8-88e4ceb4
 DC3.0sc00	.	exon	11216396	11216449	.	+	.	Parent=b980711f-c025-4354-93a8-88e4ceb40bcb;ID=7f68f30d-26a9-4530-a085-67e181177b5b;Name=7f68f30d-26a9-4530-a085-67e181177b5b
 ###
 DC3.0sc00	.	gene	13340816	13342882	.	+	.	owner=gracerl@mail.irsc.edu;Note=This is partial model with only the beginning of V-ATPase-H subunit sequence. Only other partial model is located at;ID=16ca2479-20e8-4953-873b-132379f16dbc;date_last_modified=2020-01-02;Name=Dcitr00g06320.1.1;date_creation=2019-12-23
-DC3.0sc00	.	mRNA	13340816	13342882	.	+	.	owner=gracerl@mail.irsc.edu;Parent=16ca2479-20e8-4953-873b-132379f16dbc;ID=3aa5cdea-9bf1-4aed-96c2-3f25f0694c14;date_last_modified=2019-12-23;Name=Dcitr00g06320.1.1-00001;date_creation=2019-12-23
+DC3.0sc00	.	mRNA	13340816	13342882	.	+	.	owner=gracerl@mail.irsc.edu;Parent=16ca2479-20e8-4953-873b-132379f16dbc;ID=3aa5cdea-9bf1-4aed-96c2-3f25f0694c14;date_last_modified=2019-12-23;Name=Dcitr00g06320.1.1;date_creation=2019-12-23
 DC3.0sc00	.	exon	13340816	13341085	.	+	.	Parent=3aa5cdea-9bf1-4aed-96c2-3f25f0694c14;ID=f298b867-8359-4dce-ad3e-853b6c6fa125;Name=f298b867-8359-4dce-ad3e-853b6c6fa125
 DC3.0sc00	.	exon	13341881	13341962	.	+	.	Parent=3aa5cdea-9bf1-4aed-96c2-3f25f0694c14;ID=8a4b5a25-4033-4b82-9daa-e9737ccd7800;Name=8a4b5a25-4033-4b82-9daa-e9737ccd7800
 DC3.0sc00	.	exon	13342655	13342882	.	+	.	Parent=3aa5cdea-9bf1-4aed-96c2-3f25f0694c14;ID=34cf0218-6d5a-48b6-9bf4-bdfb5da01829;Name=34cf0218-6d5a-48b6-9bf4-bdfb5da01829
@@ -3751,7 +3751,7 @@ DC3.0sc00	.	CDS	13341881	13341962	.	+	2	Parent=3aa5cdea-9bf1-4aed-96c2-3f25f0694
 DC3.0sc00	.	CDS	13342655	13342850	.	+	1	Parent=3aa5cdea-9bf1-4aed-96c2-3f25f0694c14;ID=d1aa7133-9c81-4c9e-b81a-9418771c3641;Name=d1aa7133-9c81-4c9e-b81a-9418771c3641
 ###
 DC3.0sc00	.	gene	13326310	13333523	.	+	.	owner=gracerl@mail.irsc.edu;ID=0473fc7d-a302-41f4-a63f-cefd270a80b2;date_last_modified=2019-12-23;Name=MCOT03900.3.CO;date_creation=2019-12-23
-DC3.0sc00	.	mRNA	13326310	13333523	.	+	.	owner=gracerl@mail.irsc.edu;Parent=0473fc7d-a302-41f4-a63f-cefd270a80b2;ID=9ba0078f-2b3e-4307-bd32-6fbfcf59466c;date_last_modified=2019-12-23;Name=MCOT03900.3.CO-00001;date_creation=2019-12-23
+DC3.0sc00	.	mRNA	13326310	13333523	.	+	.	owner=gracerl@mail.irsc.edu;Parent=0473fc7d-a302-41f4-a63f-cefd270a80b2;ID=9ba0078f-2b3e-4307-bd32-6fbfcf59466c;date_last_modified=2019-12-23;Name=MCOT03900.3.CO;date_creation=2019-12-23
 DC3.0sc00	.	exon	13326310	13326335	.	+	.	Parent=9ba0078f-2b3e-4307-bd32-6fbfcf59466c;ID=f9d58251-66c1-41ac-b738-fc18046632d4;Name=f9d58251-66c1-41ac-b738-fc18046632d4
 DC3.0sc00	.	exon	13327587	13327754	.	+	.	Parent=9ba0078f-2b3e-4307-bd32-6fbfcf59466c;ID=ecec70b7-d1b1-4f79-8eda-112819f6bdc8;Name=ecec70b7-d1b1-4f79-8eda-112819f6bdc8
 DC3.0sc00	.	CDS	13326312	13326335	.	+	0	Parent=9ba0078f-2b3e-4307-bd32-6fbfcf59466c;ID=0cdb04a2-2906-4df4-b7f3-3a9cc50a3213;Name=0cdb04a2-2906-4df4-b7f3-3a9cc50a3213
@@ -3768,7 +3768,7 @@ DC3.0sc00	.	exon	13331173	13331350	.	+	.	Parent=9ba0078f-2b3e-4307-bd32-6fbfcf59
 DC3.0sc00	.	exon	13330544	13330719	.	+	.	Parent=9ba0078f-2b3e-4307-bd32-6fbfcf59466c;ID=38b02835-a795-4d2b-8981-ad3cf00d8a33;Name=38b02835-a795-4d2b-8981-ad3cf00d8a33
 ###
 DC3.0sc00	.	gene	13633628	13642891	.	-	.	owner=adkinssc@mail.irsc.edu;ID=d9a6c4c1-7007-4eda-a768-fd93391e3ebb;date_last_modified=2020-01-14;Name=Dcitr00g06450.1.2;date_creation=2020-01-14
-DC3.0sc00	.	mRNA	13633628	13642891	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=d9a6c4c1-7007-4eda-a768-fd93391e3ebb;ID=95c6ef16-af55-4cba-adfd-bd03a8ca3e3c;date_last_modified=2020-01-14;Name=Dcitr00g06450.1.2-00001;date_creation=2020-01-14
+DC3.0sc00	.	mRNA	13633628	13642891	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=d9a6c4c1-7007-4eda-a768-fd93391e3ebb;ID=95c6ef16-af55-4cba-adfd-bd03a8ca3e3c;date_last_modified=2020-01-14;Name=Dcitr00g06450.1.2;date_creation=2020-01-14
 DC3.0sc00	.	exon	13634814	13634931	.	-	.	Parent=95c6ef16-af55-4cba-adfd-bd03a8ca3e3c;ID=d06c8812-6dba-4ad6-8bb3-978b4aba5dfd;Name=d06c8812-6dba-4ad6-8bb3-978b4aba5dfd
 DC3.0sc00	.	CDS	13642538	13642569	.	-	0	Parent=95c6ef16-af55-4cba-adfd-bd03a8ca3e3c;ID=32e6ecf7-2dc1-4076-8eb1-7dd741449e24;Name=32e6ecf7-2dc1-4076-8eb1-7dd741449e24
 DC3.0sc00	.	CDS	13641474	13641612	.	-	1	Parent=95c6ef16-af55-4cba-adfd-bd03a8ca3e3c;ID=32e6ecf7-2dc1-4076-8eb1-7dd741449e24;Name=32e6ecf7-2dc1-4076-8eb1-7dd741449e24
@@ -3783,7 +3783,7 @@ DC3.0sc00	.	exon	13642538	13642891	.	-	.	Parent=95c6ef16-af55-4cba-adfd-bd03a8ca
 DC3.0sc00	.	exon	13638523	13638675	.	-	.	Parent=95c6ef16-af55-4cba-adfd-bd03a8ca3e3c;ID=c72ff70f-f988-4f01-9628-9c6c09854470;Name=c72ff70f-f988-4f01-9628-9c6c09854470
 ###
 DC3.0sc00	.	gene	26545035	26546030	.	-	.	owner=adkinssc@mail.irsc.edu;ID=ebde7151-22f1-4c4b-a7dd-fb3cdd366d28;date_last_modified=2020-01-24;Name=ribokinase-like2;date_creation=2020-01-24
-DC3.0sc00	.	mRNA	26545035	26546030	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=ebde7151-22f1-4c4b-a7dd-fb3cdd366d28;ID=f6cd3fab-9e9b-465d-b0e9-21daa8226892;date_last_modified=2020-01-24;Name=augustus-DC3.0sc00-abinit-gene-265.48-mRNA-1-00001;date_creation=2020-01-24
+DC3.0sc00	.	mRNA	26545035	26546030	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=ebde7151-22f1-4c4b-a7dd-fb3cdd366d28;ID=f6cd3fab-9e9b-465d-b0e9-21daa8226892;date_last_modified=2020-01-24;Name=augustus-DC3.0sc00-abinit-gene-265.48-mRNA-1;date_creation=2020-01-24
 DC3.0sc00	.	exon	26545035	26546030	.	-	.	Parent=f6cd3fab-9e9b-465d-b0e9-21daa8226892;ID=70d516f1-1a63-4ba4-911b-0bcbad7b6d0a;Name=70d516f1-1a63-4ba4-911b-0bcbad7b6d0a
 DC3.0sc00	.	CDS	26545035	26546030	.	-	0	Parent=f6cd3fab-9e9b-465d-b0e9-21daa8226892;ID=f6cd3fab-9e9b-465d-b0e9-21daa8226892-CDS;Name=f6cd3fab-9e9b-465d-b0e9-21daa8226892-CDS
 ###
@@ -3828,7 +3828,7 @@ DC3.0sc00	.	CDS	1812078	1812113	.	-	0	Parent=fb64ab3e-e7b9-4f88-a1e5-f19439b5370
 DC3.0sc00	.	CDS	1811771	1811878	.	-	0	Parent=fb64ab3e-e7b9-4f88-a1e5-f19439b53707;ID=f8665f2a-6dee-49f3-a70a-b095cab0b55e;Name=f8665f2a-6dee-49f3-a70a-b095cab0b55e
 DC3.0sc00	.	exon	1811415	1811518	.	-	.	Parent=fb64ab3e-e7b9-4f88-a1e5-f19439b53707;ID=9df8c1be-30dc-4aa1-b4c5-6858560d5f61;Name=9df8c1be-30dc-4aa1-b4c5-6858560d5f61
 ###
-DC3.0sc00	.	gene	582507	585761	.	+	.	owner=sammy.sedky@usda.gov;is_fmin_partial=true;ID=f88d2e9a-6407-46fb-8ee2-27f37f6b94b6;date_last_modified=2021-10-07;Name=Dcitr00g01150.1.1-00001;date_creation=2021-10-07
+DC3.0sc00	.	gene	582507	585761	.	+	.	owner=sammy.sedky@usda.gov;is_fmin_partial=true;ID=f88d2e9a-6407-46fb-8ee2-27f37f6b94b6;date_last_modified=2021-10-07;Name=Dcitr00g01150.1.1;date_creation=2021-10-07
 DC3.0sc00	.	mRNA	582507	585761	.	+	.	owner=sammy.sedky@usda.gov;Parent=f88d2e9a-6407-46fb-8ee2-27f37f6b94b6;is_fmin_partial=true;ID=1eb09836-dc19-41f0-a181-cc9a70795e9a;orig_id=Dcitr00g01150.1.1;date_last_modified=2021-10-07;Name=Cytochrome P450;date_creation=2021-10-07
 DC3.0sc00	.	exon	585449	585481	.	+	.	Parent=1eb09836-dc19-41f0-a181-cc9a70795e9a;ID=ae49fc40-0c2b-49af-ba0a-a39affaf6012;Name=ae49fc40-0c2b-49af-ba0a-a39affaf6012
 DC3.0sc00	.	CDS	583594	583781	.	+	0	Parent=1eb09836-dc19-41f0-a181-cc9a70795e9a;ID=9f82f1e2-2abb-4c88-a26c-e22a46316b42;Name=9f82f1e2-2abb-4c88-a26c-e22a46316b42
@@ -3961,7 +3961,7 @@ DC3.0sc03	.	exon	42398382	42398596	.	-	.	Parent=3d3158c7-c9f9-4e76-8474-fece2296
 DC3.0sc03	.	exon	42393998	42394784	.	-	.	Parent=3d3158c7-c9f9-4e76-8474-fece2296d1df;ID=2ea5211b-7a9e-438a-a2ba-8efa40b99b0a;Name=2ea5211b-7a9e-438a-a2ba-8efa40b99b0a
 ###
 DC3.0sc03	.	gene	43330865	43343460	.	+	.	owner=perentem@mail.uc.edu;ID=f2c62ab3-dc2d-4c6b-97c5-3f63082215ed;date_last_modified=2019-11-13;Name=Dcitr03g19650.1.1;date_creation=2019-11-13
-DC3.0sc03	.	mRNA	43330865	43343460	.	+	.	owner=perentem@mail.uc.edu;Parent=f2c62ab3-dc2d-4c6b-97c5-3f63082215ed;ID=5847197d-1471-4d44-a415-a6dd00eaf8a4;orig_id=Dcitr03g19650.1.1;date_last_modified=2019-11-13;Name=Dcitr03g19650.1.1-00001;date_creation=2019-11-13
+DC3.0sc03	.	mRNA	43330865	43343460	.	+	.	owner=perentem@mail.uc.edu;Parent=f2c62ab3-dc2d-4c6b-97c5-3f63082215ed;ID=5847197d-1471-4d44-a415-a6dd00eaf8a4;orig_id=Dcitr03g19650.1.1;date_last_modified=2019-11-13;Name=Dcitr03g19650.1.1;date_creation=2019-11-13
 DC3.0sc03	.	exon	43342204	43343460	.	+	.	Parent=5847197d-1471-4d44-a415-a6dd00eaf8a4;ID=2b1f7b5a-9fb6-488c-bc82-80c41cb09da7;Name=2b1f7b5a-9fb6-488c-bc82-80c41cb09da7
 DC3.0sc03	.	CDS	43331484	43331608	.	+	0	Parent=5847197d-1471-4d44-a415-a6dd00eaf8a4;ID=0c0fdfd2-1874-4326-9687-76135415ebb7;Name=0c0fdfd2-1874-4326-9687-76135415ebb7
 DC3.0sc03	.	CDS	43332072	43332219	.	+	1	Parent=5847197d-1471-4d44-a415-a6dd00eaf8a4;ID=0c0fdfd2-1874-4326-9687-76135415ebb7;Name=0c0fdfd2-1874-4326-9687-76135415ebb7
@@ -3989,7 +3989,7 @@ DC3.0sc03	.	exon	43340682	43340953	.	+	.	Parent=5847197d-1471-4d44-a415-a6dd00ea
 DC3.0sc03	.	exon	43333863	43334095	.	+	.	Parent=5847197d-1471-4d44-a415-a6dd00eaf8a4;ID=0f12fd42-9774-4a84-b820-3c437d2d8ff8;Name=0f12fd42-9774-4a84-b820-3c437d2d8ff8
 ###
 DC3.0sc03	.	gene	45448919	45455947	.	+	.	owner=perentem@mail.uc.edu;ID=054c4f2f-f8f8-4d11-a928-0ce9c5a71f6f;date_last_modified=2019-11-13;Name=Dcitr03g20590.1.1;date_creation=2019-11-13
-DC3.0sc03	.	mRNA	45448919	45455947	.	+	.	owner=perentem@mail.uc.edu;Parent=054c4f2f-f8f8-4d11-a928-0ce9c5a71f6f;ID=df072c66-70b6-4c05-a319-7944c822b827;orig_id=Dcitr03g20590.1.1;date_last_modified=2019-11-13;Name=Dcitr03g20590.1.1-00001;date_creation=2019-11-13
+DC3.0sc03	.	mRNA	45448919	45455947	.	+	.	owner=perentem@mail.uc.edu;Parent=054c4f2f-f8f8-4d11-a928-0ce9c5a71f6f;ID=df072c66-70b6-4c05-a319-7944c822b827;orig_id=Dcitr03g20590.1.1;date_last_modified=2019-11-13;Name=Dcitr03g20590.1.1;date_creation=2019-11-13
 DC3.0sc03	.	exon	45450642	45450849	.	+	.	Parent=df072c66-70b6-4c05-a319-7944c822b827;ID=076de990-6018-451c-99a2-8a911933c0fc;Name=076de990-6018-451c-99a2-8a911933c0fc
 DC3.0sc03	.	exon	45454659	45455947	.	+	.	Parent=df072c66-70b6-4c05-a319-7944c822b827;ID=de416d1e-bf98-4ad6-b3da-dedd5ebe75c6;Name=de416d1e-bf98-4ad6-b3da-dedd5ebe75c6
 DC3.0sc03	.	exon	45451227	45451377	.	+	.	Parent=df072c66-70b6-4c05-a319-7944c822b827;ID=1065d0ad-0da0-442c-9ed2-9e72177f2c64;Name=1065d0ad-0da0-442c-9ed2-9e72177f2c64
@@ -4010,7 +4010,7 @@ DC3.0sc03	.	exon	45452299	45452549	.	+	.	Parent=df072c66-70b6-4c05-a319-7944c822
 DC3.0sc03	.	exon	45448919	45449253	.	+	.	Parent=df072c66-70b6-4c05-a319-7944c822b827;ID=238dcef1-8804-4ea0-8fc3-8f8eab0f3438;Name=238dcef1-8804-4ea0-8fc3-8f8eab0f3438
 ###
 DC3.0sc03	.	gene	45415279	45425264	.	-	.	owner=perentem@mail.uc.edu;ID=602518cc-98d0-4141-a283-29425b2d5e36;date_last_modified=2019-11-13;Name=Dcitr03g20570.1.1;date_creation=2019-11-13
-DC3.0sc03	.	mRNA	45415279	45425264	.	-	.	owner=perentem@mail.uc.edu;Parent=602518cc-98d0-4141-a283-29425b2d5e36;ID=3971f1b8-d397-4841-88d8-c6acd2365fa4;orig_id=Dcitr03g20570.1.1;date_last_modified=2019-11-13;Name=Dcitr03g20570.1.1-00001;date_creation=2019-11-13
+DC3.0sc03	.	mRNA	45415279	45425264	.	-	.	owner=perentem@mail.uc.edu;Parent=602518cc-98d0-4141-a283-29425b2d5e36;ID=3971f1b8-d397-4841-88d8-c6acd2365fa4;orig_id=Dcitr03g20570.1.1;date_last_modified=2019-11-13;Name=Dcitr03g20570.1.1;date_creation=2019-11-13
 DC3.0sc03	.	exon	45422555	45422705	.	-	.	Parent=3971f1b8-d397-4841-88d8-c6acd2365fa4;ID=f11fd55d-848a-43a3-8833-8a27305ef34d;Name=f11fd55d-848a-43a3-8833-8a27305ef34d
 DC3.0sc03	.	exon	45415279	45415443	.	-	.	Parent=3971f1b8-d397-4841-88d8-c6acd2365fa4;ID=4581716b-b938-47b4-a1f1-de83cd4d5200;Name=4581716b-b938-47b4-a1f1-de83cd4d5200
 DC3.0sc03	.	exon	45423103	45423310	.	-	.	Parent=3971f1b8-d397-4841-88d8-c6acd2365fa4;ID=92a87952-9893-4908-9317-95414c4b99b3;Name=92a87952-9893-4908-9317-95414c4b99b3
@@ -4031,14 +4031,14 @@ DC3.0sc03	.	exon	45422004	45422147	.	-	.	Parent=3971f1b8-d397-4841-88d8-c6acd236
 DC3.0sc03	.	exon	45420227	45420350	.	-	.	Parent=3971f1b8-d397-4841-88d8-c6acd2365fa4;ID=8bb9e78f-e3dd-4ccd-ad50-1c9ad76cd82c;Name=8bb9e78f-e3dd-4ccd-ad50-1c9ad76cd82c
 ###
 DC3.0sc03	.	gene	46364666	46365756	.	-	.	owner=perentem@mail.uc.edu;ID=b9ba87a8-e0cd-4ace-9134-438e57aa9e8f;date_last_modified=2019-11-13;Name=Dcitr03g21110.1.1;date_creation=2019-11-13
-DC3.0sc03	.	mRNA	46364666	46365756	.	-	.	owner=perentem@mail.uc.edu;Parent=b9ba87a8-e0cd-4ace-9134-438e57aa9e8f;ID=6e5ffb73-7218-4b41-9a9c-a242d2a0bef3;orig_id=Dcitr03g21110.1.1;date_last_modified=2019-11-13;Name=Dcitr03g21110.1.1-00001;date_creation=2019-11-13
+DC3.0sc03	.	mRNA	46364666	46365756	.	-	.	owner=perentem@mail.uc.edu;Parent=b9ba87a8-e0cd-4ace-9134-438e57aa9e8f;ID=6e5ffb73-7218-4b41-9a9c-a242d2a0bef3;orig_id=Dcitr03g21110.1.1;date_last_modified=2019-11-13;Name=Dcitr03g21110.1.1;date_creation=2019-11-13
 DC3.0sc03	.	exon	46365657	46365756	.	-	.	Parent=6e5ffb73-7218-4b41-9a9c-a242d2a0bef3;ID=3cf86940-8793-4030-97f3-c48fd11bef38;Name=3cf86940-8793-4030-97f3-c48fd11bef38
 DC3.0sc03	.	CDS	46365657	46365668	.	-	0	Parent=6e5ffb73-7218-4b41-9a9c-a242d2a0bef3;ID=811312af-2d5a-4a96-9e01-dc3e5e0efe04;Name=811312af-2d5a-4a96-9e01-dc3e5e0efe04
 DC3.0sc03	.	CDS	46364666	46365193	.	-	0	Parent=6e5ffb73-7218-4b41-9a9c-a242d2a0bef3;ID=811312af-2d5a-4a96-9e01-dc3e5e0efe04;Name=811312af-2d5a-4a96-9e01-dc3e5e0efe04
 DC3.0sc03	.	exon	46364666	46365193	.	-	.	Parent=6e5ffb73-7218-4b41-9a9c-a242d2a0bef3;ID=d91ba1b8-c115-4433-b7e7-dc8ae77bbfdd;Name=d91ba1b8-c115-4433-b7e7-dc8ae77bbfdd
 ###
 DC3.0sc03	.	gene	46390939	46395799	.	+	.	owner=perentem@mail.uc.edu;ID=94130b2d-256f-49dd-80ec-cf227f33da4c;date_last_modified=2019-11-13;Name=Dcitr03g21150.1.1;date_creation=2019-11-13
-DC3.0sc03	.	mRNA	46390939	46395799	.	+	.	owner=perentem@mail.uc.edu;Parent=94130b2d-256f-49dd-80ec-cf227f33da4c;ID=8f1d4013-f27e-447e-9d59-4e48235791a8;orig_id=Dcitr03g21150.1.1;date_last_modified=2019-11-13;Name=Dcitr03g21150.1.1-00001;date_creation=2019-11-13
+DC3.0sc03	.	mRNA	46390939	46395799	.	+	.	owner=perentem@mail.uc.edu;Parent=94130b2d-256f-49dd-80ec-cf227f33da4c;ID=8f1d4013-f27e-447e-9d59-4e48235791a8;orig_id=Dcitr03g21150.1.1;date_last_modified=2019-11-13;Name=Dcitr03g21150.1.1;date_creation=2019-11-13
 DC3.0sc03	.	CDS	46390983	46390994	.	+	0	Parent=8f1d4013-f27e-447e-9d59-4e48235791a8;ID=41059e67-7113-42f2-9164-58ddb37d59b4;Name=41059e67-7113-42f2-9164-58ddb37d59b4
 DC3.0sc03	.	CDS	46391373	46391809	.	+	0	Parent=8f1d4013-f27e-447e-9d59-4e48235791a8;ID=41059e67-7113-42f2-9164-58ddb37d59b4;Name=41059e67-7113-42f2-9164-58ddb37d59b4
 DC3.0sc03	.	CDS	46394554	46394719	.	+	1	Parent=8f1d4013-f27e-447e-9d59-4e48235791a8;ID=41059e67-7113-42f2-9164-58ddb37d59b4;Name=41059e67-7113-42f2-9164-58ddb37d59b4
@@ -4053,7 +4053,7 @@ DC3.0sc03	.	exon	46395703	46395799	.	+	.	Parent=8f1d4013-f27e-447e-9d59-4e482357
 DC3.0sc03	.	exon	46395307	46395408	.	+	.	Parent=8f1d4013-f27e-447e-9d59-4e48235791a8;ID=f8d30e45-61b8-48ae-9029-298c0fff936d;Name=f8d30e45-61b8-48ae-9029-298c0fff936d
 ###
 DC3.0sc03	.	gene	31882713	31930536	.	-	.	owner=perentem@mail.uc.edu;ID=dd11fd21-13bd-44a9-bdb5-0dafe865336c;date_last_modified=2019-11-15;Name=Dcitr03g14280.1.1;date_creation=2019-11-15
-DC3.0sc03	.	mRNA	31882713	31930536	.	-	.	owner=perentem@mail.uc.edu;Parent=dd11fd21-13bd-44a9-bdb5-0dafe865336c;ID=2f7a65f2-21f1-42ec-b7b1-2ee9ce052c88;orig_id=Dcitr03g14280.1.1;date_last_modified=2019-11-15;Name=Dcitr03g14280.1.1-00001;date_creation=2019-11-15
+DC3.0sc03	.	mRNA	31882713	31930536	.	-	.	owner=perentem@mail.uc.edu;Parent=dd11fd21-13bd-44a9-bdb5-0dafe865336c;ID=2f7a65f2-21f1-42ec-b7b1-2ee9ce052c88;orig_id=Dcitr03g14280.1.1;date_last_modified=2019-11-15;Name=Dcitr03g14280.1.1;date_creation=2019-11-15
 DC3.0sc03	.	exon	31910023	31910073	.	-	.	Parent=2f7a65f2-21f1-42ec-b7b1-2ee9ce052c88;ID=80e93834-ceed-4ba5-8606-423f1816ddaa;Name=80e93834-ceed-4ba5-8606-423f1816ddaa
 DC3.0sc03	.	exon	31914357	31914473	.	-	.	Parent=2f7a65f2-21f1-42ec-b7b1-2ee9ce052c88;ID=39f4b23d-0c53-495c-8f44-85c07090086b;Name=39f4b23d-0c53-495c-8f44-85c07090086b
 DC3.0sc03	.	exon	31916163	31916302	.	-	.	Parent=2f7a65f2-21f1-42ec-b7b1-2ee9ce052c88;ID=3f35dbf2-bd63-45c8-9b46-3e9a56e88b20;Name=3f35dbf2-bd63-45c8-9b46-3e9a56e88b20
@@ -4144,7 +4144,7 @@ DC3.0sc03	.	exon	29830442	29830541	.	+	.	Parent=204d5053-0c79-411b-a299-bf3ae948
 DC3.0sc03	.	exon	29828423	29828562	.	+	.	Parent=204d5053-0c79-411b-a299-bf3ae948743a;ID=c5043509-0acf-4872-8eb0-8da0c80e4245;Name=c5043509-0acf-4872-8eb0-8da0c80e4245
 ###
 DC3.0sc03	.	gene	43419003	43421653	.	-	.	owner=gracerl@mail.irsc.edu;ID=55c438f2-6369-43c3-ac09-535f4bf9cae2;date_last_modified=2019-12-22;Name=Dcitr03g19730.1.1;date_creation=2019-12-22
-DC3.0sc03	.	mRNA	43419003	43421653	.	-	.	owner=gracerl@mail.irsc.edu;Parent=55c438f2-6369-43c3-ac09-535f4bf9cae2;ID=b54b07e6-ed07-451f-b475-3202512f3554;date_last_modified=2019-12-22;Name=Dcitr03g19730.1.1-00001;date_creation=2019-12-22
+DC3.0sc03	.	mRNA	43419003	43421653	.	-	.	owner=gracerl@mail.irsc.edu;Parent=55c438f2-6369-43c3-ac09-535f4bf9cae2;ID=b54b07e6-ed07-451f-b475-3202512f3554;date_last_modified=2019-12-22;Name=Dcitr03g19730.1.1;date_creation=2019-12-22
 DC3.0sc03	.	exon	43420518	43420565	.	-	.	Parent=b54b07e6-ed07-451f-b475-3202512f3554;ID=b80bf352-72a7-4b2d-9be3-23a20ed2841a;Name=b80bf352-72a7-4b2d-9be3-23a20ed2841a
 DC3.0sc03	.	exon	43419968	43420055	.	-	.	Parent=b54b07e6-ed07-451f-b475-3202512f3554;ID=a446f31e-b2dd-4638-b01f-37948514a757;Name=a446f31e-b2dd-4638-b01f-37948514a757
 DC3.0sc03	.	exon	43419003	43419669	.	-	.	Parent=b54b07e6-ed07-451f-b475-3202512f3554;ID=079f3ff7-1a30-422d-bd92-99f6319793cc;Name=079f3ff7-1a30-422d-bd92-99f6319793cc
@@ -4270,7 +4270,7 @@ DC3.0sc01	.	CDS	33934497	33935899	.	-	0	Parent=97b0cbab-eb0a-41d7-bbcf-2fbada968
 DC3.0sc01	.	CDS	33887283	33887540	.	-	1	Parent=97b0cbab-eb0a-41d7-bbcf-2fbada96878e;ID=0936b12b-736b-4519-a4eb-3f9419a38fbe;Name=0936b12b-736b-4519-a4eb-3f9419a38fbe
 DC3.0sc01	.	CDS	33886305	33886560	.	-	1	Parent=97b0cbab-eb0a-41d7-bbcf-2fbada96878e;ID=0936b12b-736b-4519-a4eb-3f9419a38fbe;Name=0936b12b-736b-4519-a4eb-3f9419a38fbe
 DC3.0sc01	.	exon	33887283	33887540	.	-	.	Parent=97b0cbab-eb0a-41d7-bbcf-2fbada96878e;ID=172bec7b-c8b0-45bb-aef0-94ab4bc2cbc5;Name=172bec7b-c8b0-45bb-aef0-94ab4bc2cbc5
-DC3.0sc01	.	mRNA	33885577	33939644	.	-	.	owner=tdshippy@gmail.com;Parent=e55ad05e-a464-4d22-881e-a6a0d5b8d753;ID=4d8aa375-eed0-4b4f-9f4b-d3038ee595c3;orig_id=c254078/f2p1/2340.mrna1;date_last_modified=2019-11-04;Name=MCOT08597.0.MO-00005;date_creation=2019-11-04
+DC3.0sc01	.	mRNA	33885577	33939644	.	-	.	owner=tdshippy@gmail.com;Parent=e55ad05e-a464-4d22-881e-a6a0d5b8d753;ID=4d8aa375-eed0-4b4f-9f4b-d3038ee595c3;orig_id=c254078/f2p1/2340.mrna1;date_last_modified=2019-11-04;Name=MCOT08597.0.MO;date_creation=2019-11-04
 DC3.0sc01	.	exon	33939196	33939373	.	-	.	Parent=4d8aa375-eed0-4b4f-9f4b-d3038ee595c3;ID=a9a586a6-2fc0-406e-b565-779a5c16eab8;Name=a9a586a6-2fc0-406e-b565-779a5c16eab8
 DC3.0sc01	.	exon	33891342	33891613	.	-	.	Parent=4d8aa375-eed0-4b4f-9f4b-d3038ee595c3;ID=6e78fedc-4795-47fe-8f04-5689a05066b6;Name=6e78fedc-4795-47fe-8f04-5689a05066b6
 DC3.0sc01	.	CDS	33939578	33939644	.	-	0	Parent=4d8aa375-eed0-4b4f-9f4b-d3038ee595c3;ID=55250391-83fc-48aa-b4e3-373d8756199b;Name=55250391-83fc-48aa-b4e3-373d8756199b
@@ -4617,7 +4617,7 @@ DC3.0sc01	.	exon	21638309	21638438	.	-	.	Parent=2ea3dd7b-87e5-46ce-a2ff-fcf1f93c
 DC3.0sc01	.	exon	21635688	21635929	.	-	.	Parent=2ea3dd7b-87e5-46ce-a2ff-fcf1f93c0f4c;ID=fb471993-b62a-4d5d-a21f-a54f58e99b20;Name=fb471993-b62a-4d5d-a21f-a54f58e99b20
 ###
 DC3.0sc01	.	gene	347930	348952	.	-	.	owner=adkinssc@mail.irsc.edu;ID=962f3c94-aed2-498a-a781-970a39e5b5b1;date_last_modified=2020-01-24;Name=ribokinase-like1;date_creation=2020-01-24
-DC3.0sc01	.	mRNA	347930	348952	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=962f3c94-aed2-498a-a781-970a39e5b5b1;ID=94aa6310-b1d8-4009-89f5-3f1c83166a40;date_last_modified=2020-01-24;Name=Dcitr01g01110.1.1-00001;date_creation=2020-01-24
+DC3.0sc01	.	mRNA	347930	348952	.	-	.	owner=adkinssc@mail.irsc.edu;Parent=962f3c94-aed2-498a-a781-970a39e5b5b1;ID=94aa6310-b1d8-4009-89f5-3f1c83166a40;date_last_modified=2020-01-24;Name=Dcitr01g01110.1.1;date_creation=2020-01-24
 DC3.0sc01	.	exon	347930	348952	.	-	.	Parent=94aa6310-b1d8-4009-89f5-3f1c83166a40;ID=8f2b03e1-9e6c-4caa-9582-bcf78914c304;Name=8f2b03e1-9e6c-4caa-9582-bcf78914c304
 DC3.0sc01	.	CDS	347930	348952	.	-	0	Parent=94aa6310-b1d8-4009-89f5-3f1c83166a40;ID=94aa6310-b1d8-4009-89f5-3f1c83166a40-CDS;Name=94aa6310-b1d8-4009-89f5-3f1c83166a40-CDS
 ###
@@ -4708,7 +4708,7 @@ DC3.0sc13	.	exon	13406969	13407131	.	-	.	Parent=fadc7185-9712-4f19-9687-cf329870
 DC3.0sc13	.	exon	13406234	13406389	.	-	.	Parent=fadc7185-9712-4f19-9687-cf329870a8e8;ID=0a80f152-b95f-4575-a715-17bfee447f7f;Name=0a80f152-b95f-4575-a715-17bfee447f7f
 ###
 DC3.0sc13	.	gene	10530924	10551175	.	+	.	owner=perentem@mail.uc.edu;ID=06b455d5-f05f-4bdd-97b0-ddf36ab864ef;date_last_modified=2019-11-12;Name=Dcitr13g05070.1.1;date_creation=2019-11-12
-DC3.0sc13	.	mRNA	10530924	10551175	.	+	.	owner=perentem@mail.uc.edu;Parent=06b455d5-f05f-4bdd-97b0-ddf36ab864ef;ID=fe343ae5-7b43-49b7-ace8-05c41818f5e3;orig_id=Dcitr13g05070.1.1;date_last_modified=2019-11-12;Name=Dcitr13g05070.1.1-00001;date_creation=2019-11-12
+DC3.0sc13	.	mRNA	10530924	10551175	.	+	.	owner=perentem@mail.uc.edu;Parent=06b455d5-f05f-4bdd-97b0-ddf36ab864ef;ID=fe343ae5-7b43-49b7-ace8-05c41818f5e3;orig_id=Dcitr13g05070.1.1;date_last_modified=2019-11-12;Name=Dcitr13g05070.1.1;date_creation=2019-11-12
 DC3.0sc13	.	exon	10537836	10537909	.	+	.	Parent=fe343ae5-7b43-49b7-ace8-05c41818f5e3;ID=e7331f52-32ba-46b7-aeff-feefe9503cf7;Name=e7331f52-32ba-46b7-aeff-feefe9503cf7
 DC3.0sc13	.	exon	10537694	10537747	.	+	.	Parent=fe343ae5-7b43-49b7-ace8-05c41818f5e3;ID=9ba8cf56-a12d-4768-9ab8-35da8d546719;Name=9ba8cf56-a12d-4768-9ab8-35da8d546719
 DC3.0sc13	.	exon	10533751	10533867	.	+	.	Parent=fe343ae5-7b43-49b7-ace8-05c41818f5e3;ID=ed997a5a-e31f-4251-87c5-de7a9c58cff0;Name=ed997a5a-e31f-4251-87c5-de7a9c58cff0
@@ -4729,7 +4729,7 @@ DC3.0sc13	.	exon	10530924	10531096	.	+	.	Parent=fe343ae5-7b43-49b7-ace8-05c41818
 DC3.0sc13	.	exon	10544564	10544658	.	+	.	Parent=fe343ae5-7b43-49b7-ace8-05c41818f5e3;ID=6a3e9158-0823-4783-8b71-1254cf60cfb5;Name=6a3e9158-0823-4783-8b71-1254cf60cfb5
 ###
 DC3.0sc13	.	gene	12131373	12155085	.	+	.	owner=perentem@mail.uc.edu;ID=b54723e7-4711-4c58-8e94-152cf93ef62e;date_last_modified=2019-11-13;Name=Dcitr13g05670.1.1;date_creation=2019-11-13
-DC3.0sc13	.	mRNA	12131373	12155085	.	+	.	owner=perentem@mail.uc.edu;Parent=b54723e7-4711-4c58-8e94-152cf93ef62e;ID=b8247751-45b7-4438-a5c9-039375a00597;orig_id=Dcitr13g05670.1.1;date_last_modified=2019-11-13;Name=Dcitr13g05670.1.1-00001;date_creation=2019-11-13
+DC3.0sc13	.	mRNA	12131373	12155085	.	+	.	owner=perentem@mail.uc.edu;Parent=b54723e7-4711-4c58-8e94-152cf93ef62e;ID=b8247751-45b7-4438-a5c9-039375a00597;orig_id=Dcitr13g05670.1.1;date_last_modified=2019-11-13;Name=Dcitr13g05670.1.1;date_creation=2019-11-13
 DC3.0sc13	.	exon	12138001	12138177	.	+	.	Parent=b8247751-45b7-4438-a5c9-039375a00597;ID=349eceb3-6367-47e0-9f8e-a4875530914a;Name=349eceb3-6367-47e0-9f8e-a4875530914a
 DC3.0sc13	.	exon	12143356	12143474	.	+	.	Parent=b8247751-45b7-4438-a5c9-039375a00597;ID=829afbd3-4873-40ac-904a-b86a2b9aacc4;Name=829afbd3-4873-40ac-904a-b86a2b9aacc4
 DC3.0sc13	.	exon	12145260	12145367	.	+	.	Parent=b8247751-45b7-4438-a5c9-039375a00597;ID=f3675215-7313-4a7e-bbca-49e5645b42b5;Name=f3675215-7313-4a7e-bbca-49e5645b42b5
@@ -4954,7 +4954,7 @@ DC3.0sc06	.	exon	20595934	20600345	.	+	.	Parent=1867d23f-81b2-4a86-9e5d-8814c250
 DC3.0sc06	.	exon	20595337	20595488	.	+	.	Parent=1867d23f-81b2-4a86-9e5d-8814c2500ef2;ID=083f8a22-c704-4d33-b326-7559d24253a2;Name=083f8a22-c704-4d33-b326-7559d24253a2
 ###
 DC3.0sc06	.	gene	9106070	9188154	.	-	.	owner=perentem@mail.uc.edu;ID=bfe59d0e-50a0-4bfb-aa21-45a2ee69420e;date_last_modified=2019-11-10;Name=mikado.DC3.0sc06G928.3;date_creation=2019-11-10
-DC3.0sc06	.	mRNA	9106070	9188154	.	-	.	owner=perentem@mail.uc.edu;Parent=bfe59d0e-50a0-4bfb-aa21-45a2ee69420e;ID=7701d839-23d2-406e-9ab6-ea2655e18f82;orig_id=maker-DC3.0sc06-pred_gff_Mikado_loci-gene-93.165-mRNA-3;date_last_modified=2019-11-10;Name=mikado.DC3.0sc06G928.3-00001;date_creation=2019-11-10
+DC3.0sc06	.	mRNA	9106070	9188154	.	-	.	owner=perentem@mail.uc.edu;Parent=bfe59d0e-50a0-4bfb-aa21-45a2ee69420e;ID=7701d839-23d2-406e-9ab6-ea2655e18f82;orig_id=maker-DC3.0sc06-pred_gff_Mikado_loci-gene-93.165-mRNA-3;date_last_modified=2019-11-10;Name=mikado.DC3.0sc06G928.3;date_creation=2019-11-10
 DC3.0sc06	.	exon	9106070	9107345	.	-	.	Parent=7701d839-23d2-406e-9ab6-ea2655e18f82;ID=9bf0c8a4-3dc4-474a-b7f0-825126ab7e91;Name=9bf0c8a4-3dc4-474a-b7f0-825126ab7e91
 DC3.0sc06	.	CDS	9188118	9188152	.	-	0	Parent=7701d839-23d2-406e-9ab6-ea2655e18f82;ID=037a7923-3332-4ef4-8759-b23f616cbe58;Name=037a7923-3332-4ef4-8759-b23f616cbe58
 DC3.0sc06	.	CDS	9187366	9187745	.	-	1	Parent=7701d839-23d2-406e-9ab6-ea2655e18f82;ID=037a7923-3332-4ef4-8759-b23f616cbe58;Name=037a7923-3332-4ef4-8759-b23f616cbe58
@@ -4965,7 +4965,7 @@ DC3.0sc06	.	exon	9188118	9188154	.	-	.	Parent=7701d839-23d2-406e-9ab6-ea2655e18f
 DC3.0sc06	.	exon	9107752	9108027	.	-	.	Parent=7701d839-23d2-406e-9ab6-ea2655e18f82;ID=f737cd30-0a74-48aa-a44c-daa79caff380;Name=f737cd30-0a74-48aa-a44c-daa79caff380
 ###
 DC3.0sc06	.	gene	1263687	1277321	.	+	.	owner=perentem@mail.uc.edu;ID=39339c38-a623-4177-870b-4c8f66dd3a37;date_last_modified=2019-11-15;Name=Dcitr06g01550.1.1;date_creation=2019-11-15
-DC3.0sc06	.	mRNA	1263687	1277321	.	+	.	owner=perentem@mail.uc.edu;Parent=39339c38-a623-4177-870b-4c8f66dd3a37;ID=5d78939b-a480-44e0-9e03-bc04fe486beb;orig_id=Dcitr06g01550.1.1;date_last_modified=2019-11-15;Name=Dcitr06g01550.1.1-00001;date_creation=2019-11-15
+DC3.0sc06	.	mRNA	1263687	1277321	.	+	.	owner=perentem@mail.uc.edu;Parent=39339c38-a623-4177-870b-4c8f66dd3a37;ID=5d78939b-a480-44e0-9e03-bc04fe486beb;orig_id=Dcitr06g01550.1.1;date_last_modified=2019-11-15;Name=Dcitr06g01550.1.1;date_creation=2019-11-15
 DC3.0sc06	.	exon	1276603	1276659	.	+	.	Parent=5d78939b-a480-44e0-9e03-bc04fe486beb;ID=4b078bfd-0969-4f0f-b0c1-59ba15f076e8;Name=4b078bfd-0969-4f0f-b0c1-59ba15f076e8
 DC3.0sc06	.	exon	1276232	1276270	.	+	.	Parent=5d78939b-a480-44e0-9e03-bc04fe486beb;ID=216b2598-dcee-49d9-8efa-85f73a5fb18c;Name=216b2598-dcee-49d9-8efa-85f73a5fb18c
 DC3.0sc06	.	exon	1277076	1277321	.	+	.	Parent=5d78939b-a480-44e0-9e03-bc04fe486beb;ID=0fc95e37-d708-430a-bb75-7015ac3ffc83;Name=0fc95e37-d708-430a-bb75-7015ac3ffc83
@@ -5001,7 +5001,7 @@ DC3.0sc06	.	exon	17792715	17792901	.	-	.	Parent=e47a5ff2-5d9c-40f8-9360-90582f04
 DC3.0sc06	.	exon	17799473	17799641	.	-	.	Parent=e47a5ff2-5d9c-40f8-9360-90582f04da63;ID=a43d3c92-8240-452f-b8ae-07087ef775bc;Name=a43d3c92-8240-452f-b8ae-07087ef775bc
 ###
 DC3.0sc06	.	gene	31229542	31297126	.	+	.	owner=adkinssc@mail.irsc.edu;ID=afdbd4a9-b918-4576-a537-0fcf47c6ff09;date_last_modified=2019-12-13;Name=Dcitr06g12480.1.1;date_creation=2019-12-13
-DC3.0sc06	.	mRNA	31289432	31295457	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=afdbd4a9-b918-4576-a537-0fcf47c6ff09;ID=2d71eefe-45f1-43d7-af62-fa2562c51af5;orig_id=Dcitr06g12480.1.1;date_last_modified=2019-12-13;Name=Dcitr06g12480.1.1-00001;date_creation=2019-12-13
+DC3.0sc06	.	mRNA	31289432	31295457	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=afdbd4a9-b918-4576-a537-0fcf47c6ff09;ID=2d71eefe-45f1-43d7-af62-fa2562c51af5;orig_id=Dcitr06g12480.1.1;date_last_modified=2019-12-13;Name=Dcitr06g12480.1.1;date_creation=2019-12-13
 DC3.0sc06	.	exon	31295264	31295457	.	+	.	Parent=2d71eefe-45f1-43d7-af62-fa2562c51af5;ID=a42338e3-a42d-4b20-bb94-27404c70767d;Name=a42338e3-a42d-4b20-bb94-27404c70767d
 DC3.0sc06	.	exon	31289432	31289660	.	+	.	Parent=2d71eefe-45f1-43d7-af62-fa2562c51af5;ID=06cdd808-cf7f-4e0a-8984-b30e0ecec26a;Name=06cdd808-cf7f-4e0a-8984-b30e0ecec26a
 DC3.0sc06	.	exon	31290017	31290124	.	+	.	Parent=2d71eefe-45f1-43d7-af62-fa2562c51af5;ID=a8e78b2d-9025-42aa-b6a4-03315ff7a597;Name=a8e78b2d-9025-42aa-b6a4-03315ff7a597
@@ -5018,7 +5018,7 @@ DC3.0sc06	.	CDS	31294300	31294574	.	+	1	Parent=2d71eefe-45f1-43d7-af62-fa2562c51
 DC3.0sc06	.	CDS	31295264	31295457	.	+	2	Parent=2d71eefe-45f1-43d7-af62-fa2562c51af5;ID=4782cb99-1efd-41f1-8447-148d2e116911;Name=4782cb99-1efd-41f1-8447-148d2e116911
 DC3.0sc06	.	exon	31290706	31290893	.	+	.	Parent=2d71eefe-45f1-43d7-af62-fa2562c51af5;ID=8a89c97b-49a4-4018-b801-f22d7aa2aaef;Name=8a89c97b-49a4-4018-b801-f22d7aa2aaef
 DC3.0sc06	.	exon	31294300	31294574	.	+	.	Parent=2d71eefe-45f1-43d7-af62-fa2562c51af5;ID=256a1ad1-0ce1-46ab-8b1b-9db5d5d64229;Name=256a1ad1-0ce1-46ab-8b1b-9db5d5d64229
-DC3.0sc06	.	mRNA	31229542	31297126	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=afdbd4a9-b918-4576-a537-0fcf47c6ff09;ID=d7563012-c5cd-4af6-b211-b44f5c72a66e;orig_id=Dcitr06g12470.1.1;date_last_modified=2019-12-13;Name=Dcitr06g12480.1.1-00002;date_creation=2019-12-13
+DC3.0sc06	.	mRNA	31229542	31297126	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=afdbd4a9-b918-4576-a537-0fcf47c6ff09;ID=d7563012-c5cd-4af6-b211-b44f5c72a66e;orig_id=Dcitr06g12470.1.1;date_last_modified=2019-12-13;Name=Dcitr06g12480.1.1-0;date_creation=2019-12-13
 DC3.0sc06	.	exon	31229542	31229593	.	+	.	Parent=d7563012-c5cd-4af6-b211-b44f5c72a66e;ID=6d961417-67a2-4e85-95ff-dc19588285ae;Name=6d961417-67a2-4e85-95ff-dc19588285ae
 DC3.0sc06	.	exon	31291635	31291797	.	+	.	Parent=d7563012-c5cd-4af6-b211-b44f5c72a66e;ID=29e0ae2b-8787-4f41-b950-3e1df2e63d0a;Name=29e0ae2b-8787-4f41-b950-3e1df2e63d0a
 DC3.0sc06	.	exon	31289420	31289660	.	+	.	Parent=d7563012-c5cd-4af6-b211-b44f5c72a66e;ID=e6c701f1-efe7-4b23-8fbc-56d2cda80995;Name=e6c701f1-efe7-4b23-8fbc-56d2cda80995
@@ -5039,7 +5039,7 @@ DC3.0sc06	.	exon	31295264	31297126	.	+	.	Parent=d7563012-c5cd-4af6-b211-b44f5c72
 DC3.0sc06	.	exon	31290017	31290124	.	+	.	Parent=d7563012-c5cd-4af6-b211-b44f5c72a66e;ID=52c1acba-d6cb-4f5d-b10d-8c75482e8cdd;Name=52c1acba-d6cb-4f5d-b10d-8c75482e8cdd
 ###
 DC3.0sc06	.	gene	27233269	27237612	.	+	.	owner=gracerl@mail.irsc.edu;ID=b373ff1f-c0f1-40a0-afaf-c5bda1d018ed;date_last_modified=2019-12-22;Name=Dcitr06g11110.1.1;date_creation=2019-12-22
-DC3.0sc06	.	mRNA	27233269	27237612	.	+	.	owner=gracerl@mail.irsc.edu;Parent=b373ff1f-c0f1-40a0-afaf-c5bda1d018ed;ID=7537c58f-5106-4342-9120-536738acd14e;date_last_modified=2019-12-22;Name=Dcitr06g11110.1.1-00001;date_creation=2019-12-22
+DC3.0sc06	.	mRNA	27233269	27237612	.	+	.	owner=gracerl@mail.irsc.edu;Parent=b373ff1f-c0f1-40a0-afaf-c5bda1d018ed;ID=7537c58f-5106-4342-9120-536738acd14e;date_last_modified=2019-12-22;Name=Dcitr06g11110.1.1;date_creation=2019-12-22
 DC3.0sc06	.	exon	27233269	27233487	.	+	.	Parent=7537c58f-5106-4342-9120-536738acd14e;ID=befbc4d2-d6a9-43e6-a063-66389afa9c69;Name=befbc4d2-d6a9-43e6-a063-66389afa9c69
 DC3.0sc06	.	exon	27236684	27237612	.	+	.	Parent=7537c58f-5106-4342-9120-536738acd14e;ID=2730d230-040d-43d1-b839-fcace7eb8b60;Name=2730d230-040d-43d1-b839-fcace7eb8b60
 DC3.0sc06	.	exon	27236194	27236383	.	+	.	Parent=7537c58f-5106-4342-9120-536738acd14e;ID=47f53dd2-2e48-4ea9-9fc3-cc697a9a170a;Name=47f53dd2-2e48-4ea9-9fc3-cc697a9a170a
@@ -5048,7 +5048,7 @@ DC3.0sc06	.	CDS	27236194	27236383	.	+	2	Parent=7537c58f-5106-4342-9120-536738acd
 DC3.0sc06	.	CDS	27236684	27236888	.	+	1	Parent=7537c58f-5106-4342-9120-536738acd14e;ID=0bff751f-2540-4f8c-a4c2-69d7326e92a8;Name=0bff751f-2540-4f8c-a4c2-69d7326e92a8
 ###
 DC3.0sc06	.	gene	27198847	27203927	.	-	.	owner=gracerl@mail.irsc.edu;ID=741cc195-69d5-42ec-b86e-ddde31c0aad3;date_last_modified=2019-12-22;Name=Dcitr06g11100.1.1;date_creation=2019-12-22
-DC3.0sc06	.	mRNA	27198847	27203927	.	-	.	owner=gracerl@mail.irsc.edu;Parent=741cc195-69d5-42ec-b86e-ddde31c0aad3;ID=549eddc5-d65a-4b76-9c42-51e0209d4fb7;date_last_modified=2019-12-22;Name=Dcitr06g11100.1.1-00001;date_creation=2019-12-22
+DC3.0sc06	.	mRNA	27198847	27203927	.	-	.	owner=gracerl@mail.irsc.edu;Parent=741cc195-69d5-42ec-b86e-ddde31c0aad3;ID=549eddc5-d65a-4b76-9c42-51e0209d4fb7;date_last_modified=2019-12-22;Name=Dcitr06g11100.1.1;date_creation=2019-12-22
 DC3.0sc06	.	exon	27203703	27203927	.	-	.	Parent=549eddc5-d65a-4b76-9c42-51e0209d4fb7;ID=eeefa22d-e901-49a2-8468-367cf026fbab;Name=eeefa22d-e901-49a2-8468-367cf026fbab
 DC3.0sc06	.	exon	27198847	27199397	.	-	.	Parent=549eddc5-d65a-4b76-9c42-51e0209d4fb7;ID=429e3126-2dde-48ce-865f-50e6f6c587d0;Name=429e3126-2dde-48ce-865f-50e6f6c587d0
 DC3.0sc06	.	CDS	27203703	27203772	.	-	0	Parent=549eddc5-d65a-4b76-9c42-51e0209d4fb7;ID=77bd41b6-6132-4cae-83d6-a31ba551e254;Name=77bd41b6-6132-4cae-83d6-a31ba551e254
@@ -5058,18 +5058,18 @@ DC3.0sc06	.	exon	27200347	27201113	.	-	.	Parent=549eddc5-d65a-4b76-9c42-51e0209d
 DC3.0sc06	.	exon	27201409	27201598	.	-	.	Parent=549eddc5-d65a-4b76-9c42-51e0209d4fb7;ID=3e35bd40-76fb-431e-938a-a476dc63368b;Name=3e35bd40-76fb-431e-938a-a476dc63368b
 ###
 DC3.0sc06	.	gene	21634299	21638286	.	-	.	owner=gracerl@mail.irsc.edu;ID=86d8b66c-44ae-4576-beb1-55b63a7d24a6;date_last_modified=2019-12-22;Name=Dcitr06g09110.1.1;date_creation=2019-12-22
-DC3.0sc06	.	mRNA	21634299	21638286	.	-	.	owner=gracerl@mail.irsc.edu;Parent=86d8b66c-44ae-4576-beb1-55b63a7d24a6;ID=ba3ccbfa-1388-4fdc-907c-3dc9a5ef7a69;date_last_modified=2019-12-22;Name=Dcitr06g09110.1.1-00001;date_creation=2019-12-22
+DC3.0sc06	.	mRNA	21634299	21638286	.	-	.	owner=gracerl@mail.irsc.edu;Parent=86d8b66c-44ae-4576-beb1-55b63a7d24a6;ID=ba3ccbfa-1388-4fdc-907c-3dc9a5ef7a69;date_last_modified=2019-12-22;Name=Dcitr06g09110.1.1;date_creation=2019-12-22
 DC3.0sc06	.	exon	21634299	21637901	.	-	.	Parent=ba3ccbfa-1388-4fdc-907c-3dc9a5ef7a69;ID=90e93ce7-5c2d-45a6-bf9d-38db69acfd93;Name=90e93ce7-5c2d-45a6-bf9d-38db69acfd93
 DC3.0sc06	.	exon	21638164	21638286	.	-	.	Parent=ba3ccbfa-1388-4fdc-907c-3dc9a5ef7a69;ID=43dbef89-b3bb-4c3f-9ed9-b4ccdd0904d4;Name=43dbef89-b3bb-4c3f-9ed9-b4ccdd0904d4
 DC3.0sc06	.	CDS	21636008	21637855	.	-	0	Parent=ba3ccbfa-1388-4fdc-907c-3dc9a5ef7a69;ID=725d402b-c6f1-4bac-83df-703a3d0f9b64;Name=725d402b-c6f1-4bac-83df-703a3d0f9b64
 ###
 DC3.0sc06	.	gene	2716526	2717355	.	+	.	owner=gracerl@mail.irsc.edu;ID=9f8957bf-1e7f-468e-af2e-9eeb2c7f6213;date_last_modified=2019-12-22;Name=MCOT19591.0.CO;date_creation=2019-12-22
-DC3.0sc06	.	mRNA	2716526	2717355	.	+	.	owner=gracerl@mail.irsc.edu;Parent=9f8957bf-1e7f-468e-af2e-9eeb2c7f6213;ID=d268aee0-15a3-48b1-9e3d-83da733c0685;date_last_modified=2019-12-22;Name=MCOT19591.0.CO-00001;date_creation=2019-12-22
+DC3.0sc06	.	mRNA	2716526	2717355	.	+	.	owner=gracerl@mail.irsc.edu;Parent=9f8957bf-1e7f-468e-af2e-9eeb2c7f6213;ID=d268aee0-15a3-48b1-9e3d-83da733c0685;date_last_modified=2019-12-22;Name=MCOT19591.0.CO;date_creation=2019-12-22
 DC3.0sc06	.	CDS	2716527	2716895	.	+	0	Parent=d268aee0-15a3-48b1-9e3d-83da733c0685;ID=d268aee0-15a3-48b1-9e3d-83da733c0685-CDS;Name=d268aee0-15a3-48b1-9e3d-83da733c0685-CDS
 DC3.0sc06	.	exon	2716526	2717355	.	+	.	Parent=d268aee0-15a3-48b1-9e3d-83da733c0685;ID=ba22f8aa-d76a-47f5-a0dd-f82eee9812dd;Name=ba22f8aa-d76a-47f5-a0dd-f82eee9812dd
 ###
 DC3.0sc06	.	gene	2704830	2705687	.	-	.	owner=gracerl@mail.irsc.edu;ID=5668c3a7-4183-4b3b-9471-2f857f1615ae;date_last_modified=2019-12-22;Name=c389723/f32p37/2706;date_creation=2019-12-22
-DC3.0sc06	.	mRNA	2704830	2705687	.	-	.	owner=gracerl@mail.irsc.edu;Parent=5668c3a7-4183-4b3b-9471-2f857f1615ae;ID=4dcdded3-f5bf-4147-a096-864f3f39c116;date_last_modified=2019-12-22;Name=c389723/f32p37/2706-00001;date_creation=2019-12-22
+DC3.0sc06	.	mRNA	2704830	2705687	.	-	.	owner=gracerl@mail.irsc.edu;Parent=5668c3a7-4183-4b3b-9471-2f857f1615ae;ID=4dcdded3-f5bf-4147-a096-864f3f39c116;date_last_modified=2019-12-22;Name=c389723/f32p37/2706;date_creation=2019-12-22
 DC3.0sc06	.	exon	2704830	2705687	.	-	.	Parent=4dcdded3-f5bf-4147-a096-864f3f39c116;ID=d92a2a50-ac3d-40f2-bad4-87098ad052ff;Name=d92a2a50-ac3d-40f2-bad4-87098ad052ff
 DC3.0sc06	.	CDS	2705547	2705687	.	-	0	Parent=4dcdded3-f5bf-4147-a096-864f3f39c116;ID=47ca6964-2d5e-49cf-b810-44fe4285f771;Name=47ca6964-2d5e-49cf-b810-44fe4285f771
 ###
@@ -5211,10 +5211,10 @@ DC3.0sc06	.	exon	36356762	36357680	.	-	.	Parent=790aad85-ea2f-4dc1-8aa0-1a24f5cc
 DC3.0sc06	.	exon	36453762	36454446	.	-	.	Parent=790aad85-ea2f-4dc1-8aa0-1a24f5ccbc9f;ID=8a23efa1-53f0-46fb-a222-30e5e49c4596;Name=8a23efa1-53f0-46fb-a222-30e5e49c4596
 ###
 DC3.0sc06	.	gene	7856193	7856927	.	-	.	owner=greensr5@mail.irsc.edu;ID=8517a241-6ad2-4b54-bb8c-56f9b60027de;date_last_modified=2020-01-10;Name=Dcitr06g03880.1.1;date_creation=2020-01-10
-DC3.0sc06	.	mRNA	7856193	7856927	.	-	.	owner=greensr5@mail.irsc.edu;Parent=8517a241-6ad2-4b54-bb8c-56f9b60027de;ID=c8ee89d3-8558-43ed-931a-1566b6e93e5a;date_last_modified=2020-01-10;Name=Dcitr06g03880.1.1-00001;date_creation=2020-01-10
+DC3.0sc06	.	mRNA	7856193	7856927	.	-	.	owner=greensr5@mail.irsc.edu;Parent=8517a241-6ad2-4b54-bb8c-56f9b60027de;ID=c8ee89d3-8558-43ed-931a-1566b6e93e5a;date_last_modified=2020-01-10;Name=Dcitr06g03880.1.1;date_creation=2020-01-10
 DC3.0sc06	.	CDS	7856193	7856925	.	-	0	Parent=c8ee89d3-8558-43ed-931a-1566b6e93e5a;ID=c8ee89d3-8558-43ed-931a-1566b6e93e5a-CDS;Name=c8ee89d3-8558-43ed-931a-1566b6e93e5a-CDS
 DC3.0sc06	.	exon	7856193	7856927	.	-	.	Parent=c8ee89d3-8558-43ed-931a-1566b6e93e5a;ID=a928dfbf-6368-4bc0-aa0b-af734d99be95;Name=a928dfbf-6368-4bc0-aa0b-af734d99be95
-DC3.0sc06	.	mRNA	7856193	7856927	.	-	.	owner=greensr5@mail.irsc.edu;Parent=8517a241-6ad2-4b54-bb8c-56f9b60027de;ID=db7791dd-b401-40ae-b1eb-ef78caacd8c2;date_last_modified=2020-01-10;Name=Dcitr06g03880.1.1-00002;date_creation=2020-01-10
+DC3.0sc06	.	mRNA	7856193	7856927	.	-	.	owner=greensr5@mail.irsc.edu;Parent=8517a241-6ad2-4b54-bb8c-56f9b60027de;ID=db7791dd-b401-40ae-b1eb-ef78caacd8c2;date_last_modified=2020-01-10;Name=Dcitr06g03880.1.1-0;date_creation=2020-01-10
 DC3.0sc06	.	exon	7856193	7856927	.	-	.	Parent=db7791dd-b401-40ae-b1eb-ef78caacd8c2;ID=cffbead4-2a22-4a12-b271-3591a67e757c;Name=cffbead4-2a22-4a12-b271-3591a67e757c
 DC3.0sc06	.	CDS	7856193	7856925	.	-	0	Parent=db7791dd-b401-40ae-b1eb-ef78caacd8c2;ID=db7791dd-b401-40ae-b1eb-ef78caacd8c2-CDS;Name=db7791dd-b401-40ae-b1eb-ef78caacd8c2-CDS
 ###
@@ -5234,7 +5234,7 @@ DC3.0sc06	.	exon	19286306	19286686	.	-	.	Parent=6ac01c6b-1d1c-4213-bc30-bacb6532
 DC3.0sc06	.	CDS	19287166	19287358	.	-	0	Parent=6ac01c6b-1d1c-4213-bc30-bacb65321ae2;ID=ae41f5d5-8d4c-4307-bcf4-b55e20a9ab53;Name=ae41f5d5-8d4c-4307-bcf4-b55e20a9ab53
 DC3.0sc06	.	CDS	19286505	19286686	.	-	2	Parent=6ac01c6b-1d1c-4213-bc30-bacb65321ae2;ID=ae41f5d5-8d4c-4307-bcf4-b55e20a9ab53;Name=ae41f5d5-8d4c-4307-bcf4-b55e20a9ab53
 ###
-DC3.0sc06	.	gene	23874062	23882792	.	+	.	owner=sammy.sedky@usda.gov;ID=791c4cc9-031e-465c-9dae-334da370b727;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Dcitr06g09860.1.1-00001;date_creation=2021-10-07
+DC3.0sc06	.	gene	23874062	23882792	.	+	.	owner=sammy.sedky@usda.gov;ID=791c4cc9-031e-465c-9dae-334da370b727;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Dcitr06g09860.1.1;date_creation=2021-10-07
 DC3.0sc06	.	mRNA	23874062	23882792	.	+	.	owner=sammy.sedky@usda.gov;Parent=791c4cc9-031e-465c-9dae-334da370b727;ID=3f920da2-ee3f-427d-8465-72e89b1944bb;orig_id=Dcitr06g09860.1.1;is_fmax_partial=true;date_last_modified=2021-11-15;Name=Chemosensory protein;date_creation=2021-10-07
 DC3.0sc06	.	exon	23874062	23874095	.	+	.	Parent=3f920da2-ee3f-427d-8465-72e89b1944bb;ID=dd765cfd-e84e-4d9d-970f-61604792e063;Name=dd765cfd-e84e-4d9d-970f-61604792e063
 DC3.0sc06	.	exon	23882471	23882792	.	+	.	Parent=3f920da2-ee3f-427d-8465-72e89b1944bb;ID=ab38caf3-0872-4511-a1f2-c0c819115682;Name=ab38caf3-0872-4511-a1f2-c0c819115682
@@ -5242,7 +5242,7 @@ DC3.0sc06	.	exon	23881840	23882063	.	+	.	Parent=3f920da2-ee3f-427d-8465-72e89b19
 DC3.0sc06	.	CDS	23881874	23882063	.	+	0	Parent=3f920da2-ee3f-427d-8465-72e89b1944bb;ID=d011ab5c-80fe-419e-95ad-7fe8b7101266;Name=d011ab5c-80fe-419e-95ad-7fe8b7101266
 DC3.0sc06	.	CDS	23882471	23882661	.	+	2	Parent=3f920da2-ee3f-427d-8465-72e89b1944bb;ID=d011ab5c-80fe-419e-95ad-7fe8b7101266;Name=d011ab5c-80fe-419e-95ad-7fe8b7101266
 ###
-DC3.0sc06	.	gene	23897462	23898108	.	+	.	owner=sammy.sedky@usda.gov;ID=ed1ef6b9-ffd3-45cd-94bf-b519f374e31e;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Dcitr06g09870.1.1-00001;date_creation=2021-10-07
+DC3.0sc06	.	gene	23897462	23898108	.	+	.	owner=sammy.sedky@usda.gov;ID=ed1ef6b9-ffd3-45cd-94bf-b519f374e31e;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Dcitr06g09870.1.1;date_creation=2021-10-07
 DC3.0sc06	.	mRNA	23897462	23898108	.	+	.	owner=sammy.sedky@usda.gov;Parent=ed1ef6b9-ffd3-45cd-94bf-b519f374e31e;ID=6c612a5f-b7cc-4152-955f-b2911f4f285b;orig_id=Dcitr06g09870.1.1;is_fmax_partial=true;date_last_modified=2021-11-15;Name=Chemosensory protein;date_creation=2021-10-07
 DC3.0sc06	.	exon	23897462	23897705	.	+	.	Parent=6c612a5f-b7cc-4152-955f-b2911f4f285b;ID=2e16742d-dda7-426a-a49d-8db0b29590da;Name=2e16742d-dda7-426a-a49d-8db0b29590da
 DC3.0sc06	.	CDS	23897462	23897705	.	+	0	Parent=6c612a5f-b7cc-4152-955f-b2911f4f285b;ID=a45f5493-a5cb-4728-8a3f-cff828e55835;Name=a45f5493-a5cb-4728-8a3f-cff828e55835
@@ -5272,7 +5272,7 @@ DC3.0sc06	.	CDS	1669839	1670090	.	-	2	Parent=2c4949f5-eb43-4447-9092-8e01bf70ef1
 DC3.0sc06	.	CDS	1669425	1669597	.	-	2	Parent=2c4949f5-eb43-4447-9092-8e01bf70ef1a;ID=53311357-8bc3-4d7c-821b-6eb039e11691;Name=53311357-8bc3-4d7c-821b-6eb039e11691
 DC3.0sc06	.	exon	1669839	1670090	.	-	.	Parent=2c4949f5-eb43-4447-9092-8e01bf70ef1a;ID=fe8419d7-cdf5-4659-9c26-cd9a8f14f3f1;Name=fe8419d7-cdf5-4659-9c26-cd9a8f14f3f1
 ###
-DC3.0sc06	.	gene	1837965	1843697	.	-	.	owner=sammy.sedky@usda.gov;ID=c37b4ff8-d09c-4672-882b-390f2f8e19ee;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Dcitr06g01770.1.1-00001;date_creation=2021-10-07
+DC3.0sc06	.	gene	1837965	1843697	.	-	.	owner=sammy.sedky@usda.gov;ID=c37b4ff8-d09c-4672-882b-390f2f8e19ee;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Dcitr06g01770.1.1;date_creation=2021-10-07
 DC3.0sc06	.	mRNA	1837965	1843697	.	-	.	owner=sammy.sedky@usda.gov;Parent=c37b4ff8-d09c-4672-882b-390f2f8e19ee;ID=552af31a-f6e1-42ce-ac5d-32da618037ec;orig_id=Dcitr06g01770.1.1;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Cytochrome P450%2C E-class%2C group I (IPR002401);date_creation=2021-10-07
 DC3.0sc06	.	exon	1841261	1841464	.	-	.	Parent=552af31a-f6e1-42ce-ac5d-32da618037ec;ID=7ef29f0e-5155-4513-a9bd-e9f07bc7b4ed;Name=7ef29f0e-5155-4513-a9bd-e9f07bc7b4ed
 DC3.0sc06	.	exon	1840624	1841067	.	-	.	Parent=552af31a-f6e1-42ce-ac5d-32da618037ec;ID=4ec30d4b-24db-4157-90fd-40b0a7a70da0;Name=4ec30d4b-24db-4157-90fd-40b0a7a70da0
@@ -5322,7 +5322,7 @@ DC3.0sc11	.	non_canonical_five_prime_splice_site	11307844	11307844	.	+	.	Parent=
 DC3.0sc11	.	exon	11307201	11307841	.	+	.	Parent=fc6f1249-c35d-4242-931e-f19f708028ea;ID=4b550066-5a08-4647-b66a-e3b2dd754d2a;Name=4b550066-5a08-4647-b66a-e3b2dd754d2a
 ###
 DC3.0sc11	.	gene	175777	179185	.	-	.	owner=perentem@mail.uc.edu;ID=f423414f-87c5-49e7-9e57-714261bb982d;date_last_modified=2019-11-13;Name=Dcitr11g01100.1.1;date_creation=2019-11-13
-DC3.0sc11	.	mRNA	175777	179185	.	-	.	owner=perentem@mail.uc.edu;Parent=f423414f-87c5-49e7-9e57-714261bb982d;ID=99499fca-3244-4b89-bca3-a15c520b4ebc;orig_id=Dcitr11g01100.1.1;date_last_modified=2019-11-13;Name=Dcitr11g01100.1.1-00001;date_creation=2019-11-13
+DC3.0sc11	.	mRNA	175777	179185	.	-	.	owner=perentem@mail.uc.edu;Parent=f423414f-87c5-49e7-9e57-714261bb982d;ID=99499fca-3244-4b89-bca3-a15c520b4ebc;orig_id=Dcitr11g01100.1.1;date_last_modified=2019-11-13;Name=Dcitr11g01100.1.1;date_creation=2019-11-13
 DC3.0sc11	.	CDS	179082	179185	.	-	0	Parent=99499fca-3244-4b89-bca3-a15c520b4ebc;ID=ef22ca18-15a2-445d-af3b-cd9c436cb5cd;Name=ef22ca18-15a2-445d-af3b-cd9c436cb5cd
 DC3.0sc11	.	CDS	178290	178587	.	-	1	Parent=99499fca-3244-4b89-bca3-a15c520b4ebc;ID=ef22ca18-15a2-445d-af3b-cd9c436cb5cd;Name=ef22ca18-15a2-445d-af3b-cd9c436cb5cd
 DC3.0sc11	.	CDS	177663	177837	.	-	0	Parent=99499fca-3244-4b89-bca3-a15c520b4ebc;ID=ef22ca18-15a2-445d-af3b-cd9c436cb5cd;Name=ef22ca18-15a2-445d-af3b-cd9c436cb5cd
@@ -5421,7 +5421,7 @@ DC3.0sc11	.	CDS	10406644	10406779	.	+	1	Parent=732044dd-031d-4483-b16e-516ec5f4d
 DC3.0sc11	.	CDS	10407051	10407461	.	+	0	Parent=732044dd-031d-4483-b16e-516ec5f4d1de;ID=47d3e6f3-d506-4144-bcb5-9bbe19a96e38;Name=47d3e6f3-d506-4144-bcb5-9bbe19a96e38
 DC3.0sc11	.	exon	10406644	10406779	.	+	.	Parent=732044dd-031d-4483-b16e-516ec5f4d1de;ID=495b1e3b-28be-4f40-8dea-285f2a320bd8;Name=495b1e3b-28be-4f40-8dea-285f2a320bd8
 ###
-DC3.0sc11	.	gene	10417044	10418953	.	+	.	owner=sammy.sedky@usda.gov;ID=7c44d80c-ad3b-442d-8871-a04052610525;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Dcitr11g05360.1.1-00001;date_creation=2021-10-07
+DC3.0sc11	.	gene	10417044	10418953	.	+	.	owner=sammy.sedky@usda.gov;ID=7c44d80c-ad3b-442d-8871-a04052610525;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Dcitr11g05360.1.1;date_creation=2021-10-07
 DC3.0sc11	.	mRNA	10417044	10418953	.	+	.	owner=sammy.sedky@usda.gov;Parent=7c44d80c-ad3b-442d-8871-a04052610525;ID=eafecf02-c49d-4676-98b6-ca21c94e4334;orig_id=Dcitr11g05360.1.1;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Odorant receptor;date_creation=2021-10-07
 DC3.0sc11	.	CDS	10417044	10417849	.	+	0	Parent=eafecf02-c49d-4676-98b6-ca21c94e4334;ID=371b5730-a322-490b-b7f6-b34bb408dea7;Name=371b5730-a322-490b-b7f6-b34bb408dea7
 DC3.0sc11	.	CDS	10418096	10418231	.	+	1	Parent=eafecf02-c49d-4676-98b6-ca21c94e4334;ID=371b5730-a322-490b-b7f6-b34bb408dea7;Name=371b5730-a322-490b-b7f6-b34bb408dea7
@@ -5430,7 +5430,7 @@ DC3.0sc11	.	exon	10417044	10417849	.	+	.	Parent=eafecf02-c49d-4676-98b6-ca21c94e
 DC3.0sc11	.	exon	10418096	10418231	.	+	.	Parent=eafecf02-c49d-4676-98b6-ca21c94e4334;ID=94c50179-b30f-44d7-a4b6-eb0931f8aaf1;Name=94c50179-b30f-44d7-a4b6-eb0931f8aaf1
 DC3.0sc11	.	exon	10418514	10418953	.	+	.	Parent=eafecf02-c49d-4676-98b6-ca21c94e4334;ID=79549e22-8427-4472-b2e0-7f2cb33937d0;Name=79549e22-8427-4472-b2e0-7f2cb33937d0
 ###
-DC3.0sc11	.	gene	18296809	18377297	.	-	.	owner=sammy.sedky@usda.gov;ID=483faad2-8fce-4361-8008-500a49471264;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Dcitr11g08360.1.1-00001;date_creation=2021-10-07
+DC3.0sc11	.	gene	18296809	18377297	.	-	.	owner=sammy.sedky@usda.gov;ID=483faad2-8fce-4361-8008-500a49471264;is_fmax_partial=true;date_last_modified=2021-10-07;Name=Dcitr11g08360.1.1;date_creation=2021-10-07
 DC3.0sc11	.	mRNA	18296809	18377297	.	-	.	owner=sammy.sedky@usda.gov;Parent=483faad2-8fce-4361-8008-500a49471264;ID=be263699-8819-459c-8293-ae5d400534f4;orig_id=Dcitr11g08360.1.1;is_fmax_partial=true;date_last_modified=2021-10-07;Name=odorant receptor Or2-like;date_creation=2021-10-07
 DC3.0sc11	.	exon	18331437	18331800	.	-	.	Parent=be263699-8819-459c-8293-ae5d400534f4;ID=fa296a06-ac1f-49f0-970d-ab5d50818760;Name=fa296a06-ac1f-49f0-970d-ab5d50818760
 DC3.0sc11	.	exon	18347018	18347200	.	-	.	Parent=be263699-8819-459c-8293-ae5d400534f4;ID=11355d6a-96d1-49bb-8282-c72d77029df7;Name=11355d6a-96d1-49bb-8282-c72d77029df7
@@ -5469,7 +5469,7 @@ DC3.0sc11	.	exon	18296809	18296832	.	-	.	Parent=be263699-8819-459c-8293-ae5d4005
 DC3.0sc11	.	exon	18327224	18327247	.	-	.	Parent=be263699-8819-459c-8293-ae5d400534f4;ID=32fce142-e749-4315-92b7-4d13520140c9;Name=32fce142-e749-4315-92b7-4d13520140c9
 DC3.0sc11	.	exon	18331848	18332015	.	-	.	Parent=be263699-8819-459c-8293-ae5d400534f4;ID=c9e444ba-de24-4714-be88-406d1df43296;Name=c9e444ba-de24-4714-be88-406d1df43296
 ###
-DC3.0sc11	.	gene	18669952	18672271	.	+	.	owner=sammy.sedky@usda.gov;is_fmin_partial=true;ID=cc0e4b24-3ed2-4f12-ad41-3df437ff1059;date_last_modified=2021-10-07;Name=Dcitr11g08550.1.1-00001;date_creation=2021-10-07
+DC3.0sc11	.	gene	18669952	18672271	.	+	.	owner=sammy.sedky@usda.gov;is_fmin_partial=true;ID=cc0e4b24-3ed2-4f12-ad41-3df437ff1059;date_last_modified=2021-10-07;Name=Dcitr11g08550.1.1;date_creation=2021-10-07
 DC3.0sc11	.	mRNA	18669952	18672271	.	+	.	owner=sammy.sedky@usda.gov;Parent=cc0e4b24-3ed2-4f12-ad41-3df437ff1059;is_fmin_partial=true;ID=a76be1f1-232f-4970-a3e7-d71d6513944e;orig_id=Dcitr11g08550.1.1;date_last_modified=2021-10-07;Name=Odorant receptor;date_creation=2021-10-07
 DC3.0sc11	.	exon	18669952	18670339	.	+	.	Parent=a76be1f1-232f-4970-a3e7-d71d6513944e;ID=cda05249-0813-41e9-8ad6-a051b23f3f91;Name=cda05249-0813-41e9-8ad6-a051b23f3f91
 DC3.0sc11	.	exon	18670709	18671277	.	+	.	Parent=a76be1f1-232f-4970-a3e7-d71d6513944e;ID=eb36b547-fce3-4521-aa21-e1179f3220b6;Name=eb36b547-fce3-4521-aa21-e1179f3220b6
