@@ -30,7 +30,7 @@ DC3.0sc06	.	exon	12453866	12455035	.	-	.	Parent=4647d040-6dea-462c-b815-916eb8c2
 DC3.0sc06	.	exon	12456709	12456826	.	-	.	Parent=4647d040-6dea-462c-b815-916eb8c27364;ID=1ae099cd-6082-4af1-b566-a430da925c8b;Name=1ae099cd-6082-4af1-b566-a430da925c8b
 ###
 DC3.0sc06	.	gene	14490091	14493985	.	-	.	owner=wtank@ksu.edu;ID=c6a9b2c1-609c-4968-b7a8-7b8f7fb77d1d;date_last_modified=2020-09-08;Name=Proteasome ?6 subunit;date_creation=2020-02-25
-DC3.0sc06	.	mRNA	14490091	14493985	.	-	.	owner=tdshippy@gmail.com;Parent=c6a9b2c1-609c-4968-b7a8-7b8f7fb77d1d;description=Proteasome ?6 subunit;ID=fce1d679-9f87-44d0-9005-b38d4bb02e04;date_last_modified=2020-02-27;Name=Dcitr06g06380.1.1;date_creation=2020-02-26
+DC3.0sc06	.	mRNA	14490091	14493985	.	-	.	owner=tdshippy@gmail.com;Parent=c6a9b2c1-609c-4968-b7a8-7b8f7fb77d1d;description=Proteasome alpha6 subunit;ID=fce1d679-9f87-44d0-9005-b38d4bb02e04;date_last_modified=2020-02-27;Name=Dcitr06g06380.1.1;date_creation=2020-02-26
 DC3.0sc06	.	exon	14491781	14491940	.	-	.	Parent=fce1d679-9f87-44d0-9005-b38d4bb02e04;ID=30b033a7-5c16-4d27-87c0-f2eb8304894d;Name=30b033a7-5c16-4d27-87c0-f2eb8304894d
 DC3.0sc06	.	exon	14491223	14491432	.	-	.	Parent=fce1d679-9f87-44d0-9005-b38d4bb02e04;ID=3d17deba-fb12-4ab6-b301-8ae53ed7821d;Name=3d17deba-fb12-4ab6-b301-8ae53ed7821d
 DC3.0sc06	.	exon	14492187	14492437	.	-	.	Parent=fce1d679-9f87-44d0-9005-b38d4bb02e04;ID=5cbc1282-b4c2-4eb4-9c3d-93079716017a;Name=5cbc1282-b4c2-4eb4-9c3d-93079716017a
@@ -43,7 +43,7 @@ DC3.0sc06	.	CDS	14490572	14490781	.	-	0	Parent=fce1d679-9f87-44d0-9005-b38d4bb02
 DC3.0sc06	.	exon	14493847	14493985	.	-	.	Parent=fce1d679-9f87-44d0-9005-b38d4bb02e04;ID=d63e4f2d-3ada-4a92-a8e0-7a740baaa4d6;Name=d63e4f2d-3ada-4a92-a8e0-7a740baaa4d6
 ###
 DC3.0sc06	.	gene	7589353	7596341	.	+	.	owner=wtank@ksu.edu;ID=3ed0cbee-ee7b-4425-bdaf-eafa55466226;date_last_modified=2020-02-25;Name=Proteasome ?5 subunit;date_creation=2020-02-25
-DC3.0sc06	.	mRNA	7589353	7596341	.	+	.	owner=wtank@ksu.edu;Parent=3ed0cbee-ee7b-4425-bdaf-eafa55466226;description=Proteasome ?5 subunit;ID=c61423c2-9387-4f0d-80a9-326ec21ae400;date_last_modified=2020-02-25;Name=Dcitr06g03790.1.1;date_creation=2020-02-25
+DC3.0sc06	.	mRNA	7589353	7596341	.	+	.	owner=wtank@ksu.edu;Parent=3ed0cbee-ee7b-4425-bdaf-eafa55466226;description=Proteasome beta5 subunit;ID=c61423c2-9387-4f0d-80a9-326ec21ae400;date_last_modified=2020-02-25;Name=Dcitr06g03790.1.1;date_creation=2020-02-25
 DC3.0sc06	.	exon	7589353	7589632	.	+	.	Parent=c61423c2-9387-4f0d-80a9-326ec21ae400;ID=3eda034d-87c3-4ed2-a7c5-82e361a91fb5;Name=3eda034d-87c3-4ed2-a7c5-82e361a91fb5
 DC3.0sc06	.	exon	7591781	7592022	.	+	.	Parent=c61423c2-9387-4f0d-80a9-326ec21ae400;ID=10a593c5-0505-4393-840a-47ded36e5a41;Name=10a593c5-0505-4393-840a-47ded36e5a41
 DC3.0sc06	.	exon	7596073	7596341	.	+	.	Parent=c61423c2-9387-4f0d-80a9-326ec21ae400;ID=66b1646d-bbcb-4ded-ba10-e820e83034bc;Name=66b1646d-bbcb-4ded-ba10-e820e83034bc
@@ -86,145 +86,6 @@ DC3.0sc03	.	exon	21429818	21432609	.	-	.	Parent=987d1748-b27e-4f55-849a-07f83f9f
 DC3.0sc03	.	exon	21427659	21428306	.	-	.	Parent=987d1748-b27e-4f55-849a-07f83f9fd577;ID=40025718-28b1-40ae-b650-e0a4623f0e66;Name=40025718-28b1-40ae-b650-e0a4623f0e66
 DC3.0sc03	.	exon	21429443	21429664	.	-	.	Parent=987d1748-b27e-4f55-849a-07f83f9fd577;ID=dfbc6505-9855-4a9c-af61-e10680ba1bed;Name=dfbc6505-9855-4a9c-af61-e10680ba1bed
 DC3.0sc03	.	CDS	21430319	21432367	.	-	0	Parent=987d1748-b27e-4f55-849a-07f83f9fd577;ID=9f39cff9-3158-4800-bf0e-69f6e0fa3e66;Name=9f39cff9-3158-4800-bf0e-69f6e0fa3e66
-###
-DC3.0sc03	.	gene	45195326	45201665	.	-	.	owner=psh65@cornell.edu;ID=0f8a9f79-885e-44c3-ae3f-c187b2dcc5cd;date_last_modified=2020-03-02;Name=Dcitr03g20370.1.1;date_creation=2020-03-02
-DC3.0sc03	.	mRNA	45195326	45201665	.	-	.	owner=psh65@cornell.edu;Parent=0f8a9f79-885e-44c3-ae3f-c187b2dcc5cd;ID=3be5d5da-d29c-4332-882e-02937612ad48;date_last_modified=2020-03-02;Name=Dcitr03g20370.1.1-00001;date_creation=2020-03-02
-DC3.0sc03	.	exon	45196428	45196587	.	-	.	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=07af1a7c-d688-4dd0-967b-35fcc6b851ee;Name=07af1a7c-d688-4dd0-967b-35fcc6b851ee
-DC3.0sc03	.	exon	45195326	45195329	.	-	.	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=9ec321cb-acda-4048-8879-c9189e8302db;Name=9ec321cb-acda-4048-8879-c9189e8302db
-DC3.0sc03	.	exon	45200135	45200242	.	-	.	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=11dc1bc6-8059-40a5-9ecf-d8396f394f5a;Name=11dc1bc6-8059-40a5-9ecf-d8396f394f5a
-DC3.0sc03	.	exon	45197201	45197353	.	-	.	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=8c3aacc9-ecec-4fa4-b9e7-8fb90339871c;Name=8c3aacc9-ecec-4fa4-b9e7-8fb90339871c
-DC3.0sc03	.	exon	45198231	45198349	.	-	.	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=17f50378-9e32-4b57-8574-ba886b2fb9bc;Name=17f50378-9e32-4b57-8574-ba886b2fb9bc
-DC3.0sc03	.	exon	45200638	45200765	.	-	.	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=9cb2e27d-21ee-463e-a353-6073dd417915;Name=9cb2e27d-21ee-463e-a353-6073dd417915
-DC3.0sc03	.	exon	45195729	45195876	.	-	.	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=49e9c236-235d-48f2-8a45-ee0462483958;Name=49e9c236-235d-48f2-8a45-ee0462483958
-DC3.0sc03	.	exon	45199374	45199523	.	-	.	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=359433a4-d07f-4256-93e2-b352c6a79d21;Name=359433a4-d07f-4256-93e2-b352c6a79d21
-DC3.0sc03	.	CDS	45201535	45201665	.	-	0	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=7052cd0b-dfda-4ae8-b089-406eeb775948;Name=7052cd0b-dfda-4ae8-b089-406eeb775948
-DC3.0sc03	.	CDS	45200638	45200765	.	-	1	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=7052cd0b-dfda-4ae8-b089-406eeb775948;Name=7052cd0b-dfda-4ae8-b089-406eeb775948
-DC3.0sc03	.	CDS	45200135	45200242	.	-	2	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=7052cd0b-dfda-4ae8-b089-406eeb775948;Name=7052cd0b-dfda-4ae8-b089-406eeb775948
-DC3.0sc03	.	CDS	45199374	45199523	.	-	2	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=7052cd0b-dfda-4ae8-b089-406eeb775948;Name=7052cd0b-dfda-4ae8-b089-406eeb775948
-DC3.0sc03	.	CDS	45198231	45198349	.	-	2	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=7052cd0b-dfda-4ae8-b089-406eeb775948;Name=7052cd0b-dfda-4ae8-b089-406eeb775948
-DC3.0sc03	.	CDS	45197201	45197353	.	-	0	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=7052cd0b-dfda-4ae8-b089-406eeb775948;Name=7052cd0b-dfda-4ae8-b089-406eeb775948
-DC3.0sc03	.	CDS	45196428	45196587	.	-	0	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=7052cd0b-dfda-4ae8-b089-406eeb775948;Name=7052cd0b-dfda-4ae8-b089-406eeb775948
-DC3.0sc03	.	CDS	45195729	45195876	.	-	2	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=7052cd0b-dfda-4ae8-b089-406eeb775948;Name=7052cd0b-dfda-4ae8-b089-406eeb775948
-DC3.0sc03	.	CDS	45195326	45195329	.	-	1	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=7052cd0b-dfda-4ae8-b089-406eeb775948;Name=7052cd0b-dfda-4ae8-b089-406eeb775948
-DC3.0sc03	.	exon	45201535	45201665	.	-	.	Parent=3be5d5da-d29c-4332-882e-02937612ad48;ID=86509c7d-db2d-4d06-9800-94a5c7e170a1;Name=86509c7d-db2d-4d06-9800-94a5c7e170a1
-###
-DC3.0sc03	.	gene	2371929	2375293	.	-	.	owner=psh65@cornell.edu;ID=b47be093-e184-47c7-bec7-d18c4baaf50d;date_last_modified=2020-03-11;Name=Dcitr03g01610.1.1;date_creation=2020-03-02
-DC3.0sc03	.	mRNA	2371929	2375293	.	-	.	owner=psh65@cornell.edu;Parent=b47be093-e184-47c7-bec7-d18c4baaf50d;ID=c21312fc-c8ca-46fc-be9d-d88ae1f84734;date_last_modified=2020-03-02;Name=Dcitr03g01610.1.1;date_creation=2020-03-02
-DC3.0sc03	.	exon	2371929	2373285	.	-	.	Parent=c21312fc-c8ca-46fc-be9d-d88ae1f84734;ID=4d87632a-7f99-4d9e-81b4-4c12a8ea2ebe;Name=4d87632a-7f99-4d9e-81b4-4c12a8ea2ebe
-DC3.0sc03	.	CDS	2375109	2375176	.	-	0	Parent=c21312fc-c8ca-46fc-be9d-d88ae1f84734;ID=cbfed4bf-6a1d-4ad6-92ff-ce42c840479a;Name=cbfed4bf-6a1d-4ad6-92ff-ce42c840479a
-DC3.0sc03	.	CDS	2374197	2374404	.	-	1	Parent=c21312fc-c8ca-46fc-be9d-d88ae1f84734;ID=cbfed4bf-6a1d-4ad6-92ff-ce42c840479a;Name=cbfed4bf-6a1d-4ad6-92ff-ce42c840479a
-DC3.0sc03	.	CDS	2372422	2373285	.	-	0	Parent=c21312fc-c8ca-46fc-be9d-d88ae1f84734;ID=cbfed4bf-6a1d-4ad6-92ff-ce42c840479a;Name=cbfed4bf-6a1d-4ad6-92ff-ce42c840479a
-DC3.0sc03	.	exon	2374197	2374404	.	-	.	Parent=c21312fc-c8ca-46fc-be9d-d88ae1f84734;ID=8b9939bc-afa3-49d1-b346-3a2b264b5f4a;Name=8b9939bc-afa3-49d1-b346-3a2b264b5f4a
-DC3.0sc03	.	exon	2375109	2375293	.	-	.	Parent=c21312fc-c8ca-46fc-be9d-d88ae1f84734;ID=5d2cb7ad-94ef-43a7-aa39-6cb2918cd2fa;Name=5d2cb7ad-94ef-43a7-aa39-6cb2918cd2fa
-###
-DC3.0sc03	.	gene	2340228	2369063	.	+	.	owner=cc2589@cornell.edu;ID=42cab0c8-c805-44fb-8ff4-24b0921414e8;date_last_modified=2020-03-11;Name=Dcitr03g01600.1.1;date_creation=2020-03-05
-DC3.0sc03	.	mRNA	2340228	2369063	.	+	.	owner=cc2589@cornell.edu;Parent=42cab0c8-c805-44fb-8ff4-24b0921414e8;description=nephrin-like [Nilaparvata lugens];ID=6edb3cfb-4de8-484c-a498-286c4751472d;date_last_modified=2020-03-11;Name=Dcitr03g01600.1.1;date_creation=2020-03-05
-DC3.0sc03	.	exon	2340228	2340652	.	+	.	Parent=6edb3cfb-4de8-484c-a498-286c4751472d;ID=e63e3f46-a554-48c6-a679-30777339820e;Name=e63e3f46-a554-48c6-a679-30777339820e
-DC3.0sc03	.	exon	2363405	2363549	.	+	.	Parent=6edb3cfb-4de8-484c-a498-286c4751472d;ID=1168a390-6853-47be-909d-f4fe9439db86;Name=1168a390-6853-47be-909d-f4fe9439db86
-DC3.0sc03	.	exon	2346123	2346299	.	+	.	Parent=6edb3cfb-4de8-484c-a498-286c4751472d;ID=bafde898-f69c-4714-bbe0-2fa8eab30f17;Name=bafde898-f69c-4714-bbe0-2fa8eab30f17
-DC3.0sc03	.	exon	2368836	2369063	.	+	.	Parent=6edb3cfb-4de8-484c-a498-286c4751472d;ID=55e3c63a-9730-4aa6-949e-bd948dcd400e;Name=55e3c63a-9730-4aa6-949e-bd948dcd400e
-DC3.0sc03	.	exon	2365467	2365597	.	+	.	Parent=6edb3cfb-4de8-484c-a498-286c4751472d;ID=a5dd1e0e-1436-4692-a120-e02a390dc4a3;Name=a5dd1e0e-1436-4692-a120-e02a390dc4a3
-DC3.0sc03	.	exon	2366689	2366982	.	+	.	Parent=6edb3cfb-4de8-484c-a498-286c4751472d;ID=1f9f7c4c-e7e5-4c01-8dcd-a48b98a26361;Name=1f9f7c4c-e7e5-4c01-8dcd-a48b98a26361
-DC3.0sc03	.	exon	2366158	2366317	.	+	.	Parent=6edb3cfb-4de8-484c-a498-286c4751472d;ID=457b7746-f856-493c-be72-16f2fe215412;Name=457b7746-f856-493c-be72-16f2fe215412
-DC3.0sc03	.	exon	2362616	2362776	.	+	.	Parent=6edb3cfb-4de8-484c-a498-286c4751472d;ID=6317633c-5bfa-457f-b541-8424ab752eff;Name=6317633c-5bfa-457f-b541-8424ab752eff
-DC3.0sc03	.	CDS	2340229	2340652	.	+	0	Parent=6edb3cfb-4de8-484c-a498-286c4751472d;ID=c1c07acb-939b-4b29-9488-4c8c4610aece;Name=c1c07acb-939b-4b29-9488-4c8c4610aece
-DC3.0sc03	.	CDS	2346123	2346299	.	+	2	Parent=6edb3cfb-4de8-484c-a498-286c4751472d;ID=c1c07acb-939b-4b29-9488-4c8c4610aece;Name=c1c07acb-939b-4b29-9488-4c8c4610aece
-DC3.0sc03	.	CDS	2362616	2362776	.	+	2	Parent=6edb3cfb-4de8-484c-a498-286c4751472d;ID=c1c07acb-939b-4b29-9488-4c8c4610aece;Name=c1c07acb-939b-4b29-9488-4c8c4610aece
-DC3.0sc03	.	CDS	2363405	2363549	.	+	0	Parent=6edb3cfb-4de8-484c-a498-286c4751472d;ID=c1c07acb-939b-4b29-9488-4c8c4610aece;Name=c1c07acb-939b-4b29-9488-4c8c4610aece
-DC3.0sc03	.	CDS	2365467	2365597	.	+	2	Parent=6edb3cfb-4de8-484c-a498-286c4751472d;ID=c1c07acb-939b-4b29-9488-4c8c4610aece;Name=c1c07acb-939b-4b29-9488-4c8c4610aece
-DC3.0sc03	.	CDS	2366158	2366317	.	+	0	Parent=6edb3cfb-4de8-484c-a498-286c4751472d;ID=c1c07acb-939b-4b29-9488-4c8c4610aece;Name=c1c07acb-939b-4b29-9488-4c8c4610aece
-DC3.0sc03	.	CDS	2366689	2366982	.	+	2	Parent=6edb3cfb-4de8-484c-a498-286c4751472d;ID=c1c07acb-939b-4b29-9488-4c8c4610aece;Name=c1c07acb-939b-4b29-9488-4c8c4610aece
-DC3.0sc03	.	CDS	2368836	2369063	.	+	2	Parent=6edb3cfb-4de8-484c-a498-286c4751472d;ID=c1c07acb-939b-4b29-9488-4c8c4610aece;Name=c1c07acb-939b-4b29-9488-4c8c4610aece
-###
-DC3.0sc03	.	gene	2376448	2379374	.	-	.	owner=cc2589@cornell.edu;ID=924ddeff-81a3-457e-98a4-7e325eb03dbf;date_last_modified=2020-03-09;Name=Dcitr03g01620.1.1;date_creation=2020-03-09
-DC3.0sc03	.	mRNA	2376448	2379374	.	-	.	owner=cc2589@cornell.edu;Parent=924ddeff-81a3-457e-98a4-7e325eb03dbf;description=cuticle protein;ID=46d99950-ab92-4e92-8975-41298e54436e;date_last_modified=2020-03-09;Name=Dcitr03g01620.1.1;date_creation=2020-03-09
-DC3.0sc03	.	exon	2376448	2377473	.	-	.	Parent=46d99950-ab92-4e92-8975-41298e54436e;ID=abc5aca9-179f-49fa-ad6c-9f25fdb7c8cf;Name=abc5aca9-179f-49fa-ad6c-9f25fdb7c8cf
-DC3.0sc03	.	CDS	2379279	2379374	.	-	0	Parent=46d99950-ab92-4e92-8975-41298e54436e;ID=c28ba34b-96f0-4da7-9456-bf250509ca87;Name=c28ba34b-96f0-4da7-9456-bf250509ca87
-DC3.0sc03	.	CDS	2378449	2378758	.	-	0	Parent=46d99950-ab92-4e92-8975-41298e54436e;ID=c28ba34b-96f0-4da7-9456-bf250509ca87;Name=c28ba34b-96f0-4da7-9456-bf250509ca87
-DC3.0sc03	.	CDS	2377439	2377473	.	-	2	Parent=46d99950-ab92-4e92-8975-41298e54436e;ID=c28ba34b-96f0-4da7-9456-bf250509ca87;Name=c28ba34b-96f0-4da7-9456-bf250509ca87
-DC3.0sc03	.	exon	2378449	2378758	.	-	.	Parent=46d99950-ab92-4e92-8975-41298e54436e;ID=b6703db6-8d94-44a3-8e93-a622433d3cc2;Name=b6703db6-8d94-44a3-8e93-a622433d3cc2
-DC3.0sc03	.	exon	2379279	2379374	.	-	.	Parent=46d99950-ab92-4e92-8975-41298e54436e;ID=c73928da-0306-471a-a84a-63510716945e;Name=c73928da-0306-471a-a84a-63510716945e
-###
-DC3.0sc03	.	gene	2387936	2397440	.	+	.	owner=cc2589@cornell.edu;ID=58c1e64d-9e80-41c6-baf7-9e3982ff8695;date_last_modified=2020-03-12;Name=Dcitr03g01630.1.1;date_creation=2020-03-09
-DC3.0sc03	.	mRNA	2387936	2397440	.	+	.	owner=psh65@cornell.edu;Parent=58c1e64d-9e80-41c6-baf7-9e3982ff8695;ID=2c416011-ecd7-452d-8cf3-16cc6a99c1b5;date_last_modified=2020-03-12;Name=Dcitr03g01630.1.1-00001;date_creation=2020-03-12
-DC3.0sc03	.	exon	2389663	2390906	.	+	.	Parent=2c416011-ecd7-452d-8cf3-16cc6a99c1b5;ID=d6a339ff-3683-485e-802a-8775b7aa9736;Name=d6a339ff-3683-485e-802a-8775b7aa9736
-DC3.0sc03	.	exon	2397096	2397440	.	+	.	Parent=2c416011-ecd7-452d-8cf3-16cc6a99c1b5;ID=5ee40dd5-71b7-4519-a7e0-92485ef833ea;Name=5ee40dd5-71b7-4519-a7e0-92485ef833ea
-DC3.0sc03	.	exon	2387936	2388107	.	+	.	Parent=2c416011-ecd7-452d-8cf3-16cc6a99c1b5;ID=ea88aa2e-ba02-43fe-aaec-c8e5673cf8d3;Name=ea88aa2e-ba02-43fe-aaec-c8e5673cf8d3
-DC3.0sc03	.	exon	2388784	2388991	.	+	.	Parent=2c416011-ecd7-452d-8cf3-16cc6a99c1b5;ID=14f5dc9e-36a6-4a1b-937e-dc1c3caebc4a;Name=14f5dc9e-36a6-4a1b-937e-dc1c3caebc4a
-DC3.0sc03	.	exon	2395011	2395246	.	+	.	Parent=2c416011-ecd7-452d-8cf3-16cc6a99c1b5;ID=c6a8aab2-5ce3-4e3b-8268-78d8780a6eb3;Name=c6a8aab2-5ce3-4e3b-8268-78d8780a6eb3
-DC3.0sc03	.	CDS	2388040	2388107	.	+	0	Parent=2c416011-ecd7-452d-8cf3-16cc6a99c1b5;ID=2c416011-ecd7-452d-8cf3-16cc6a99c1b5-CDS;Name=2c416011-ecd7-452d-8cf3-16cc6a99c1b5-CDS
-DC3.0sc03	.	CDS	2388784	2388991	.	+	1	Parent=2c416011-ecd7-452d-8cf3-16cc6a99c1b5;ID=2c416011-ecd7-452d-8cf3-16cc6a99c1b5-CDS;Name=2c416011-ecd7-452d-8cf3-16cc6a99c1b5-CDS
-DC3.0sc03	.	CDS	2389663	2390421	.	+	0	Parent=2c416011-ecd7-452d-8cf3-16cc6a99c1b5;ID=2c416011-ecd7-452d-8cf3-16cc6a99c1b5-CDS;Name=2c416011-ecd7-452d-8cf3-16cc6a99c1b5-CDS
-DC3.0sc03	.	exon	2391671	2391858	.	+	.	Parent=2c416011-ecd7-452d-8cf3-16cc6a99c1b5;ID=9bc3958d-652a-47fe-abbd-981051874203;Name=9bc3958d-652a-47fe-abbd-981051874203
-###
-DC3.0sc03	.	gene	2391879	2430154	.	-	.	owner=cc2589@cornell.edu;ID=d7cdcb32-e584-411b-9a05-0d27985a3f0a;date_last_modified=2020-03-12;Name=Dcitr03g01640.1.1;date_creation=2020-03-11
-DC3.0sc03	.	mRNA	2391879	2430154	.	-	.	owner=cc2589@cornell.edu;Parent=d7cdcb32-e584-411b-9a05-0d27985a3f0a;ID=3e869bd9-2441-4978-83bf-d7ac527a27a7;date_last_modified=2020-03-12;Name=Dcitr03g01640.1.1;date_creation=2020-03-11
-DC3.0sc03	.	CDS	2430077	2430154	.	-	0	Parent=3e869bd9-2441-4978-83bf-d7ac527a27a7;ID=49ec2256-0c5b-458f-ba40-305805344866;Name=49ec2256-0c5b-458f-ba40-305805344866
-DC3.0sc03	.	CDS	2428906	2429295	.	-	0	Parent=3e869bd9-2441-4978-83bf-d7ac527a27a7;ID=49ec2256-0c5b-458f-ba40-305805344866;Name=49ec2256-0c5b-458f-ba40-305805344866
-DC3.0sc03	.	CDS	2400730	2400873	.	-	0	Parent=3e869bd9-2441-4978-83bf-d7ac527a27a7;ID=49ec2256-0c5b-458f-ba40-305805344866;Name=49ec2256-0c5b-458f-ba40-305805344866
-DC3.0sc03	.	CDS	2398502	2398512	.	-	0	Parent=3e869bd9-2441-4978-83bf-d7ac527a27a7;ID=49ec2256-0c5b-458f-ba40-305805344866;Name=49ec2256-0c5b-458f-ba40-305805344866
-DC3.0sc03	.	CDS	2395113	2395269	.	-	1	Parent=3e869bd9-2441-4978-83bf-d7ac527a27a7;ID=49ec2256-0c5b-458f-ba40-305805344866;Name=49ec2256-0c5b-458f-ba40-305805344866
-DC3.0sc03	.	exon	2395045	2395269	.	-	.	Parent=3e869bd9-2441-4978-83bf-d7ac527a27a7;ID=3830d44d-1b1d-4118-bf51-8a2ff4a18a80;Name=3830d44d-1b1d-4118-bf51-8a2ff4a18a80
-DC3.0sc03	.	exon	2430077	2430154	.	-	.	Parent=3e869bd9-2441-4978-83bf-d7ac527a27a7;ID=97bc9048-83f8-4e5d-a9c2-cd2185573d19;Name=97bc9048-83f8-4e5d-a9c2-cd2185573d19
-DC3.0sc03	.	exon	2400730	2400873	.	-	.	Parent=3e869bd9-2441-4978-83bf-d7ac527a27a7;ID=280f1a08-ce2b-4d61-9cda-65298a832933;Name=280f1a08-ce2b-4d61-9cda-65298a832933
-DC3.0sc03	.	exon	2428906	2429295	.	-	.	Parent=3e869bd9-2441-4978-83bf-d7ac527a27a7;ID=5bdaa596-4e34-492e-9595-88ff3d929e8e;Name=5bdaa596-4e34-492e-9595-88ff3d929e8e
-DC3.0sc03	.	exon	2394461	2394492	.	-	.	Parent=3e869bd9-2441-4978-83bf-d7ac527a27a7;ID=3a665bfb-b945-4804-84ed-c1de29d6b988;Name=3a665bfb-b945-4804-84ed-c1de29d6b988
-DC3.0sc03	.	exon	2391879	2391899	.	-	.	Parent=3e869bd9-2441-4978-83bf-d7ac527a27a7;ID=ead92164-9c76-4d18-b435-042ed798011c;Name=ead92164-9c76-4d18-b435-042ed798011c
-DC3.0sc03	.	exon	2398502	2398512	.	-	.	Parent=3e869bd9-2441-4978-83bf-d7ac527a27a7;ID=3cedb3d1-cd6e-4764-b398-0afc79a1a73a;Name=3cedb3d1-cd6e-4764-b398-0afc79a1a73a
-###
-DC3.0sc03	.	gene	2394157	2398140	.	+	.	owner=cc2589@cornell.edu;ID=e826b97c-0e6a-42cb-b4ef-347c966230e9;date_last_modified=2020-03-11;Name=Dcitr03g01650.1.1;date_creation=2020-03-11
-DC3.0sc03	.	mRNA	2394157	2398140	.	+	.	owner=cc2589@cornell.edu;Parent=e826b97c-0e6a-42cb-b4ef-347c966230e9;ID=37f60dcf-ea05-4496-8b36-3f5f89fea19c;date_last_modified=2020-03-12;Name=Dcitr03g01650.1.1;date_creation=2020-03-11
-DC3.0sc03	.	CDS	2394157	2394205	.	+	0	Parent=37f60dcf-ea05-4496-8b36-3f5f89fea19c;ID=4dbbddf0-e49c-41fe-83c4-3d5a2faf965f;Name=4dbbddf0-e49c-41fe-83c4-3d5a2faf965f
-DC3.0sc03	.	CDS	2395087	2395246	.	+	2	Parent=37f60dcf-ea05-4496-8b36-3f5f89fea19c;ID=4dbbddf0-e49c-41fe-83c4-3d5a2faf965f;Name=4dbbddf0-e49c-41fe-83c4-3d5a2faf965f
-DC3.0sc03	.	CDS	2397096	2397177	.	+	1	Parent=37f60dcf-ea05-4496-8b36-3f5f89fea19c;ID=4dbbddf0-e49c-41fe-83c4-3d5a2faf965f;Name=4dbbddf0-e49c-41fe-83c4-3d5a2faf965f
-DC3.0sc03	.	exon	2397096	2397402	.	+	.	Parent=37f60dcf-ea05-4496-8b36-3f5f89fea19c;ID=85ff4d4b-19c0-4063-9d65-53c6601e6539;Name=85ff4d4b-19c0-4063-9d65-53c6601e6539
-DC3.0sc03	.	exon	2395087	2395246	.	+	.	Parent=37f60dcf-ea05-4496-8b36-3f5f89fea19c;ID=0e91d21e-cd7b-47e0-87b0-8dd4b0b03674;Name=0e91d21e-cd7b-47e0-87b0-8dd4b0b03674
-DC3.0sc03	.	exon	2397787	2398140	.	+	.	Parent=37f60dcf-ea05-4496-8b36-3f5f89fea19c;ID=dd0676df-3ab1-40d3-8ba7-3b5f1ec8b663;Name=dd0676df-3ab1-40d3-8ba7-3b5f1ec8b663
-DC3.0sc03	.	exon	2394157	2394205	.	+	.	Parent=37f60dcf-ea05-4496-8b36-3f5f89fea19c;ID=1439dd2e-9fb1-4cd9-bba7-5e6295af0585;Name=1439dd2e-9fb1-4cd9-bba7-5e6295af0585
-###
-DC3.0sc03	.	gene	2459474	2538588	.	-	.	owner=cc2589@cornell.edu;ID=382f5566-604f-4466-9061-9e3ba1c22e39;date_last_modified=2020-03-12;Name=Dcitr03g01660.1.1;date_creation=2020-03-12
-DC3.0sc03	.	mRNA	2459474	2538588	.	-	.	owner=cc2589@cornell.edu;Parent=382f5566-604f-4466-9061-9e3ba1c22e39;ID=5127f86d-fe4c-4925-970a-4679ab7b870e;date_last_modified=2020-03-12;Name=Dcitr03g01660.1.2;date_creation=2020-03-12
-DC3.0sc03	.	exon	2538439	2538588	.	-	.	Parent=5127f86d-fe4c-4925-970a-4679ab7b870e;ID=8d258bab-dc83-47fd-8426-266563cbd236;Name=8d258bab-dc83-47fd-8426-266563cbd236
-DC3.0sc03	.	exon	2460700	2461185	.	-	.	Parent=5127f86d-fe4c-4925-970a-4679ab7b870e;ID=78fab129-0e9e-4239-961f-d1203b6fd7ee;Name=78fab129-0e9e-4239-961f-d1203b6fd7ee
-DC3.0sc03	.	CDS	2538439	2538588	.	-	0	Parent=5127f86d-fe4c-4925-970a-4679ab7b870e;ID=8f65ef22-5527-4933-82c0-ce8c1cf7dfa2;Name=8f65ef22-5527-4933-82c0-ce8c1cf7dfa2
-DC3.0sc03	.	CDS	2460700	2461185	.	-	0	Parent=5127f86d-fe4c-4925-970a-4679ab7b870e;ID=8f65ef22-5527-4933-82c0-ce8c1cf7dfa2;Name=8f65ef22-5527-4933-82c0-ce8c1cf7dfa2
-DC3.0sc03	.	CDS	2459474	2460325	.	-	0	Parent=5127f86d-fe4c-4925-970a-4679ab7b870e;ID=8f65ef22-5527-4933-82c0-ce8c1cf7dfa2;Name=8f65ef22-5527-4933-82c0-ce8c1cf7dfa2
-DC3.0sc03	.	exon	2459474	2460325	.	-	.	Parent=5127f86d-fe4c-4925-970a-4679ab7b870e;ID=076f7e71-e4a6-43eb-9338-5bf3476dbf32;Name=076f7e71-e4a6-43eb-9338-5bf3476dbf32
-DC3.0sc03	.	mRNA	2459474	2460978	.	-	.	owner=cc2589@cornell.edu;Parent=382f5566-604f-4466-9061-9e3ba1c22e39;ID=c69ba698-0c30-47b9-8678-6643c28cdd30;date_last_modified=2020-03-12;Name=Dcitr03g01660.1.1;date_creation=2020-03-12
-DC3.0sc03	.	exon	2459474	2460325	.	-	.	Parent=c69ba698-0c30-47b9-8678-6643c28cdd30;ID=189ebf1e-dbfc-464f-8ede-7db6bb41469f;Name=189ebf1e-dbfc-464f-8ede-7db6bb41469f
-DC3.0sc03	.	exon	2460700	2460978	.	-	.	Parent=c69ba698-0c30-47b9-8678-6643c28cdd30;ID=91806d21-494e-41f3-9093-b70c2ef7f4d9;Name=91806d21-494e-41f3-9093-b70c2ef7f4d9
-DC3.0sc03	.	CDS	2460700	2460978	.	-	0	Parent=c69ba698-0c30-47b9-8678-6643c28cdd30;ID=e20e22c9-26ca-4ffb-9aeb-0606ac215a46;Name=e20e22c9-26ca-4ffb-9aeb-0606ac215a46
-DC3.0sc03	.	CDS	2459474	2460325	.	-	0	Parent=c69ba698-0c30-47b9-8678-6643c28cdd30;ID=e20e22c9-26ca-4ffb-9aeb-0606ac215a46;Name=e20e22c9-26ca-4ffb-9aeb-0606ac215a46
-###
-DC3.0sc03	.	gene	2489050	2490585	.	+	.	owner=cc2589@cornell.edu;ID=c574a2b0-9aa4-4b8d-8701-5003049ecf8d;date_last_modified=2020-03-12;Name=Dcitr03g01670.1.1;date_creation=2020-03-12
-DC3.0sc03	.	mRNA	2489050	2490585	.	+	.	owner=cc2589@cornell.edu;Parent=c574a2b0-9aa4-4b8d-8701-5003049ecf8d;ID=95e31542-b8fb-4adf-ac96-bf272b4eade1;date_last_modified=2020-03-12;Name=Dcitr03g01670.1.1;date_creation=2020-03-12
-DC3.0sc03	.	exon	2489050	2489533	.	+	.	Parent=95e31542-b8fb-4adf-ac96-bf272b4eade1;ID=2fb5c21a-36d2-4c2f-86ab-9f2dffeec848;Name=2fb5c21a-36d2-4c2f-86ab-9f2dffeec848
-DC3.0sc03	.	exon	2489898	2490585	.	+	.	Parent=95e31542-b8fb-4adf-ac96-bf272b4eade1;ID=ea8bd9e6-37c0-47a5-bb7c-3bba4f29162f;Name=ea8bd9e6-37c0-47a5-bb7c-3bba4f29162f
-DC3.0sc03	.	CDS	2489051	2489533	.	+	0	Parent=95e31542-b8fb-4adf-ac96-bf272b4eade1;ID=9c7e2acc-ec42-44bd-ab03-75f6be6d2ccf;Name=9c7e2acc-ec42-44bd-ab03-75f6be6d2ccf
-DC3.0sc03	.	CDS	2489898	2490326	.	+	0	Parent=95e31542-b8fb-4adf-ac96-bf272b4eade1;ID=9c7e2acc-ec42-44bd-ab03-75f6be6d2ccf;Name=9c7e2acc-ec42-44bd-ab03-75f6be6d2ccf
-###
-DC3.0sc03	.	gene	2545148	2597751	.	-	.	owner=cc2589@cornell.edu;ID=8d4e7000-e124-459f-8f74-6037f328b7e1;date_last_modified=2020-03-12;Name=Dcitr03g01680.1.1;date_creation=2020-03-12
-DC3.0sc03	.	mRNA	2545148	2597751	.	-	.	owner=cc2589@cornell.edu;Parent=8d4e7000-e124-459f-8f74-6037f328b7e1;ID=6f21d643-a9a0-42ba-b80e-b6adf9af6d60;date_last_modified=2020-03-12;Name=Dcitr03g01680.1.1;date_creation=2020-03-12
-DC3.0sc03	.	CDS	2597682	2597751	.	-	0	Parent=6f21d643-a9a0-42ba-b80e-b6adf9af6d60;ID=c0f11efb-a324-438b-b5e9-d226801f7fab;Name=c0f11efb-a324-438b-b5e9-d226801f7fab
-DC3.0sc03	.	CDS	2547538	2547619	.	-	2	Parent=6f21d643-a9a0-42ba-b80e-b6adf9af6d60;ID=c0f11efb-a324-438b-b5e9-d226801f7fab;Name=c0f11efb-a324-438b-b5e9-d226801f7fab
-DC3.0sc03	.	CDS	2545148	2545166	.	-	1	Parent=6f21d643-a9a0-42ba-b80e-b6adf9af6d60;ID=c0f11efb-a324-438b-b5e9-d226801f7fab;Name=c0f11efb-a324-438b-b5e9-d226801f7fab
-DC3.0sc03	.	exon	2545148	2545166	.	-	.	Parent=6f21d643-a9a0-42ba-b80e-b6adf9af6d60;ID=99bb4bc7-e56d-4d4d-8de0-d330c78b5c4c;Name=99bb4bc7-e56d-4d4d-8de0-d330c78b5c4c
-DC3.0sc03	.	exon	2547538	2547619	.	-	.	Parent=6f21d643-a9a0-42ba-b80e-b6adf9af6d60;ID=bd0788aa-1a11-445b-ac73-5adcdec6f706;Name=bd0788aa-1a11-445b-ac73-5adcdec6f706
-DC3.0sc03	.	exon	2597682	2597751	.	-	.	Parent=6f21d643-a9a0-42ba-b80e-b6adf9af6d60;ID=d1f1a192-7338-4eb0-af53-7df6ac859195;Name=d1f1a192-7338-4eb0-af53-7df6ac859195
-###
-DC3.0sc03	.	gene	2680767	2682137	.	+	.	owner=cc2589@cornell.edu;ID=6d8f6b74-73ff-4526-859f-355d9b34e1f3;date_last_modified=2020-03-12;Name=Dcitr03g01690.1.1;date_creation=2020-03-12
-DC3.0sc03	.	mRNA	2680767	2682137	.	+	.	owner=cc2589@cornell.edu;Parent=6d8f6b74-73ff-4526-859f-355d9b34e1f3;ID=18b059fe-5c9d-48f4-84b5-e490d3dd9b03;date_last_modified=2020-03-12;Name=Dcitr03g01690.1.1-00001;date_creation=2020-03-12
-DC3.0sc03	.	exon	2680767	2682137	.	+	.	Parent=18b059fe-5c9d-48f4-84b5-e490d3dd9b03;ID=055e550a-c677-4965-ba9f-8ecada955e23;Name=055e550a-c677-4965-ba9f-8ecada955e23
-DC3.0sc03	.	CDS	2680767	2682137	.	+	0	Parent=18b059fe-5c9d-48f4-84b5-e490d3dd9b03;ID=7994a23e-646d-4fe9-a108-a982c2a4962a;Name=7994a23e-646d-4fe9-a108-a982c2a4962a
-###
-DC3.0sc03	.	gene	2383857	2386821	.	+	.	owner=psh65@cornell.edu;ID=cf95a167-0a8c-42d0-b33f-d7d1b231cf2d;date_last_modified=2020-03-12;Name=c1333705/f1p0/1432;date_creation=2020-03-12
-DC3.0sc03	.	mRNA	2383857	2386821	.	+	.	owner=psh65@cornell.edu;Parent=cf95a167-0a8c-42d0-b33f-d7d1b231cf2d;ID=af1ac381-7109-480a-9eb0-b2777ef8785e;date_last_modified=2020-03-12;Name=c1333705/f1p0/1432-00001;date_creation=2020-03-12
-DC3.0sc03	.	exon	2384616	2384925	.	+	.	Parent=af1ac381-7109-480a-9eb0-b2777ef8785e;ID=61773d17-3e85-4ef5-b72a-87bdb009f1af;Name=61773d17-3e85-4ef5-b72a-87bdb009f1af
-DC3.0sc03	.	exon	2385811	2386821	.	+	.	Parent=af1ac381-7109-480a-9eb0-b2777ef8785e;ID=c650be7c-65e1-475f-a753-d05d380d0709;Name=c650be7c-65e1-475f-a753-d05d380d0709
-DC3.0sc03	.	CDS	2384064	2384078	.	+	0	Parent=af1ac381-7109-480a-9eb0-b2777ef8785e;ID=af1ac381-7109-480a-9eb0-b2777ef8785e-CDS;Name=af1ac381-7109-480a-9eb0-b2777ef8785e-CDS
-DC3.0sc03	.	CDS	2384616	2384925	.	+	0	Parent=af1ac381-7109-480a-9eb0-b2777ef8785e;ID=af1ac381-7109-480a-9eb0-b2777ef8785e-CDS;Name=af1ac381-7109-480a-9eb0-b2777ef8785e-CDS
-DC3.0sc03	.	CDS	2385811	2385845	.	+	2	Parent=af1ac381-7109-480a-9eb0-b2777ef8785e;ID=af1ac381-7109-480a-9eb0-b2777ef8785e-CDS;Name=af1ac381-7109-480a-9eb0-b2777ef8785e-CDS
-DC3.0sc03	.	exon	2383857	2384078	.	+	.	Parent=af1ac381-7109-480a-9eb0-b2777ef8785e;ID=df211c88-4353-4fcb-b3cf-5407d058b50f;Name=df211c88-4353-4fcb-b3cf-5407d058b50f
 ###
 ##sequence-region DC3.0sc09 1 26692117
 DC3.0sc09	.	gene	26643543	26651705	.	+	.	owner=wtank@ksu.edu;ID=3cbfb154-1bbd-45e1-b447-1ec8f15b43a7;date_last_modified=2020-02-25;Name=Regulatory particle non-ATPase 12;date_creation=2020-02-25
@@ -353,7 +214,7 @@ DC3.0sc01	.	non_canonical_five_prime_splice_site	6326997	6326997	.	+	.	Parent=8e
 ###
 ##sequence-region DC3.0sc08 1 28791834
 DC3.0sc08	.	gene	16219706	16232662	.	+	.	owner=wtank@ksu.edu;ID=60ab962d-1c1b-4015-a706-9a9afd5249f0;date_last_modified=2020-02-25;Name=E3 ubiquitin-protein ligase Bre1?;date_creation=2020-02-25
-DC3.0sc08	.	mRNA	16219706	16232662	.	+	.	owner=wtank@ksu.edu;Parent=60ab962d-1c1b-4015-a706-9a9afd5249f0;description=E3 ubiquitin-protein ligase Bre1?;ID=83d9025f-5487-4c17-bdd9-f88252933eff;date_last_modified=2020-02-25;Name=Dcitr08g07680.1.1;date_creation=2020-02-25
+DC3.0sc08	.	mRNA	16219706	16232662	.	+	.	owner=wtank@ksu.edu;Parent=60ab962d-1c1b-4015-a706-9a9afd5249f0;description=E3 ubiquitin-protein ligase Bre1;ID=83d9025f-5487-4c17-bdd9-f88252933eff;date_last_modified=2020-02-25;Name=Dcitr08g07680.1.1;date_creation=2020-02-25
 DC3.0sc08	.	exon	16224783	16224943	.	+	.	Parent=83d9025f-5487-4c17-bdd9-f88252933eff;ID=a153c0c0-7af9-442d-becd-86165d7bb511;Name=a153c0c0-7af9-442d-becd-86165d7bb511
 DC3.0sc08	.	exon	16221918	16222043	.	+	.	Parent=83d9025f-5487-4c17-bdd9-f88252933eff;ID=132fab63-4b82-408a-9ab3-9a4c1340081c;Name=132fab63-4b82-408a-9ab3-9a4c1340081c
 DC3.0sc08	.	exon	16221360	16221599	.	+	.	Parent=83d9025f-5487-4c17-bdd9-f88252933eff;ID=8cf73fae-7376-48ce-8a05-c9a67bd00dce;Name=8cf73fae-7376-48ce-8a05-c9a67bd00dce
@@ -402,7 +263,7 @@ DC3.0sc05	.	CDS	10183133	10183248	.	+	2	Parent=7d2cc418-5529-4644-ae22-b0892e4ef
 DC3.0sc05	.	exon	10181110	10181191	.	+	.	Parent=7d2cc418-5529-4644-ae22-b0892e4ef7e2;ID=b17e7ecd-5d4c-417e-a185-5f596e26bde7;Name=b17e7ecd-5d4c-417e-a185-5f596e26bde7
 ###
 DC3.0sc05	.	gene	34155181	34157872	.	+	.	owner=wtank@ksu.edu;ID=7d5d040d-2af4-4a29-b0f3-7e4c815e1975;date_last_modified=2020-02-27;Name=Proteasome ?6 subunit;date_creation=2020-02-27
-DC3.0sc05	.	mRNA	34155181	34157872	.	+	.	owner=wtank@ksu.edu;Parent=7d5d040d-2af4-4a29-b0f3-7e4c815e1975;description=Proteasome ?6 subunit;ID=92b93906-617c-4b36-ae34-39c3db487fdb;date_last_modified=2020-02-27;Name=Dcitr05g14710.1.1;date_creation=2020-02-27
+DC3.0sc05	.	mRNA	34155181	34157872	.	+	.	owner=wtank@ksu.edu;Parent=7d5d040d-2af4-4a29-b0f3-7e4c815e1975;description=Proteasome beta6 subunit;ID=92b93906-617c-4b36-ae34-39c3db487fdb;date_last_modified=2020-02-27;Name=Dcitr05g14710.1.1;date_creation=2020-02-27
 DC3.0sc05	.	exon	34155181	34155457	.	+	.	Parent=92b93906-617c-4b36-ae34-39c3db487fdb;ID=ec9bb158-c340-4426-9ec8-cc55767766c6;Name=ec9bb158-c340-4426-9ec8-cc55767766c6
 DC3.0sc05	.	CDS	34155384	34155457	.	+	0	Parent=92b93906-617c-4b36-ae34-39c3db487fdb;ID=c610c269-2adf-45a2-b669-05f2d895f696;Name=c610c269-2adf-45a2-b669-05f2d895f696
 DC3.0sc05	.	CDS	34155900	34156089	.	+	1	Parent=92b93906-617c-4b36-ae34-39c3db487fdb;ID=c610c269-2adf-45a2-b669-05f2d895f696;Name=c610c269-2adf-45a2-b669-05f2d895f696
@@ -411,33 +272,6 @@ DC3.0sc05	.	CDS	34157199	34157384	.	+	0	Parent=92b93906-617c-4b36-ae34-39c3db487
 DC3.0sc05	.	exon	34155900	34156089	.	+	.	Parent=92b93906-617c-4b36-ae34-39c3db487fdb;ID=844de9e1-0872-4b12-9ff9-7df8cbb216ab;Name=844de9e1-0872-4b12-9ff9-7df8cbb216ab
 DC3.0sc05	.	exon	34157199	34157872	.	+	.	Parent=92b93906-617c-4b36-ae34-39c3db487fdb;ID=6304ec40-c3e8-4f55-908e-bbabfe1a64a0;Name=6304ec40-c3e8-4f55-908e-bbabfe1a64a0
 DC3.0sc05	.	exon	34156596	34156832	.	+	.	Parent=92b93906-617c-4b36-ae34-39c3db487fdb;ID=6937613a-ff84-4033-8616-5e78eb210c25;Name=6937613a-ff84-4033-8616-5e78eb210c25
-###
-DC3.0sc05	.	gene	30252754	30300801	.	+	.	owner=adkinssc@mail.irsc.edu;ID=ed3d374b-4dc8-46e6-88b5-777f905a3e3c;date_last_modified=2020-03-09;Name=6-phosphogluconolactonase-partial;date_creation=2020-03-06
-DC3.0sc05	.	mRNA	30296902	30300768	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=ed3d374b-4dc8-46e6-88b5-777f905a3e3c;ID=73fc4828-b629-441b-b72f-8565c3697a16;date_last_modified=2020-03-06;Name=Dcitr05g12850.1.1-00001;date_creation=2020-03-06
-DC3.0sc05	.	exon	30298776	30298982	.	+	.	Parent=73fc4828-b629-441b-b72f-8565c3697a16;ID=b780b75c-963f-4484-a611-a71fde3179fe;Name=b780b75c-963f-4484-a611-a71fde3179fe
-DC3.0sc05	.	exon	30299444	30299757	.	+	.	Parent=73fc4828-b629-441b-b72f-8565c3697a16;ID=99975c6a-371e-4d3a-b557-7cb1849e82b4;Name=99975c6a-371e-4d3a-b557-7cb1849e82b4
-DC3.0sc05	.	exon	30300170	30300768	.	+	.	Parent=73fc4828-b629-441b-b72f-8565c3697a16;ID=59446205-7be0-4acd-b0f8-581d7bab9437;Name=59446205-7be0-4acd-b0f8-581d7bab9437
-DC3.0sc05	.	exon	30296902	30297248	.	+	.	Parent=73fc4828-b629-441b-b72f-8565c3697a16;ID=01b25c07-9baa-4fab-ab66-906149fdaf8a;Name=01b25c07-9baa-4fab-ab66-906149fdaf8a
-DC3.0sc05	.	CDS	30297104	30297248	.	+	0	Parent=73fc4828-b629-441b-b72f-8565c3697a16;ID=c7111b2f-0fa8-4a23-bf3b-bf209484fca4;Name=c7111b2f-0fa8-4a23-bf3b-bf209484fca4
-DC3.0sc05	.	CDS	30298776	30298982	.	+	2	Parent=73fc4828-b629-441b-b72f-8565c3697a16;ID=c7111b2f-0fa8-4a23-bf3b-bf209484fca4;Name=c7111b2f-0fa8-4a23-bf3b-bf209484fca4
-DC3.0sc05	.	CDS	30299444	30299757	.	+	2	Parent=73fc4828-b629-441b-b72f-8565c3697a16;ID=c7111b2f-0fa8-4a23-bf3b-bf209484fca4;Name=c7111b2f-0fa8-4a23-bf3b-bf209484fca4
-DC3.0sc05	.	CDS	30300170	30300379	.	+	0	Parent=73fc4828-b629-441b-b72f-8565c3697a16;ID=c7111b2f-0fa8-4a23-bf3b-bf209484fca4;Name=c7111b2f-0fa8-4a23-bf3b-bf209484fca4
-DC3.0sc05	.	mRNA	30252754	30300801	.	+	.	owner=adkinssc@mail.irsc.edu;Parent=ed3d374b-4dc8-46e6-88b5-777f905a3e3c;ID=2fd8432a-f1c0-4af3-a9db-c1aff51174cd;date_last_modified=2020-03-09;Name=6-phosphogluconolactonase-partial-00001;date_creation=2020-03-06
-DC3.0sc05	.	exon	30252754	30253179	.	+	.	Parent=2fd8432a-f1c0-4af3-a9db-c1aff51174cd;ID=6f164f70-95ac-4f00-84d5-5f80e45cb22d;Name=6f164f70-95ac-4f00-84d5-5f80e45cb22d
-DC3.0sc05	.	exon	30298776	30298982	.	+	.	Parent=2fd8432a-f1c0-4af3-a9db-c1aff51174cd;ID=f20afb19-e406-4874-b052-112cf73f224f;Name=f20afb19-e406-4874-b052-112cf73f224f
-DC3.0sc05	.	exon	30299444	30299757	.	+	.	Parent=2fd8432a-f1c0-4af3-a9db-c1aff51174cd;ID=83057b9b-a1d3-41d0-8f4c-27c593e81171;Name=83057b9b-a1d3-41d0-8f4c-27c593e81171
-DC3.0sc05	.	exon	30269601	30269761	.	+	.	Parent=2fd8432a-f1c0-4af3-a9db-c1aff51174cd;ID=e7996184-2240-4bb7-ba6f-bb3be56972ee;Name=e7996184-2240-4bb7-ba6f-bb3be56972ee
-DC3.0sc05	.	exon	30297144	30297248	.	+	.	Parent=2fd8432a-f1c0-4af3-a9db-c1aff51174cd;ID=2582f177-ded9-4118-a2d7-685d49597eb5;Name=2582f177-ded9-4118-a2d7-685d49597eb5
-DC3.0sc05	.	CDS	30268803	30269115	.	+	0	Parent=2fd8432a-f1c0-4af3-a9db-c1aff51174cd;ID=7b20b2ad-c5d1-4526-aab2-50c674badc52;Name=7b20b2ad-c5d1-4526-aab2-50c674badc52
-DC3.0sc05	.	CDS	30269252	30269339	.	+	2	Parent=2fd8432a-f1c0-4af3-a9db-c1aff51174cd;ID=7b20b2ad-c5d1-4526-aab2-50c674badc52;Name=7b20b2ad-c5d1-4526-aab2-50c674badc52
-DC3.0sc05	.	CDS	30269601	30269761	.	+	1	Parent=2fd8432a-f1c0-4af3-a9db-c1aff51174cd;ID=7b20b2ad-c5d1-4526-aab2-50c674badc52;Name=7b20b2ad-c5d1-4526-aab2-50c674badc52
-DC3.0sc05	.	CDS	30297144	30297248	.	+	2	Parent=2fd8432a-f1c0-4af3-a9db-c1aff51174cd;ID=7b20b2ad-c5d1-4526-aab2-50c674badc52;Name=7b20b2ad-c5d1-4526-aab2-50c674badc52
-DC3.0sc05	.	CDS	30298776	30298982	.	+	2	Parent=2fd8432a-f1c0-4af3-a9db-c1aff51174cd;ID=7b20b2ad-c5d1-4526-aab2-50c674badc52;Name=7b20b2ad-c5d1-4526-aab2-50c674badc52
-DC3.0sc05	.	CDS	30299444	30299757	.	+	2	Parent=2fd8432a-f1c0-4af3-a9db-c1aff51174cd;ID=7b20b2ad-c5d1-4526-aab2-50c674badc52;Name=7b20b2ad-c5d1-4526-aab2-50c674badc52
-DC3.0sc05	.	CDS	30300170	30300379	.	+	0	Parent=2fd8432a-f1c0-4af3-a9db-c1aff51174cd;ID=7b20b2ad-c5d1-4526-aab2-50c674badc52;Name=7b20b2ad-c5d1-4526-aab2-50c674badc52
-DC3.0sc05	.	exon	30269252	30269339	.	+	.	Parent=2fd8432a-f1c0-4af3-a9db-c1aff51174cd;ID=590b7ed1-bd0f-4ad7-bcf7-e3a186950b5e;Name=590b7ed1-bd0f-4ad7-bcf7-e3a186950b5e
-DC3.0sc05	.	exon	30300170	30300801	.	+	.	Parent=2fd8432a-f1c0-4af3-a9db-c1aff51174cd;ID=738d8ae6-05d7-4ebc-8598-7079fd662e35;Name=738d8ae6-05d7-4ebc-8598-7079fd662e35
-DC3.0sc05	.	exon	30268780	30269115	.	+	.	Parent=2fd8432a-f1c0-4af3-a9db-c1aff51174cd;ID=f566223e-31c1-4fff-a7c8-4bd8f75e1de1;Name=f566223e-31c1-4fff-a7c8-4bd8f75e1de1
 ###
 ##sequence-region DC3.0sc04 1 41041378
 DC3.0sc04	.	gene	31760478	31804401	.	-	.	owner=nwweis@ksu.edu;ID=f8e1e857-6ba8-48e8-b941-79b8e05bcff5;date_last_modified=2020-02-18;Name=histone deacetylase;date_creation=2020-02-17
@@ -509,7 +343,7 @@ DC3.0sc04	.	exon	26307580	26309422	.	-	.	Parent=3fe97277-d5ac-427c-917b-627b2a05
 DC3.0sc04	.	CDS	26307960	26309414	.	-	0	Parent=3fe97277-d5ac-427c-917b-627b2a0589ae;ID=8eee7b6f-c379-4c54-98e2-af49a221c44a;Name=8eee7b6f-c379-4c54-98e2-af49a221c44a
 ###
 DC3.0sc04	.	gene	32709214	32758675	.	-	.	owner=tamayoba@mail.irsc.edu;ID=f57b8b8b-c5c5-4488-81cb-fa7283932d72;date_last_modified=2020-03-31;Name=Dcitr04g14420.1.1;date_creation=2020-03-31
-DC3.0sc04	.	mRNA	32709214	32758675	.	-	.	owner=tamayoba@mail.irsc.edu;Parent=f57b8b8b-c5c5-4488-81cb-fa7283932d72;Note=Merged last exon from Denovo track,Adjusted second to last exon and shortened it to match evidence tracks,Contains CLECT superfamily domain,100% Query Coverage and 89-90% percent ID with B. tabaci%2C S. flava%2C N. lugens;description=C-Type Lectin 2;ID=b969c9ce-4aac-4525-ac04-89cd6a8fa47b;date_last_modified=2020-03-31;Name=Dcitr04g14420.1.1-00001;date_creation=2020-03-31
+DC3.0sc04	.	mRNA	32709214	32758675	.	-	.	owner=tamayoba@mail.irsc.edu;Parent=f57b8b8b-c5c5-4488-81cb-fa7283932d72;Note=Merged last exon from Denovo track,Adjusted second to last exon and shortened it to match evidence tracks,Contains CLECT superfamily domain,100% Query Coverage and 89-90% percent ID with B. tabaci%2C S. flava%2C N. lugens;description=C-Type Lectin 2;ID=b969c9ce-4aac-4525-ac04-89cd6a8fa47b;date_last_modified=2020-03-31;Name=Dcitr04g14420.1.1;date_creation=2020-03-31
 DC3.0sc04	.	exon	32758400	32758675	.	-	.	Parent=b969c9ce-4aac-4525-ac04-89cd6a8fa47b;ID=17533823-32a1-4093-ae4b-a013e959081c;Name=17533823-32a1-4093-ae4b-a013e959081c
 DC3.0sc04	.	exon	32712024	32712229	.	-	.	Parent=b969c9ce-4aac-4525-ac04-89cd6a8fa47b;ID=63ad4aee-e557-4235-bb15-79c24ed898a5;Name=63ad4aee-e557-4235-bb15-79c24ed898a5
 DC3.0sc04	.	exon	32717313	32717419	.	-	.	Parent=b969c9ce-4aac-4525-ac04-89cd6a8fa47b;ID=6abca202-8fe8-4d09-8342-53820387233c;Name=6abca202-8fe8-4d09-8342-53820387233c
