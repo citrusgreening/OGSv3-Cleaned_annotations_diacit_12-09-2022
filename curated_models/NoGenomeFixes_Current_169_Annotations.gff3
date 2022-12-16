@@ -241,24 +241,6 @@ DC3.0sc02	.	CDS	9548880	9548997	.	-	1	Parent=07c7e121-54f9-48df-ae94-e5837999019
 DC3.0sc02	.	exon	9553241	9553368	.	-	.	Parent=07c7e121-54f9-48df-ae94-e58379990196;ID=c217221c-4f61-41a3-bc3f-48720ae1452e;Name=c217221c-4f61-41a3-bc3f-48720ae1452e
 DC3.0sc02	.	exon	9549496	9549687	.	-	.	Parent=07c7e121-54f9-48df-ae94-e58379990196;ID=aa9bc9a7-ed9e-4e15-8fc3-adfc3fb18d20;Name=aa9bc9a7-ed9e-4e15-8fc3-adfc3fb18d20
 ###
-DC3.0sc02	.	gene	30588819	30593875	.	+	.	owner=wtank@ksu.edu;Note=Name under discussion CYP6KB1,;ID=6bc7cc93-7cdd-4823-80b2-d5042927d15f;date_last_modified=2020-05-20;Name=cytochrome P450 CYP6KB1,;date_creation=2020-05-19
-DC3.0sc02	.	mRNA	30588819	30593875	.	+	.	owner=wtank@ksu.edu;Parent=6bc7cc93-7cdd-4823-80b2-d5042927d15f;description=cytochrome P450 CYP6BD5;ID=cd544d11-fe23-4dcd-9d3a-72786e4f65fe;date_last_modified=2020-05-20;Name=Dcitr02g13090.1.1;date_creation=2020-05-20
-DC3.0sc02	.	exon	30589378	30589685	.	+	.	Parent=cd544d11-fe23-4dcd-9d3a-72786e4f65fe;ID=56de5a9b-b1aa-469e-9052-c5d859305037;Name=56de5a9b-b1aa-469e-9052-c5d859305037
-DC3.0sc02	.	exon	30592684	30592935	.	+	.	Parent=cd544d11-fe23-4dcd-9d3a-72786e4f65fe;ID=f515c85f-086e-4306-8a5a-6c7f1563dfcb;Name=f515c85f-086e-4306-8a5a-6c7f1563dfcb
-DC3.0sc02	.	exon	30590362	30590493	.	+	.	Parent=cd544d11-fe23-4dcd-9d3a-72786e4f65fe;ID=474151f0-006f-4c07-ad17-1f5394c86b69;Name=474151f0-006f-4c07-ad17-1f5394c86b69
-DC3.0sc02	.	exon	30588819	30589041	.	+	.	Parent=cd544d11-fe23-4dcd-9d3a-72786e4f65fe;ID=22da27ec-0066-4e0e-bb38-b4cd4b771cb1;Name=22da27ec-0066-4e0e-bb38-b4cd4b771cb1
-DC3.0sc02	.	exon	30593320	30593875	.	+	.	Parent=cd544d11-fe23-4dcd-9d3a-72786e4f65fe;ID=6fcf1a3a-49c7-4327-81a2-da628a446f40;Name=6fcf1a3a-49c7-4327-81a2-da628a446f40
-DC3.0sc02	.	exon	30589955	30590107	.	+	.	Parent=cd544d11-fe23-4dcd-9d3a-72786e4f65fe;ID=d250e1a0-2261-4919-8470-c1d9bbae1ab4;Name=d250e1a0-2261-4919-8470-c1d9bbae1ab4
-DC3.0sc02	.	exon	30590866	30591169	.	+	.	Parent=cd544d11-fe23-4dcd-9d3a-72786e4f65fe;ID=600bce9d-2c78-4cbc-8d66-f576cf7f7d3e;Name=600bce9d-2c78-4cbc-8d66-f576cf7f7d3e
-DC3.0sc02	.	exon	30591623	30591966	.	+	.	Parent=cd544d11-fe23-4dcd-9d3a-72786e4f65fe;ID=9e072537-aeb0-48f3-b3a7-5339f05da1b4;Name=9e072537-aeb0-48f3-b3a7-5339f05da1b4
-DC3.0sc02	.	CDS	30589454	30589685	.	+	0	Parent=cd544d11-fe23-4dcd-9d3a-72786e4f65fe;ID=ee138c8e-c91b-4460-a0a1-aee8e26d4c80;Name=ee138c8e-c91b-4460-a0a1-aee8e26d4c80
-DC3.0sc02	.	CDS	30589955	30590107	.	+	2	Parent=cd544d11-fe23-4dcd-9d3a-72786e4f65fe;ID=ee138c8e-c91b-4460-a0a1-aee8e26d4c80;Name=ee138c8e-c91b-4460-a0a1-aee8e26d4c80
-DC3.0sc02	.	CDS	30590362	30590493	.	+	2	Parent=cd544d11-fe23-4dcd-9d3a-72786e4f65fe;ID=ee138c8e-c91b-4460-a0a1-aee8e26d4c80;Name=ee138c8e-c91b-4460-a0a1-aee8e26d4c80
-DC3.0sc02	.	CDS	30590866	30591169	.	+	2	Parent=cd544d11-fe23-4dcd-9d3a-72786e4f65fe;ID=ee138c8e-c91b-4460-a0a1-aee8e26d4c80;Name=ee138c8e-c91b-4460-a0a1-aee8e26d4c80
-DC3.0sc02	.	CDS	30591623	30591966	.	+	1	Parent=cd544d11-fe23-4dcd-9d3a-72786e4f65fe;ID=ee138c8e-c91b-4460-a0a1-aee8e26d4c80;Name=ee138c8e-c91b-4460-a0a1-aee8e26d4c80
-DC3.0sc02	.	CDS	30592684	30592935	.	+	2	Parent=cd544d11-fe23-4dcd-9d3a-72786e4f65fe;ID=ee138c8e-c91b-4460-a0a1-aee8e26d4c80;Name=ee138c8e-c91b-4460-a0a1-aee8e26d4c80
-DC3.0sc02	.	CDS	30593320	30593477	.	+	2	Parent=cd544d11-fe23-4dcd-9d3a-72786e4f65fe;ID=ee138c8e-c91b-4460-a0a1-aee8e26d4c80;Name=ee138c8e-c91b-4460-a0a1-aee8e26d4c80
-###
 DC3.0sc02	.	gene	19009906	19022274	.	-	.	owner=tdshippy@gmail.com;ID=ed961c8f-d45e-4f9a-bf32-022ff8ecc604;date_last_modified=2020-05-26;Name=dorsal;date_creation=2020-05-26
 DC3.0sc02	.	mRNA	19009906	19022274	.	-	.	owner=tdshippy@gmail.com;symbol=dl;Parent=ed961c8f-d45e-4f9a-bf32-022ff8ecc604;Note=Based on MCOT04961.1.CO with 5 prime end adjusted to match IsoSeq;description=dorsal-RA;ID=d24cabfc-28aa-449e-9798-306cab265368;date_last_modified=2020-05-26;Name=Dcitr02g07710.1.1;date_creation=2020-05-26
 DC3.0sc02	.	non_canonical_five_prime_splice_site	19010262	19010262	.	-	.	Parent=d24cabfc-28aa-449e-9798-306cab265368;ID=d24cabfc-28aa-449e-9798-306cab265368-non_canonical_five_prime_splice_site-19010261;Name=d24cabfc-28aa-449e-9798-306cab265368-non_canonical_five_prime_splice_site-19010261
@@ -294,22 +276,6 @@ DC3.0sc02	.	CDS	19017312	19017511	.	-	2	Parent=1c80ecd3-ac42-4fd9-b7d4-d3a46e9ea
 DC3.0sc02	.	CDS	19016797	19017040	.	-	0	Parent=1c80ecd3-ac42-4fd9-b7d4-d3a46e9ea8e7;ID=4c4078bd-f417-4f60-a34d-7bb40e5577f7;Name=4c4078bd-f417-4f60-a34d-7bb40e5577f7
 DC3.0sc02	.	CDS	19016203	19016331	.	-	2	Parent=1c80ecd3-ac42-4fd9-b7d4-d3a46e9ea8e7;ID=4c4078bd-f417-4f60-a34d-7bb40e5577f7;Name=4c4078bd-f417-4f60-a34d-7bb40e5577f7
 DC3.0sc02	.	CDS	19014448	19015886	.	-	2	Parent=1c80ecd3-ac42-4fd9-b7d4-d3a46e9ea8e7;ID=4c4078bd-f417-4f60-a34d-7bb40e5577f7;Name=4c4078bd-f417-4f60-a34d-7bb40e5577f7
-###
-DC3.0sc02	.	gene	24867434	24888453	.	+	.	owner=tdshippy@gmail.com;ID=28dad41e-d1c7-4bf6-96f3-aff6969c793f;date_last_modified=2020-05-29;Name=putative cytochrome P450 4C1;date_creation=2020-05-29
-DC3.0sc02	.	mRNA	24867434	24888453	.	+	.	owner=tdshippy@gmail.com;Parent=28dad41e-d1c7-4bf6-96f3-aff6969c793f;Note=Based on DcDTi03283.1. Trimmed 3 prime UTR because of lack of evidence.;description=putative cytochrome P450 4C1;ID=1b92a73a-b91b-4fa5-a671-15b999e8859a;date_last_modified=2020-05-29;Name=Dcitr02g10280.1.1;date_creation=2020-05-29
-DC3.0sc02	.	exon	24868810	24869099	.	+	.	Parent=1b92a73a-b91b-4fa5-a671-15b999e8859a;ID=c522b9a4-e7c7-4456-bea5-b85a7d6b30d7;Name=c522b9a4-e7c7-4456-bea5-b85a7d6b30d7
-DC3.0sc02	.	exon	24887574	24887769	.	+	.	Parent=1b92a73a-b91b-4fa5-a671-15b999e8859a;ID=d600ba9e-75ce-498e-aa1c-bd8e757111a8;Name=d600ba9e-75ce-498e-aa1c-bd8e757111a8
-DC3.0sc02	.	exon	24886866	24887333	.	+	.	Parent=1b92a73a-b91b-4fa5-a671-15b999e8859a;ID=1fd61d5c-7990-4c94-8d23-cfd4d4de07c3;Name=1fd61d5c-7990-4c94-8d23-cfd4d4de07c3
-DC3.0sc02	.	exon	24867434	24867701	.	+	.	Parent=1b92a73a-b91b-4fa5-a671-15b999e8859a;ID=376aa8f5-49c5-4ae9-97e5-14f17a86c711;Name=376aa8f5-49c5-4ae9-97e5-14f17a86c711
-DC3.0sc02	.	CDS	24868837	24869099	.	+	0	Parent=1b92a73a-b91b-4fa5-a671-15b999e8859a;ID=cd1cf812-49b8-4b88-b43a-00033ccea2a7;Name=cd1cf812-49b8-4b88-b43a-00033ccea2a7
-DC3.0sc02	.	CDS	24882622	24882770	.	+	1	Parent=1b92a73a-b91b-4fa5-a671-15b999e8859a;ID=cd1cf812-49b8-4b88-b43a-00033ccea2a7;Name=cd1cf812-49b8-4b88-b43a-00033ccea2a7
-DC3.0sc02	.	CDS	24883198	24883493	.	+	2	Parent=1b92a73a-b91b-4fa5-a671-15b999e8859a;ID=cd1cf812-49b8-4b88-b43a-00033ccea2a7;Name=cd1cf812-49b8-4b88-b43a-00033ccea2a7
-DC3.0sc02	.	CDS	24886866	24887333	.	+	0	Parent=1b92a73a-b91b-4fa5-a671-15b999e8859a;ID=cd1cf812-49b8-4b88-b43a-00033ccea2a7;Name=cd1cf812-49b8-4b88-b43a-00033ccea2a7
-DC3.0sc02	.	CDS	24887574	24887769	.	+	0	Parent=1b92a73a-b91b-4fa5-a671-15b999e8859a;ID=cd1cf812-49b8-4b88-b43a-00033ccea2a7;Name=cd1cf812-49b8-4b88-b43a-00033ccea2a7
-DC3.0sc02	.	CDS	24888023	24888375	.	+	2	Parent=1b92a73a-b91b-4fa5-a671-15b999e8859a;ID=cd1cf812-49b8-4b88-b43a-00033ccea2a7;Name=cd1cf812-49b8-4b88-b43a-00033ccea2a7
-DC3.0sc02	.	exon	24888023	24888453	.	+	.	Parent=1b92a73a-b91b-4fa5-a671-15b999e8859a;ID=a2ade556-e8ec-4dc8-a528-3bd836b8d7c1;Name=a2ade556-e8ec-4dc8-a528-3bd836b8d7c1
-DC3.0sc02	.	exon	24883198	24883493	.	+	.	Parent=1b92a73a-b91b-4fa5-a671-15b999e8859a;ID=4d735f1f-2911-4d93-8fd5-db4370b800cb;Name=4d735f1f-2911-4d93-8fd5-db4370b800cb
-DC3.0sc02	.	exon	24882622	24882770	.	+	.	Parent=1b92a73a-b91b-4fa5-a671-15b999e8859a;ID=23fafb17-e638-47b6-91c8-4f24fcbc9030;Name=23fafb17-e638-47b6-91c8-4f24fcbc9030
 ###
 DC3.0sc02	.	gene	32283900	32285979	.	+	.	owner=tamayoba@mail.irsc.edu;ID=0ddbdcb0-c0b3-4267-b6e3-5d470a66c612;date_last_modified=2020-06-01;Name=Chromatin accessibility complex protein 1;date_creation=2020-06-01
 DC3.0sc02	.	mRNA	32283900	32285979	.	+	.	owner=tamayoba@mail.irsc.edu;Parent=0ddbdcb0-c0b3-4267-b6e3-5d470a66c612;description=Chromatin accessibility complex protein 1;ID=640b6812-841d-436d-a215-00978773bd29;date_last_modified=2020-06-01;Name=Dcitr02g13895.1.1;date_creation=2020-06-01
