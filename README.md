@@ -9,3 +9,4 @@ Checklist:
 	* Change iso/isoform to RA/RB/RC format in mRNA name (gene name should NOT include isoform information)
 	* description = Move extra text in name over here. Change all special symbols like % and ' to percent and prime
 
+![image](https://user-images.githubusercontent.com/1084749/209436874-688f5895-65d8-48bc-8643-0438c2c6b251.png)
